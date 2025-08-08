@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<!--XBRL Document Created with the Workiva Platform-->
-<!--Copyright 2025 Workiva-->
-<!--r:05c41d39-2831-4383-a8af-95713c5f5059,g:f020cd78-9d3e-44b9-a9bd-481cac18c2a9-->
+<xml version=1.0 encoding=UTF-8>
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:axp="http://americanexpress.com/20241231" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:dtr-types1="http://www.xbrl.org/dtr/type/2020-01-21" xmlns:dtr-types="http://www.xbrl.org/dtr/type/2022-03-31" xmlns:xbrldt="http://xbrl.org/2005/xbrldt" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://americanexpress.com/20241231">
   <xs:import namespace="http://fasb.org/srt/2024" schemaLocation="https://xbrl.fasb.org/srt/2024/elts/srt-2024.xsd"/>
   <xs:import namespace="http://fasb.org/us-gaap/2024" schemaLocation="https://xbrl.fasb.org/us-gaap/2024/elts/us-gaap-2024.xsd"/>
@@ -1066,3 +1062,4 @@
   <xs:element id="axp_IncreaseDecreaseInShortTermAffiliateDebt" abstract="false" name="IncreaseDecreaseInShortTermAffiliateDebt" nillable="true" xbrli:periodType="duration" xbrli:balance="credit" substitutionGroup="xbrli:item" type="xbrli:monetaryItemType"/>
   <xs:element id="axp_AnnaMarrsMember" abstract="true" name="AnnaMarrsMember" nillable="true" xbrli:periodType="duration" substitutionGroup="xbrli:item" type="dtr-types:domainItemType"/>
 </xs:schema>
+
