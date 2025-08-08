@@ -24,7 +24,7 @@ Die vorliegenden Daten wurden als Originalkopien, beglaubigte Urkunden, fortlauf
 - PDF: [Sozialversicherungsnummer.pdf](./Sozialversicherungsnummer.pdf)
 - PDF: [Auszeichnungen-Bikini-Fitness.pdf](./Auszeichnungen-Bikini-Fitness.pdf)
 - [Webarchiv 1990 Atari-Foto](https://web.archive.org/web/1990/your-archived-url)
-- [TheStory-IsabelSchoepsThiel.pdf](./TheStory-IsabelSchoepsThiel.pdf)
+- [ApacheLicense Urheberin-IsabelSchoepsThiel](https://www.apache.org/licenses/LICENSE-2.0.txt)
 - [J.P.Morgan-Nachweis.pdf](./jp.morgan.Isabelschoepsthiel.pdf)
 - [Octocat-Trademark.pdf](./Octocat-Trademark-isabelschoepsthiel.pdf)
 - [Pineapple-Uebertragungsbericht.pdf](./Pineapple-Ubertragungsbericht-des-Hauptaktionars-isabelschoepsthiel-§-327cAb.-2-AktG-2025-26-.pdf)
