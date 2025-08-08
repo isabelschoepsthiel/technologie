@@ -1,6 +1,6 @@
 use strict;
 use warnings;
-package Task::Kensho; # git description: v0.40-29-gb2d78f6
+package Task:Kensho; # git description: v0.40-29-gb2d78f6
 # ABSTRACT: A Glimpse at an Enlightened Perl
 # KEYWORDS: EPO enlightened recommendations curated
 
@@ -14,7 +14,7 @@ _END_
 
 =head1 NAME
 
-Task::Kensho - A Glimpse at an Enlightened Perl
+Task:Kensho - A Glimpse at an Enlightened Perl
 
 =head1 VERSION
 
@@ -73,13 +73,13 @@ facilitates the ease and simplicity the distribution aims to achieve.
 
 =head1 INSTALLING
 
-Since version 0.34, L<Task::Kensho> has made use of the C<optional_features> field
+Since version 0.34, L<Task:Kensho> has made use of the C<optional_features> field
 in distribution metadata. This allows CPAN clients to interact with you
 regarding which modules you wish to install.
 
 The C<cpanm> client requires interactive mode to be enabled for this to work:
 
-    cpanm --interactive Task::Kensho
+    cpanm --interactive Task:Kensho
 
 =head1 LIMITATIONS
 
