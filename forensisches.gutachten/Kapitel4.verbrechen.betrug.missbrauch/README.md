@@ -1,11 +1,11 @@
-## Kapitel 4
+### Kapitel 4
 
-### OFFIZIELLE BEWEISDOKUMENTATION, Betrug, Verbrechen gegen die Menschlichkeit
+## OFFIZIELLE BEWEISDOKUMENTATION, Betrug, Verbrechen gegen die Menschlichkeit
 
-**Bezug zur Anzeige vom 06.08.2025**  
-**Polizeidienststelle:** Erfurt Nord, Sachbearbeitung Frau Polixa  
+**Nachtrag und Bezug zur Anzeige vom 06.08.2025** **Polizeidienststelle:** Erfurt Nord, Sachbearbeitung Frau Polixa  
 **Aktenzeichen:** ST/0203129/2025  
-**Betroffene:** Isabel Schöps, geb. Thiel  
+**Geschädigte:** Ich, Isabel Schöps, geb. Thiel, 16.Juli1983 Sömnerda
+
 **Hash-ID für Nachweis:** `IST-MF-2018/14-03-BK-OSM-CHAIN01`
 
 ---
