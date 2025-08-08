@@ -1,9 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<!--XBRL Document Created with the Workiva Platform-->
-<!--Copyright 2025 Workiva-->
-<!--r:05c41d39-2831-4383-a8af-95713c5f5059,g:f020cd78-9d3e-44b9-a9bd-481cac18c2a9-->
-<link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd">
+<xml version=1.0 encoding=UTF-8> <link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd">
   <link:roleRef roleURI="http://americanexpress.com/role/ConsolidatedStatementsofIncome" xlink:type="simple" xlink:href="axp-20241231.xsd#ConsolidatedStatementsofIncome"/>
   <link:calculationLink xlink:role="http://americanexpress.com/role/ConsolidatedStatementsofIncome" xlink:type="extended">
     <link:loc xlink:type="locator" xlink:label="loc_us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest_ac7502f8-80ae-4e58-8b81-a728422a7ec6" xlink:href="https://xbrl.fasb.org/us-gaap/2024/elts/us-gaap-2024.xsd#us-gaap_IncomeLossFromContinuingOperationsBeforeIncomeTaxesExtraordinaryItemsNoncontrollingInterest"/>
@@ -636,3 +631,4 @@
     <link:calculationArc order="4" weight="-1.0" xlink:arcrole="http://www.xbrl.org/2003/arcrole/summation-item" xlink:from="loc_us-gaap_NetCashProvidedByUsedInOperatingActivities_a3939d96-5017-4faa-9094-b5cf433443fe" xlink:to="loc_us-gaap_IncreaseDecreaseInOtherOperatingCapitalNet_1a47acf5-0e2a-4b19-aed5-8c2d2ec1a633" xlink:type="arc"/>
   </link:calculationLink>
 </link:linkbase>
+
