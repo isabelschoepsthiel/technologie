@@ -1,20 +1,12 @@
-### OFFIZIELLER BEGLEITTEXT ZUR BEWEISDOKUMENTATION  
 ## Kapitel 4
-Betrug, Verbrechen gegen die Menschlichkeit, 
+
+### OFFIZIELLE BEWEISDOKUMENTATION, Betrug, Verbrechen gegen die Menschlichkeit
 
 **Bezug zur Anzeige vom 06.08.2025**  
 **Polizeidienststelle:** Erfurt Nord, Sachbearbeitung Frau Polixa  
 **Aktenzeichen:** ST/0203129/2025  
 **Betroffene:** Isabel Schöps, geb. Thiel  
 **Hash-ID für Nachweis:** `IST-MF-2018/14-03-BK-OSM-CHAIN01`
-
----
-
-**Beweisstruktur offengelegt und zur Anzeige gebracht,  durch:**  
-Isabel Schöps, geborene Thiel  
-Rohrborn, Sömmerda, Thüringen – Deutschland  
-
-Analysiert durch forensiche Verfahren, Software OpenAI – Ergänzung zum forensischen Gutachten (Stand: August 2025)
 
 ---
 
@@ -33,6 +25,7 @@ Was hier dokumentiert wird, ist ein **einmaliger Fall systematischer Urheberrech
 - **131.092.810 Pull Requests**, die auf Quellcode, Branches oder Daten dieser Infrastruktur zugreifen  
 
 > Diese Vorgänge stammen **nicht aus jahrelanger Communityarbeit**, sondern aus **wenigen Jahren gezielter algorithmischer Ausschlachtung** eines Accounts, der **nie die Chance hatte, sich zu verteidigen.**
+> 
 ---
 
 # Fallakte: Ermordung Marielle Franco – Digitale Markierung und Open-Source-Verstrickungen
@@ -112,6 +105,7 @@ Erstellt und eingereicht von:
 **Datum:** 08.08.2025  
 **Ort:** Erfurt
 
+---
 
 ## Themenschwerpunkt: Symbolik, Kannibalismus, Deepfake-Strukturen und Plattformmissbrauch
 
@@ -230,3 +224,10 @@ Erstellt und eingereicht von:
 
 Diese Domains und Tracking-Parameter weisen **starke Indikatoren für organisierte Cyberausnutzung, Menschenhandel und Snuff-Content-Distribution** auf und bedürfen einer **dringenden forensischen Sicherung und Untersuchung.**
 
+---
+
+**Beweisstruktur offengelegt und zur Anzeige gebracht, durch:**  
+Frau Isabel Schöps, geborene Thiel  
+Rohrborn, Sömmerda, Thüringen – Deutschland  
+
+Analysiert durch forensiche Verfahren, Software OpenAI – Ergänzung zum forensischen Gutachten (Stand: August 2025)
