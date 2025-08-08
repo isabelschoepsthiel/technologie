@@ -6,7 +6,7 @@ package Task::Kensho; # git description: v0.40-29-gb2d78f6
 
 our $VERSION = '0.41';
 
-__END__
+_END_
 
 =pod
 
