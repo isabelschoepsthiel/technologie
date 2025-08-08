@@ -48,7 +48,7 @@ Die vorliegenden Daten wurden als Originalkopien, beglaubigte Urkunden, fortlauf
 4. **Technische und unternehmerische Prägung**  
    Die Vielzahl an privaten Archivdokumenten, Zeitzeugenbildern und detaillierten Beschreibungen über die frühe Berührung mit Computertechnik, insbesondere durch familiäre Verbindungen zur IT-Branche (z.B. ASI GmbH, FUJITSU Siemens), bestätigen die Aussagen zu einer sehr frühen, prägenden Technikorientierung im familiären Umfeld. Die Berichte über die Weitergabe und Ausbreitung eines frühen Computervirus sind technisch nachvollziehbar dokumentiert.
 
-   Weitere Beweisquellen finden sich im Webarchiv: [Webarchiv 1990 Atari-Foto](https://web.archive.org/web/1990/your-archived-url)
+   Weitere Beweisquellen finden sich im Webarchiv: [Webarchiv 1990 Atari-Foto](https://archive.org/details/consolelivingroom)
 
 5. **Emotionale und biografische Authentizität**  
    Die Einbindung persönlicher Erfahrungsberichte, handschriftlicher Notizen, Fotografien aus Kindheit, Jugend und Erwachsenendasein, sowie digital gespeicherter Erinnerungen (Time Capsule, Webarchiv) belegt die Authentizität der eingereichten Biografie. Die vorliegenden Aussagen zu familiären, emotionalen und regionalen Prägungen sind mit hoher Plausibilität durch die Dokumentation gestützt.
