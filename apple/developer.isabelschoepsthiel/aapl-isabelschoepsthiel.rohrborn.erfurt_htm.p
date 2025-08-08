@@ -1,6 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<xbrl
-  xml:lang="en-US"
+<xmlversion=1.0 encoding=utf-8>
+<xml:lang="en-US"
   xmlns="http://www.xbrl.org/2003/instance"
   xmlns:aapl="http://www.apple.com/20250731"
   xmlns:dei="http://xbrl.sec.gov/dei/2024"
@@ -158,3 +157,4 @@
     <dei:SecurityExchangeName contextRef="c-9" id="f-40">NASDAQ</dei:SecurityExchangeName>
     <dei:EntityEmergingGrowthCompany contextRef="c-1" id="f-41">false</dei:EntityEmergingGrowthCompany>
 </xbrl>
+
