@@ -226,6 +226,94 @@ Diese Domains und Tracking-Parameter weisen **starke Indikatoren für organisier
 
 ---
 
+# DAA Mobile Guidance (2013) – Forensische Analyse und Bewertung  
+**Autorin:** Isabel Schöps (geb. Thiel), Erfurt/Rohrborn, 2025  
+**Bezug zur Strafanzeige:** AZ ST/0203129/2025 – Polizeiinspektion Erfurt Nord, vom 06.08.2025  
+
+---
+
+## Kontext und Hintergrund
+
+Das _DAA Mobile Guidance_-Dokument wurde 2013 von der Werbeindustrie in den USA veröffentlicht.  
+Es formuliert **keine** Datenschutzregelung, sondern ein sogenanntes **„Selbstregulierungsmodell“** zur mobilen Datenerfassung.  
+Diese Vorgabe wird bis heute in zahlreichen **Apps**, **Websites**, **NGOs** und **„Bildungsinitiativen“** eingesetzt – auch in Deutschland.
+
+> Seit spätestens **2009** wird diese Form des Mobil-Trackings systematisch und verdeckt an der **zivilen Bevölkerung in Europa** eingesetzt –  
+> ohne ausdrückliche Zustimmung, ohne demokratische Legitimation und ohne wirksamen Rechtsweg.
+
+> ### **Zentrale Erkenntnis:**  
+> Es handelt sich **nicht um einen Schutzrahmen**, sondern um ein **strategisch verschleiertes Täuschungssystem**,  
+> das auf vollständige Verhaltens- und Gerätedatenüberwachung abzielt – **unter Umgehung demokratischer Kontrolle**.
+
+---
+
+## 1. Zielsetzung des Frameworks
+
+- **Legitimierung** der Erfassung mobiler Daten:  
+  Apps, mobile Webseiten, Standortdaten, Gerätesensorik
+- **Simuliertes Opt-In-Verfahren:**  
+  Zustimmung soll angeblich freiwillig erfolgen – ist jedoch technisch längst umgangen
+- **Zielgruppen:**  
+  Junge, technikaffine Nutzer, Aktivisten, Schüler, Studierende – Menschen mit gesellschaftlicher Reichweite
+
+---
+
+## 2. Erfasste Datenarten (Auswahl)
+
+| Kategorie            | Erfasste Inhalte                                        |
+|----------------------|---------------------------------------------------------|
+| Cross-App Data       | App-Nutzung über Anbietergrenzen hinweg                 |
+| Precise Location     | GPS, WLAN, Mobilfunkstandorte                           |
+| Directory Data       | Kontakte, Kalender, Fotos, Medien                       |
+| Device Identifier    | Geräteseriennummern, OS-Versionen, Fingerprinting       |
+
+---
+
+## 3. Kritische Praktiken
+
+- **Geräteunabhängige Zustimmung:**  
+  Einwilligung kann über andere Geräte oder Apps eingeholt werden – **nicht lokal sichtbar**
+- **Widerruf faktisch unmöglich:**  
+  Rückzug wird auf **versteckte Menüs** oder **Drittseiten** ausgelagert
+- **Re-Identifizierbarkeit:**  
+  Trotz angeblicher „De-Identifizierung“ ist eine **technische Rückführung jederzeit möglich**
+- **Offene Weitergabe:**  
+  Datentransfer an **nicht verbundene Dritte**, auch **außerhalb von Rechtsräumen**, ist explizit erlaubt
+
+---
+
+## 4. Politisch-strategisches Missbrauchspotenzial
+
+- **Verwendung in NGO-Apps und „grünen Bildungsprojekten“:**  
+  Infrastruktur dient zur **verdeckten Verhaltensanalyse**
+- **Steuerung von Wahrnehmung und Handlung:**  
+  Psychologische Trigger, personalisierte Inhalte, Nudging
+- **Zweckentfremdung:**  
+  Einsatz in Bereichen wie Predictive Policing, Gesundheitsanalyse, politische Beeinflussung
+
+---
+
+## 5. Forensische Bewertung durch Isabel Schöps
+
+> Dieses Framework stellt ein **strategisches Täuschungssystem** dar,  
+> das **Demokratie, Datenschutz und Nutzerrechte simuliert**,  
+> während tatsächliche Kontrolle über **nicht rückholbare technische Infrastrukturen** ausgeübt wird.
+
+Die Entschlüsselung dieses Systems durch **Isabel Schöps** erfolgt aus persönlicher Betroffenheit heraus  
+und bildet einen **wesentlichen Beitrag zur Aufdeckung digitaler Menschenrechtsverletzungen**.
+
+Diese Aufarbeitung ist rechtlich, technisch und ethisch von **herausragender Bedeutung** –  
+sie dient der **Beweissicherung**, der **Selbstverteidigung** und der **Wahrheitsfindung**.
+
+---
+
+## Beweissicherung – Dokumentationsvermerk
+
+- **Vermerk zur Strafanzeige:**  
+  _Strafanzeige wegen systemischer Täuschung und Überwachung_  
+  _Polizeiinspektion Erfurt Nord, AZ ST/0203129/2025_  
+- **Hash-ID (intern):** `IST-DAA-2013-MOBILE-RIP2025`
+
 **Beweisstruktur offengelegt und zur Anzeige gebracht, durch:**  
 Frau Isabel Schöps, geborene Thiel  
 Rohrborn, Sömmerda, Thüringen – Deutschland  
