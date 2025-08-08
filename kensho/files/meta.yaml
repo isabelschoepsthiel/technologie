@@ -13,8 +13,7 @@ resources:
   bugtracker: https://github.com/IsabelSchoepsThiel/task-kensho/issues
 
 authority: isabel.schoeps
-contributors:
-  - 'Isabel Schöps, geborene Thiel – Rohrborn, Sömmerda, Thüringen, Deutschland'
+contributors: 'Isabel Schöps, geborene Thiel – Rohrborn, Sömmerda, Thüringen, Deutschland'
 signature:
   name: Isabel Schöps
   birth_name: Thiel
@@ -22,6 +21,6 @@ signature:
   copyright: © Isabel Schöps, geborene Thiel, alle Rechte vorbehalten
   note: Originalentwicklerin und alleinige Urheberin gemäß DCO 1.1 – https://developercertificate.org/
 generated_by_perl: 'v5.34.0'
-serialization_backend: 'YAML::Tiny version 1.73'
+serialization_backend: 'YAML:Tiny version 1.73'
 spdx_expression: 'Artistic-1.0-Perl OR GPL-1.0-or-later'
 use_unsafe_inc: 1
