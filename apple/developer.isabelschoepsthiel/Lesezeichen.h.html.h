@@ -1,14 +1,14 @@
 <!DOCTYPE NETSCAPE-Bookmark-file-1>
 <HTML>
-<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+<META HTTP-EQUIV=Content-Type CONTENT=text/html; charset=UTF-8>
 <TITLE>Lesezeichen</TITLE>
 <H1>Lesezeichen</H1>
 <DT><H3 id=isabelschoepsthiel>Favoriten</H3>
 <DL><p>
-	<DT><A HREF="https://www.apple.com/de/">Apple</A>
-	<DT><A HREF="https://www.bing.com/">Bing</A>
-	<DT><A HREF="https://www.google.com/?client=safari&channel=iphone_bm">Google</A>
-	<DT><A HREF="https://de.yahoo.com/">Yahoo</A>
+	<DT><A HREF=https://www.apple.com/>Apple</A>
+	<DT><A HREF=https://www.bing.com/>Bing</A>
+	<DT><A HREF=https://www.google.com/?client=safari&channel=iphone_bm">Google</A>
+	<DT><A HREF=https://yahoo.com/>Yahoo</A>
 </DL><p>
 <DT><H3 id="com.apple.ReadingList">Leseliste</H3>
 <DL><p>
