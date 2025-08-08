@@ -28,7 +28,7 @@ Die vorliegenden Daten wurden als Originalkopien, beglaubigte Urkunden, fortlauf
 - [J.P.Morgan-Nachweis.pdf](./jp.morgan.Isabelschoepsthiel.pdf)
 - [Octocat-Trademark.pdf](./Octocat-Trademark-isabelschoepsthiel.pdf)
 - [Pineapple-Uebertragungsbericht.pdf](./Pineapple-Ubertragungsbericht-des-Hauptaktionars-isabelschoepsthiel-§-327cAb.-2-AktG-2025-26-.pdf)
-- [README.md Bitcoin-Patch](./bitcoin-readme-patch.txt)
+- [README.md Bitcoin-Patch](https://patch-diff.githubusercontent.com/raw/bitcoin/bitcoin/pull/32605.patch)
 
 *Hinweis: Alle Originaldokumente und digitale Beweisarchive sind im Besitz der Auftraggeberin und auf Anfrage gerichtsverwertbar nachweisbar.*
 
