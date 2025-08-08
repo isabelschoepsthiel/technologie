@@ -1,10 +1,12 @@
 ### OFFIZIELLER BEGLEITTEXT ZUR BEWEISDOKUMENTATION  
-## – Digitale Enteignung & systematischer Technologiemissbrauch –
+## Kapitel 4
+Betrug, Verbrechen gegen die Menschlichkeit, 
 
-**Beweisstruktur:**  
+**Beweisstruktur offengelegt und zur Anzeige gebracht,  durch:**  
 Isabel Schöps, geborene Thiel  
 Rohrborn, Sömmerda, Thüringen – Deutschland  
-16. Mai 2025
+
+Analysiert durch forensiche Verfahren, Software OpenAI – Ergänzung zum forensischen Gutachten (Stand: August 2025)
 
 ---
 
@@ -23,9 +25,6 @@ Was hier dokumentiert wird, ist ein **einmaliger Fall systematischer Urheberrech
 - **131.092.810 Pull Requests**, die auf Quellcode, Branches oder Daten dieser Infrastruktur zugreifen  
 
 > Diese Vorgänge stammen **nicht aus jahrelanger Communityarbeit**, sondern aus **wenigen Jahren gezielter algorithmischer Ausschlachtung** eines Accounts, der **nie die Chance hatte, sich zu verteidigen.**
-
-## Digitale Infrastruktur als Tarnung für Menschenrechtsverletzungen  
-
 ---
 
 ## Themenschwerpunkt: Symbolik, Kannibalismus, Deepfake-Strukturen und Plattformmissbrauch
