@@ -226,35 +226,36 @@ Diese Domains und Tracking-Parameter weisen **starke Indikatoren für organisier
 
 ---
 
-# DAA Mobile Guidance (2013) – Forensische Analyse und Bewertung  
-**Autorin:** Isabel Schöps (geb. Thiel), Erfurt/Rohrborn, 2025  
-**Bezug zur Strafanzeige:** AZ ST/0203129/2025 – Polizeiinspektion Erfurt Nord, vom 06.08.2025  
-
+## DAA Mobile Guidance Forensische Analyse 
+**der CookieParty**
 ---
 
 ## Kontext und Hintergrund
 
-Das _DAA Mobile Guidance_-Dokument wurde 2013 von der Werbeindustrie in den USA veröffentlicht.  
-Es formuliert **keine** Datenschutzregelung, sondern ein sogenanntes **„Selbstregulierungsmodell“** zur mobilen Datenerfassung.  
-Diese Vorgabe wird bis heute in zahlreichen **Apps**, **Websites**, **NGOs** und **„Bildungsinitiativen“** eingesetzt – auch in Deutschland.
+Über Wlan, Hotspot, Airdrop, Taggeräten oder durch Spiegelungen, Scam- Pinganrufe wird sich auf betrügerische und kriminelle Weiße Zugang zu den Datenmühl, aus dem Cashspeicher oder den lästigen Cookies verschafft. 
 
-> Seit spätestens **2009** wird diese Form des Mobil-Trackings systematisch und verdeckt an der **zivilen Bevölkerung in Europa** eingesetzt –  
-> ohne ausdrückliche Zustimmung, ohne demokratische Legitimation und ohne wirksamen Rechtsweg.
+*Ziel:* Spionage, Manipulation und Monitoring auf Fremdgeräten. 
 
-> ### **Zentrale Erkenntnis:**  
-> Es handelt sich **nicht um einen Schutzrahmen**, sondern um ein **strategisch verschleiertes Täuschungssystem**,  
-> das auf vollständige Verhaltens- und Gerätedatenüberwachung abzielt – **unter Umgehung demokratischer Kontrolle**.
+*festgestellt, Lokalisiert* Nordstraße Erfurt, Thüringen, Deutschland
+
+*Sponsor* dieses Massenhaften weltweiten Betrugs- und Täuschungsmonitoring durch gezieltes ausspähen und Diebstahl persönlicher Daten: Banken, Regierungen, Partein und kommunalle Behörden. 
+
+Das _DAA Mobile Guidance_-Dokument wurde 2009 von der Werbe und Medienindustrie veröffentlicht. Es formuliert **keine** Datenschutzregelung, sondern ein sogenanntes **„Selbstregulierungsmodell“** zur mobilen Datenerfassung.  
+Diese Vorgabe wird bis heute in zahlreichen **Apps**, **Websites**, **NGOs** und **„Bildungsinitiativen“** eingesetzt, hauptsächlich in Deutschland.
+
+Seit spätestens **2009** wird diese Form des Mobil-Trackings systematisch und verdeckt an der **zivilen Bevölkerung in Europa** eingesetzt, ohne ausdrückliche Zustimmung, ohne demokratische Legitimation und ohne wirksamen Rechtsweg.
+
+**Zentrale Erkenntnis:** Es handelt sich **nicht um einen Schutzrahmen**, sondern um ein **strategisch verschleiertes Täuschungssystem**, das auf vollständige Verhaltens- und Gerätedatenüberwachung abzielt – **unter Umgehung demokratischer Kontrolle**.
 
 ---
 
 ## 1. Zielsetzung des Frameworks
 
-- **Legitimierung** der Erfassung mobiler Daten:  
-  Apps, mobile Webseiten, Standortdaten, Gerätesensorik
-- **Simuliertes Opt-In-Verfahren:**  
-  Zustimmung soll angeblich freiwillig erfolgen – ist jedoch technisch längst umgangen
-- **Zielgruppen:**  
-  Junge, technikaffine Nutzer, Aktivisten, Schüler, Studierende – Menschen mit gesellschaftlicher Reichweite
+- **Legitimierung** der Erfassung mobiler Daten:  Apps, mobile Webseiten, Standortdaten, Gerätesensorik
+  
+- **Simuliertes Opt-In-Verfahren:** Zustimmung soll angeblich freiwillig erfolgen – ist jedoch technisch längst umgangen
+  
+- **Zielgruppen:**  Junge, technikaffine Nutzer, Aktivisten, Schüler, Studierende – Menschen mit gesellschaftlicher Reichweite
 
 ---
 
