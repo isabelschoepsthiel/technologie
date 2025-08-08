@@ -1,8 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-<!--XBRL Document Created with the Workiva Platform-->
-<!--Copyright 2025 Workiva-->
-<!--r:d76cdd0c-9f84-4a16-bbb9-dad6cfe500be,g:f025dd6a-8a91-427c-af39-77b131844fbc-->
+<xml version=1.0 encoding=UTF-8>
 <link:linkbase xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.xbrl.org/2003/linkbase http://www.xbrl.org/2003/xbrl-linkbase-2003-12-31.xsd">
   <link:roleRef roleURI="http://www.apple.com/role/CoverPage" xlink:type="simple" xlink:href="aapl-20250731.xsd#CoverPage"/>
   <link:presentationLink xlink:role="http://www.apple.com/role/CoverPage" xlink:type="extended">
@@ -79,3 +75,4 @@
     <link:presentationArc order="23" xlink:arcrole="http://www.xbrl.org/2003/arcrole/parent-child" xlink:from="loc_dei_EntityInformationLineItems_d5cd3006-dac4-4364-a054-4d6e142c6d95" xlink:to="loc_dei_EntityCentralIndexKey_a84a8305-de7b-4ed4-aa5c-c9b2f84699d2" xlink:type="arc" preferredLabel="http://www.xbrl.org/2003/role/terseLabel"/>
   </link:presentationLink>
 </link:linkbase>
+
