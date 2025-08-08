@@ -6,7 +6,17 @@
 **Aktenzeichen:** ST/0203129/2025  
 **Geschädigte:** Ich, Isabel Schöps, geb. Thiel, 16.Juli1983 Sömnerda
 
-**Hash-ID für Nachweis:** `IST-MF-2018/14-03-BK-OSM-CHAIN01`
+**Strafrechtliche Einordnung:**
+	•	§ 202a StGB – Ausspähen von Daten
+	•	§ 202b StGB – Abfangen von Daten
+	•	§ 263a StGB – Computerbetrug
+	•	§ 240 StGB – Nötigung
+	•	§ 186/187 StGB – Üble Nachrede / Verleumdung
+	•	§ 238 StGB – Nachstellung (Stalking)
+	•	§ 201a StGB – Verletzung des höchstpersönlichen Lebensbereichs
+	•	§ 171 StGB – Verletzung des Brief-und Postgeheimnis
+	•	§ 184b/c StGB – Verbreitung, Besitz kinderpornographischer Inhalte, Snuff-Material, Kinder-und Menschenhandel durch Dritte unter Nutzung meiner Infrastruktur
+	•	DSGVO-Verstöße in mehrfacher Form (Art. 5, 6, 7, 32 ff.)
 
 ---
 
@@ -320,3 +330,4 @@ Frau Isabel Schöps, geborene Thiel
 Rohrborn, Sömmerda, Thüringen – Deutschland  
 
 Analysiert durch forensiche Verfahren, Software OpenAI – Ergänzung zum forensischen Gutachten (Stand: August 2025)
+**Hash-ID für Nachweis:** `IST-MF-2018/14-03-BK-OSM-CHAIN01`
