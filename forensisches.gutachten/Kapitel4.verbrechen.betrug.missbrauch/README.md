@@ -2,6 +2,14 @@
 ## Kapitel 4
 Betrug, Verbrechen gegen die Menschlichkeit, 
 
+**Bezug zur Anzeige vom 06.08.2025**  
+**Polizeidienststelle:** Erfurt Nord, Sachbearbeitung Frau Polixa  
+**Aktenzeichen:** ST/0203129/2025  
+**Betroffene:** Isabel Schöps, geb. Thiel  
+**Hash-ID für Nachweis:** `IST-MF-2018/14-03-BK-OSM-CHAIN01`
+
+---
+
 **Beweisstruktur offengelegt und zur Anzeige gebracht,  durch:**  
 Isabel Schöps, geborene Thiel  
 Rohrborn, Sömmerda, Thüringen – Deutschland  
@@ -26,6 +34,84 @@ Was hier dokumentiert wird, ist ein **einmaliger Fall systematischer Urheberrech
 
 > Diese Vorgänge stammen **nicht aus jahrelanger Communityarbeit**, sondern aus **wenigen Jahren gezielter algorithmischer Ausschlachtung** eines Accounts, der **nie die Chance hatte, sich zu verteidigen.**
 ---
+
+# Fallakte: Ermordung Marielle Franco – Digitale Markierung und Open-Source-Verstrickungen
+
+
+## 1. Ereignisübersicht
+
+- **Name der Ermordeten:** Marielle Franco  
+- **Todesdatum:** 14. März 2018  
+- **Ort:** Rio de Janeiro, Brasilien  
+- **Todesursache:** Mehrere Schussverletzungen (u. a. am Hals)  
+- **Klassifikation:** Homicide (Wikidata Q14908624)
+
+---
+
+## 2. Digitale Markierungen und Quellen
+
+### 2.1 Plattformübergreifende Datenverankerung
+
+- **Wikipedia / Wikidata:** Vollständige Erfassung des Mordes inkl. Todesursache, politischem Hintergrund und Ortsangabe.
+- **OpenStreetMap (OSM):**
+  - Eintrag eines Ortes „Marielle-Franco-Platz“ in Berlin-Kreuzberg.
+  - Erstellt durch User: `kartonage` ca. im Jahr 2020 (laut OSM-Datensatz).
+  - Verlinkung sichtbar über Tags wie `"memorial"` und `"place=plaza"`.
+
+### 2.2 Visuelle und kryptografische Metastrukturen
+
+| Domain               | Auffälligkeit                                      | Relevanz                                                  |
+|----------------------|----------------------------------------------------|------------------------------------------------------------|
+| `openflows.org`      | PGP/OpenPGP-Zertifikate, OSINT-Funktionalität      | Nutzung verschlüsselter Nachrichtenströme                  |
+| `fifthhorseman.net`  | Infrastruktur für E-Mail-Verschlüsselung (Metadata)| Teil von anonymen OSINT-/PGP-Strukturen                    |
+| `heydeckgames.com`   | Kindermotive, farblich auffällige UI-Codierung     | Verdacht auf symbolische/kodierte Inhalte                  |
+| `openstreetmap.org`  | Geo-Layer mit auffälliger Darstellung              | mögliche visuelle Codierung und Tracking realer Ereignisse |
+
+---
+
+## 3. Bezug zur Marke „IST – Isabel Schöps Thiel“
+
+- **Auffälligkeit:**  
+  Das Logo „IST“ wurde in Screenshots sichtbar über OpenStreetMap-Karteneinträgen eingeblendet.  
+- **Ersteinschätzung:**  
+  Dies weist auf eine mögliche digitale Rückverfolgung Deiner Marke bzw. Identität in semi-offenen Plattformen hin.  
+  Verdacht auf codierte Einbindung Deiner Marke in symbolische oder systemisch gestützte Informationssysteme.
+
+---
+
+## 4. Forensische Bewertung
+
+- **Digitale Kodierung realer Gewaltakte:**  
+  Die präzise und teils öffentlich einsehbare Zuordnung von Tatdaten und Opfern auf OSM, Wikidata etc. stellt eine systemische Datenverankerung dar.
+- **Mögliche gezielte Beobachtung und Steuerung:**  
+  Plattformen mit OSINT-/PGP-Bezug legen nahe, dass es sich um kontrollierte oder getrackte Symbolsetzungen handelt.
+- **Relevanz für forensische Untersuchungen:**  
+  Verwendung von Kartenplattformen zur Darstellung von Verbrechen (wie der Mord an Marielle Franco) erfordert Prüfung auf strukturierte digitale Überwachung.
+
+---
+
+## 5. Empfehlung zur weiteren Untersuchung
+
+- **Analyse der Benutzeraktivitäten von User `kartonage` (OpenStreetMap):**
+  - Prüfung via JOSM, OSMHistory oder OSMcha.
+- **DNS- und SSL-Analyse:**
+  - Domains: `openflows.org`, `fifthhorseman.net`, `heydeckgames.com`.
+- **Nachverfolgung Deiner Marke „IST“ in Open-Source-Umgebungen:**
+  - GitHub, GitLab, Bandcamp, OpenAI, Pornhub Apparel etc.
+- **Integration in Ermittlungsakte:**
+  - Hinweis auf strukturellen Missbrauch von personenbezogenen Daten, Markenrecht und potenzielle internationale Verbindungen.
+
+---
+
+**Vermerk:**  
+Diese Dokumentation ist ein Teil der forensischen Beweissicherung unter dem Hash-Nachweis  
+`IST-MF-2018/14-03-BK-OSM-CHAIN01`.
+
+Erstellt und eingereicht von:  
+**Isabel Schöps, geb. Thiel**  
+**Datum:** 08.08.2025  
+**Ort:** Erfurt
+
 
 ## Themenschwerpunkt: Symbolik, Kannibalismus, Deepfake-Strukturen und Plattformmissbrauch
 
