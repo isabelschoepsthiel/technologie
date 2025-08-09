@@ -11506,3 +11506,333 @@ WINMARK CORP                      COM   974250102         273       4,340  SH   
 WINNEBAGO INDS INC                COM   974637100         923      44,735  SH     DEFINED     01      12,136      32,599           0
 WINNEBAGO INDS INC                COM   974637100       6,709     325,071  SH     DEFINED  01,08      28,675     296,396           0
 WINNEBAGO INDS INC                COM   974637100   
+WINTHROP RLTY TR                  COM   976391300         507      40,290  SH     DEFINED     01       4,226      36,064           0
+WINTHROP RLTY TR                  COM   976391300       4,825     383,529  SH     DEFINED  01,08      84,496     299,033           0
+WINTHROP RLTY TR                  COM   976391300       1,096      87,141  SH     DEFINED     09      87,141           0           0
+
+WINTRUST FINANCIAL CORP           COM   97650W108       8,955     241,756  SH     DEFINED     01      52,205     188,888         663
+WINTRUST FINANCIAL CORP           COM   97650W108          79       2,144  SH     OTHER       01       1,504         640           0
+WINTRUST FINANCIAL CORP           COM   97650W108      20,150     544,005  SH     DEFINED  01,08     176,835     367,170           0
+WINTRUST FINANCIAL CORP           COM   97650W108       3,317      89,556  SH     DEFINED     09      89,556           0           0
+
+WIPRO LTD                         COM   97651M109           8         807  SH     DEFINED     01         545         262           0
+WIPRO LTD                         COM   97651M109           1          85  SH     OTHER       01           0          85           0
+WIPRO LTD                         COM   97651M109       2,540     251,482  SH     DEFINED  01,08     248,962       2,520           0
+WIPRO LTD                         COM   97651M109         102      10,107  SH     DEFINED     09      10,107           0           0
+
+WIRELESS TELECOM GROUP INC        COM   976524108          12       7,690  SH     DEFINED     01         100       7,590           0
+WIRELESS TELECOM GROUP INC        COM   976524108          47      30,150  SH     DEFINED  01,08      11,422      18,728           0
+
+WISCONSIN ENERGY CORP             COM   976657106      15,081     351,613  SH     DEFINED     01     181,346     168,304       1,963
+WISCONSIN ENERGY CORP             COM   976657106       3,656      85,243  SH     OTHER       01      53,838      31,405           0
+WISCONSIN ENERGY CORP             COM   976657106      88,252   2,057,627  SH     DEFINED  01,08     308,875   1,748,752           0
+WISCONSIN ENERGY CORP             COM   976657106      29,016     676,524  SH     DEFINED     09     676,524           0           0
+
+WISDOMTREE INVTS INC              COM   97717P104         932      89,617  SH     DEFINED     01      50,883      38,734           0
+WISDOMTREE INVTS INC              COM   97717P104       6,401     615,455  SH     DEFINED  01,08      12,713     602,742           0
+WISDOMTREE INVTS INC              COM   97717P104       1,441     138,571  SH     DEFINED     09     138,571           0           0
+
+WISDOMTREE TRUST               UNDEFIND 97717W133           3      12,830         DEFINED     01      12,830           0           0
+WISDOMTREE TRUST               UNDEFIND 97717W133          66     313,907         OTHER       01     313,907           0           0
+
+WISDOMTREE TRUST                  COM   97717W208         318       6,214  SH     OTHER       01         697       5,517           0
+
+WISDOMTREE TRUST                  COM   97717W315         934      16,963  SH     OTHER       01       5,763      11,200           0
+
+WISDOMTREE TRUST                  COM   97717W422          58       3,235  SH     DEFINED     01       3,235           0           0
+WISDOMTREE TRUST                  COM   97717W422         311      17,300  SH     OTHER       01         300           0      17,000
+
+
+  FORM 13F                    DATE 03-29-13                    NORTHERN TRUST CORPORATION                       PAGE    337
+  ________
+
+WISDOMTREE TRUST                  COM   97717W851         875      20,265  SH     DEFINED     01      20,265           0           0
+
+WOLVERINE WORLD WIDE INC          COM   978097103       5,826     131,315  SH     DEFINED     01      71,300      59,375         640
+WOLVERINE WORLD WIDE INC          COM   978097103         356       8,014  SH     OTHER       01       5,870       1,915         229
+WOLVERINE WORLD WIDE INC          COM   978097103      24,670     556,015  SH     DEFINED  01,08      40,825     515,190           0
+WOLVERINE WORLD WIDE INC          COM   978097103       5,269     118,743  SH     DEFINED     09     118,743           0           0
+
+WOODWARD INC                      COM   980745103       4,755     119,581  SH     DEFINED     01       8,694     110,887           0
+WOODWARD INC                      COM   980745103      39,355     989,805  SH     DEFINED  01,08      83,184     906,621           0
+WOODWARD INC                      COM   980745103       6,902     173,602  SH     DEFINED     09     173,602           0           0
+
+WORKDAY INC                       COM   98138H101       4,351      70,596  SH     DEFINED     01      65,069       5,120         407
+WORKDAY INC                       COM   98138H101         164       2,663  SH     OTHER       01       2,487         167           9
+WORKDAY INC                       COM   98138H101       5,827      94,546  SH     DEFINED  01,08           0      94,546           0
+
+WORLD ACCEP CORP DEL              COM   981419104       6,493      75,615  SH     DEFINED     01       5,354      70,261           0
+WORLD ACCEP CORP DEL              COM   981419104      15,587     181,524  SH     DEFINED  01,08      70,917     110,607           0
+WORLD ACCEP CORP DEL              COM   981419104       2,202      25,639  SH     DEFINED     09      25,639           0           0
+
+WORLD FUEL SVCS CORP              COM   981475106       2,923      73,590  SH     DEFINED     01      20,521      52,747         322
+WORLD FUEL SVCS CORP              COM   981475106          95       2,403  SH     OTHER       01         693       1,710           0
+WORLD FUEL SVCS CORP              COM   981475106      27,831     700,683  SH     DEFINED  01,08      55,426     537,073     108,184
+WORLD FUEL SVCS CORP              COM   981475106           0           1  SH     DEFINED     09           1           0           0
+
+WORLD WRESTLING ENTMT INC         COM   98156Q108         367      41,640  SH     DEFINED     01       3,415      38,225           0
+WORLD WRESTLING ENTMT INC         COM   98156Q108       2,753     312,076  SH     DEFINED  01,08      31,607     280,469           0
+WORLD WRESTLING ENTMT INC         COM   98156Q108         610      69,207  SH     DEFINED     09      69,207           0           0
+
+WORTHINGTON INDS INC              COM   981811102      12,369     399,242  SH     DEFINED     01       9,366     389,876           0
+WORTHINGTON INDS INC              COM   981811102           1          20  SH     OTHER       01           0          20           0
+WORTHINGTON INDS INC              COM   981811102      34,088   1,100,316  SH     DEFINED  01,08     401,889     698,427           0
+WORTHINGTON INDS INC              COM   981811102       3,959     127,781  SH     DEFINED     09     127,781           0           0
+
+WPX ENERGY INC                    COM   98212B103       4,001     249,756  SH     DEFINED     01     115,328     134,080         348
+WPX ENERGY INC                    COM   98212B103          95       5,925  SH     OTHER       01       5,428         322         175
+WPX ENERGY INC                    COM   98212B103      25,464   1,589,519  SH     DEFINED  01,08      55,415   1,534,104           0
+WPX ENERGY INC                    COM   98212B103       4,648     290,148  SH     DEFINED     09     290,148           0           0
+
+WRIGHT MED GROUP INC              COM   98235T107       1,160      48,723  SH     DEFINED     01       6,011      42,712           0
+WRIGHT MED GROUP INC              COM   98235T107         130       5,475  SH     OTHER       01       5,475           0           0
+WRIGHT MED GROUP INC              COM   98235T107      11,186     469,786  SH     DEFINED  01,08      31,189     438,597           0
+WRIGHT MED GROUP INC              COM   98235T107       2,533     106,383  SH     DEFINED     09     106,383           0           0
+
+WRIGHT MED GROUP INC              COM   98235T115          23       9,124  SH     DEFINED     01         725       8,399           0
+WRIGHT MED GROUP INC              COM   98235T115          32      12,857  SH     DEFINED  01,08      10,928       1,929           0
+
+
+  FORM 13F                    DATE 03-29-13                    NORTHERN TRUST CORPORATION                       PAGE    338
+  ________
+
+WYNDHAM WORLDWIDE CORP            COM   98310W108      13,073     202,745  SH     DEFINED     01     115,834      86,240         671
+WYNDHAM WORLDWIDE CORP            COM   98310W108         358       5,559  SH     OTHER       01       3,951       1,478         130
+WYNDHAM WORLDWIDE CORP            COM   98310W108      81,330   1,261,325  SH     DEFINED  01,08     188,929   1,072,396           0
+WYNDHAM WORLDWIDE CORP            COM   98310W108      27,163     421,260  SH     DEFINED     09     421,260           0           0
+
+WYNN RESORTS LTD                  COM   983134107      11,387      90,979  SH     DEFINED     01      33,662      56,938         379
+WYNN RESORTS LTD                  COM   983134107       1,165       9,312  SH     OTHER       01       5,751       3,561           0
+WYNN RESORTS LTD                  COM   983134107      88,873     710,075  SH     DEFINED  01,08     102,501     607,574           0
+WYNN RESORTS LTD                  COM   983134107      26,286     210,020  SH     DEFINED     09     210,020           0           0
+
+XO GROUP INC                      COM   983772104         358      35,764  SH     DEFINED     01      10,514      25,250           0
+XO GROUP INC                      COM   983772104       2,795     279,454  SH     DEFINED  01,08      13,222     266,232           0
+XO GROUP INC                      COM   983772104         745      74,546  SH     DEFINED     09      74,546           0           0
+
+XPO LOGISTICS INC                 COM   983793100         202      11,992  SH     DEFINED     01       1,820      10,172           0
+XPO LOGISTICS INC                 COM   983793100       3,138     186,326  SH     DEFINED  01,08       2,418     183,908           0
+XPO LOGISTICS INC                 COM   983793100         696      41,358  SH     DEFINED     09      41,358           0           0
+
+XCEL ENERGY INC                   COM   98389B100      15,856     533,861  SH     DEFINED     01     188,488     339,838       5,535
+XCEL ENERGY INC                   COM   98389B100       1,262      42,491  SH     OTHER       01      17,410      23,916       1,165
+XCEL ENERGY INC                   COM   98389B100     128,276   4,319,070  SH     DEFINED  01,08     636,195   3,682,875           0
+XCEL ENERGY INC                   COM   98389B100      42,588   1,433,939  SH     DEFINED     09   1,433,939           0           0
+
+XILINX INC                        COM   983919101      18,416     482,464  SH     DEFINED     01     267,368     211,468       3,628
+XILINX INC                        COM   983919101       1,474      38,604  SH     OTHER       01      32,785       5,412         407
+XILINX INC                        COM   983919101      90,121   2,361,030  SH     DEFINED  01,08     337,884   2,023,146           0
+XILINX INC                        COM   983919101      28,346     742,636  SH     DEFINED     09     742,636           0           0
+
+XENOPORT INC                      COM   98411C100         265      37,006  SH     DEFINED     01       5,345      29,661       2,000
+XENOPORT INC                      COM   98411C100       3,323     464,706  SH     DEFINED  01,08      14,592     450,114           0
+XENOPORT INC                      COM   98411C100         714      99,865  SH     DEFINED     09      99,865           0           0
+
+XEROX CORP                        COM   984121103      20,180   2,346,554  SH     DEFINED     01     957,682   1,379,208       9,664
+XEROX CORP                        COM   984121103         508      59,105  SH     OTHER       01      22,730      36,375           0
+XEROX CORP                        COM   984121103     100,415  11,676,159  SH     DEFINED  01,08   2,280,032   9,396,127           0
+XEROX CORP                        COM   984121103      33,071   3,845,418  SH     DEFINED     09   3,845,418           0           0
+
+XOMA CORP DEL                     COM   98419J107         186      53,358  SH     DEFINED     01       7,000      46,358           0
+XOMA CORP DEL                     COM   98419J107       2,737     784,323  SH     DEFINED  01,08      11,422     772,901           0
+XOMA CORP DEL                     COM   98419J107         751     215,109  SH     DEFINED     09     215,109           0           0
+
+XYLEM INC                         COM   98419M100       8,884     322,340  SH     DEFINED     01     194,839     125,665       1,836
+XYLEM INC                         COM   98419M100       1,013      36,761  SH     OTHER       01      27,279       7,348       2,134
+XYLEM INC                         COM   98419M100      45,003   1,632,921  SH     DEFINED  01,08     229,487   1,403,434           0
+XYLEM INC                         COM   98419M100      14,336     520,190  SH     DEFINED     09     520,190           0           0
+
+XOOM CORP                         COM   98419Q101         106       4,629  SH     OTHER       01           0       4,629           0
+XOOM CORP                         COM   98419Q101         401      17,567  SH     DEFINED  01,08       1,063      16,504           0
+XOOM CORP                         COM   98419Q101         355      15,542  SH     DEFINED     09      15,542           0           0
+
+
+  FORM 13F                    DATE 03-29-13                    NORTHERN TRUST CORPORATION                       PAGE    339
+  ________
+
+YRC WORLDWIDE INC                 COM   984249607           2         287  SH     DEFINED     01         285           2           0
+YRC WORLDWIDE INC                 COM   984249607          88      11,627  SH     DEFINED  01,08           0      11,627           0
+
+YADKIN VALLEY FINANCIAL CORP      COM   984314104          10       2,438  SH     DEFINED     01           0       2,438           0
+YADKIN VALLEY FINANCIAL CORP      COM   984314104          77      19,157  SH     DEFINED  01,08       3,148      16,009           0
+
+YAHOO INC                         COM   984332106      26,516   1,126,945  SH     DEFINED     01     590,557     534,148       2,240
+YAHOO INC                         COM   984332106       1,048      44,524  SH     OTHER       01      21,376      22,494         654
+YAHOO INC                         COM   984332106     220,652   9,377,879  SH     DEFINED  01,08   1,447,233   7,930,646           0
+YAHOO INC                         COM   984332106      73,220   3,111,891  SH     DEFINED     09   3,111,891           0           0
+
+YAMANA GOLD INC                   COM   98462Y100       1,067      69,483  SH     DEFINED     01      63,487       5,960          36
+YAMANA GOLD INC                   COM   98462Y100         297      19,355  SH     OTHER       01      16,377       2,978           0
+YAMANA GOLD INC                   COM   98462Y100         535      34,872  SH     DEFINED  01,08           0      34,872           0
+
+YELP INC                          COM   985817105         186       7,864  SH     DEFINED     01       3,292       4,572           0
+YELP INC                          COM   985817105       2,427     102,344  SH     DEFINED  01,08       2,186     100,158           0
+YELP INC                          COM   985817105         477      20,125  SH     DEFINED     09      20,125           0           0
+
+YINGLI GREEN ENERGY HLDG CO       COM   98584B103          45      23,715  SH     DEFINED     01         115      23,600           0
+YINGLI GREEN ENERGY HLDG CO       COM   98584B103          50      26,110  SH     DEFINED  01,08      25,600         510           0
+
+YORK WTR CO                       COM   987184108         252      13,430  SH     DEFINED     01       1,810      11,620           0
+YORK WTR CO                       COM   987184108       2,527     134,416  SH     DEFINED  01,08       7,134     127,282           0
+YORK WTR CO                       COM   987184108         632      33,605  SH     DEFINED     09      33,605           0           0
+
+YOUKU TUDOU INC                   COM   98742U100         283      16,860  SH     DEFINED     01         260      16,600           0
+YOUKU TUDOU INC                   COM   98742U100           0           9  SH     OTHER       01           0           9           0
+YOUKU TUDOU INC                   COM   98742U100         285      16,980  SH     DEFINED  01,08      16,600         380           0
+
+YUM BRANDS INC                    COM   988498101      72,069   1,001,790  SH     DEFINED     01     690,969     303,538       7,283
+YUM BRANDS INC                    COM   988498101       8,759     121,752  SH     OTHER       01     110,023       9,061       2,668
+YUM BRANDS INC                    COM   988498101     290,065   4,032,046  SH     DEFINED  01,08     589,617   3,442,429           0
+YUM BRANDS INC                    COM   988498101      97,047   1,348,999  SH     DEFINED     09   1,348,999           0           0
+
+ZBB ENERGY CORPORATION            COM   98876R204          18      40,919  SH     DEFINED  01,08           0      40,919           0
+
+ZAGG INC                          COM   98884U108         543      74,607  SH     DEFINED     01      56,435      16,282       1,890
+ZAGG INC                          COM   98884U108          30       4,093  SH     OTHER       01       4,093           0           0
+ZAGG INC                          COM   98884U108       1,888     259,394  SH     DEFINED  01,08       4,777     254,617           0
+ZAGG INC                          COM   98884U108         452      62,029  SH     DEFINED     09      62,029           0           0
+
+ZALE CORP NEW                     COM   988858106         130      33,118  SH     DEFINED     01       8,387      24,731           0
+ZALE CORP NEW                     COM   988858106         310      78,763  SH     DEFINED  01,08      26,889      51,874           0
+
+ZAIS FINL CORP                    COM   98886K108         308      14,912  SH     DEFINED  01,08         826      14,086           0
+ZAIS FINL CORP                    COM   98886K108         265      12,856  SH     DEFINED     09      12,856           0           0
+
+
+  FORM 13F                    DATE 03-29-13                    NORTHERN TRUST CORPORATION                       PAGE    340
+  ________
+
+ZALICUS INC                       COM   98887C105           7      10,514  SH     DEFINED     01           0      10,514           0
+ZALICUS INC                       COM   98887C105         139     208,813  SH     DEFINED  01,08       8,147     200,666           0
+
+ZAZA ENERGY CORP                  COM   98919T100          40      21,858  SH     DEFINED     01       1,000      20,858           0
+ZAZA ENERGY CORP                  COM   98919T100         492     270,115  SH     DEFINED  01,08      11,149     258,966           0
+ZAZA ENERGY CORP                  COM   98919T100         110      60,598  SH     DEFINED     09      60,598           0           0
+
+ZEBRA TECHNOLOGIES CORP           COM   989207105       1,730      36,712  SH     DEFINED     01      13,088      23,624           0
+ZEBRA TECHNOLOGIES CORP           COM   989207105          51       1,087  SH     OTHER       01       1,087           0           0
+ZEBRA TECHNOLOGIES CORP           COM   989207105      19,846     421,083  SH     DEFINED  01,08      33,038     388,045           0
+ZEBRA TECHNOLOGIES CORP           COM   989207105           0           1  SH     DEFINED     09           1           0           0
+
+ZELTIQ AESTHETICS INC             COM   98933Q108          31       8,089  SH     DEFINED     01          20       8,069           0
+ZELTIQ AESTHETICS INC             COM   98933Q108         577     150,929  SH     DEFINED  01,08       2,812     148,117           0
+ZELTIQ AESTHETICS INC             COM   98933Q108         177      46,363  SH     DEFINED     09      46,363           0           0
+
+ZEP INC                           COM   98944B108         513      34,169  SH     DEFINED     01       8,929      25,240           0
+ZEP INC                           COM   98944B108       3,696     246,244  SH     DEFINED  01,08      16,720     229,524           0
+ZEP INC                           COM   98944B108         855      56,944  SH     DEFINED     09      56,944           0           0
+
+ZHONE TECHNOLOGIES INC NEW        COM   98950P884           6       7,083  SH     DEFINED     01           0       7,083           0
+ZHONE TECHNOLOGIES INC NEW        COM   98950P884          36      39,973  SH     DEFINED  01,08       6,136      33,837           0
+
+ZILLOW INC                        COM   98954A107         244       4,460  SH     DEFINED     01       1,011       3,449           0
+ZILLOW INC                        COM   98954A107       3,030      55,416  SH     DEFINED  01,08       1,439      53,977           0
+ZILLOW INC                        COM   98954A107         483       8,840  SH     DEFINED     09       8,840           0           0
+
+ZIMMER HLDGS INC                  COM   98956P102      22,213     295,306  SH     DEFINED     01     165,800     119,980       9,526
+ZIMMER HLDGS INC                  COM   98956P102      10,320     137,193  SH     OTHER       01     117,937      13,942       5,314
+ZIMMER HLDGS INC                  COM   98956P102     113,548   1,509,547  SH     DEFINED  01,08     221,678   1,287,869           0
+ZIMMER HLDGS INC                  COM   98956P102      38,933     517,592  SH     DEFINED     09     517,592           0           0
+
+ZION OIL & GAS INC                COM   989696109           1         937  SH     DEFINED     01           0         937           0
+ZION OIL & GAS INC                COM   989696109          62      49,538  SH     DEFINED  01,08       2,352      47,186           0
+
+ZIONS BANCORPORATION              COM   989701107       5,769     230,871  SH     DEFINED     01     127,432     102,639         800
+ZIONS BANCORPORATION              COM   989701107          79       3,171  SH     OTHER       01       2,876         210          85
+ZIONS BANCORPORATION              COM   989701107      35,757   1,430,866  SH     DEFINED  01,08      50,580   1,380,286           0
+ZIONS BANCORPORATION              COM   989701107       6,279     251,270  SH     DEFINED     09     251,270           0           0
+
+ZIOPHARM ONCOLOGY INC             COM   98973P101         101      55,354  SH     DEFINED     01       7,100      48,254           0
+ZIOPHARM ONCOLOGY INC             COM   98973P101       1,329     726,424  SH     DEFINED  01,08      13,988     712,436           0
+ZIOPHARM ONCOLOGY INC             COM   98973P101         303     165,341  SH     DEFINED     09     165,341           0           0
+
+ZIX CORP                          COM   98974P100         196      54,859  SH     DEFINED     01       6,819      48,040           0
+ZIX CORP                          COM   98974P100       2,294     640,829  SH     DEFINED  01,08      20,438     620,391           0
+ZIX CORP                          COM   98974P100         576     160,763  SH     DEFINED     09     160,763           0           0
+
+
+  FORM 13F                    DATE 03-29-13                    NORTHERN TRUST CORPORATION                       PAGE    341
+  ________
+
+ZIPREALTY INC                     COM   98974V107           9       2,472  SH     DEFINED     01           0       2,472           0
+ZIPREALTY INC                     COM   98974V107          40      11,033  SH     DEFINED  01,08       3,111       7,922           0
+
+ZOLTEK COS INC                    COM   98975W104         368      30,830  SH     DEFINED     01       4,689      26,141           0
+ZOLTEK COS INC                    COM   98975W104           0          10  SH     OTHER       01           0          10           0
+ZOLTEK COS INC                    COM   98975W104       3,921     328,141  SH     DEFINED  01,08      49,591     278,550           0
+ZOLTEK COS INC                    COM   98975W104         926      77,495  SH     DEFINED     09      77,495           0           0
+
+ZOOM TECHNOLOGIES INC             COM   98976E301           0         315  SH     DEFINED     01           0         315           0
+ZOOM TECHNOLOGIES INC             COM   98976E301          27      37,864  SH     DEFINED  01,08         115      37,749           0
+
+ZOGENIX INC                       COM   98978L105          47      26,281  SH     DEFINED     01          90      26,191           0
+ZOGENIX INC                       COM   98978L105       1,079     599,538  SH     DEFINED  01,08       8,686     590,852           0
+ZOGENIX INC                       COM   98978L105         277     153,874  SH     DEFINED     09     153,874           0           0
+
+ZOETIS INC                        COM   98978V103       1,399      41,886  SH     DEFINED     01      31,465       9,552         869
+ZOETIS INC                        COM   98978V103         317       9,493  SH     OTHER       01         907       8,586           0
+ZOETIS INC                        COM   98978V103       7,037     210,679  SH     DEFINED  01,08           0     210,679           0
+
+ZUMIEZ INC                        COM   989817101         951      41,524  SH     DEFINED     01      21,028      20,496           0
+ZUMIEZ INC                        COM   989817101          13         582  SH     OTHER       01           0         582           0
+ZUMIEZ INC                        COM   989817101       5,537     241,809  SH     DEFINED  01,08      13,558     228,251           0
+ZUMIEZ INC                        COM   989817101       1,172      51,182  SH     DEFINED     09      51,182           0           0
+
+ZYGO CORP                         COM   989855101         277      18,720  SH     DEFINED     01       1,808      16,912           0
+ZYGO CORP                         COM   989855101       2,559     172,771  SH     DEFINED  01,08      11,586     161,185           0
+ZYGO CORP                         COM   989855101         569      38,452  SH     DEFINED     09      38,452           0           0
+
+ZYNGA INC                         COM   98986T108       1,421     422,994  SH     DEFINED     01     375,839      47,155           0
+ZYNGA INC                         COM   98986T108           2         645  SH     OTHER       01           0           0         645
+ZYNGA INC                         COM   98986T108       4,102   1,220,890  SH     DEFINED  01,08      84,249   1,136,641           0
+
+
+
+			      <C>							      <C>
+</TABLE>
+</TEXT>
+</DOCUMENT>
+<DOCUMENT>
+<TYPE>EX-1
+<SEQUENCE>2
+<FILENAME>cert13f2013.txt
+<TEXT>
+Exhibit 1 to Form 13F
+Filed by Northern Trust Corporation
+
+
+
+CERTIFIED RESOLUTION
+
+The undersigned certifies that the undersigned is the duly appointed, qualified
+and acting Secretary or Assistant Secretary of Northern Trust Corporation, as
+ indicated below, and that the following resolution was duly adopted by the
+Board of Directors of Northern Trust Corporation on April 16, 2013 and
+remains in full force and effect:
+
+RESOLVED, that each of the 'Executive Officers' of
+Northern Trust Corporation (the 'Corporation'), as that
+term is defined in Rule 3b-7 under the Securities Exchange
+Act of 1934, and each of the following other officers of the
+Corporation or its subsidiaries, is hereby authorized to sign,
+on behalf of the Corporation, any Statements on Form 13F,
+and any amendments to such Statements, required to be filed
+with the Securities and Exchange Commission by the
+Corporation with respect to any securities beneficially
+owned by the Corporation and any of its direct or indirect
+subsidiaries:
+				Robert P. Browne
+				James D. McDonald
+				Matt Peron
+
+
+IN WITNESS WHEREOF, the undersigned has executed this certificate on
+April 26, 2013.
+
+	/s/ Rose A. Ellis
+	Rose A. Ellis
+        Secretary
+	Northern Trust Corporation
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
