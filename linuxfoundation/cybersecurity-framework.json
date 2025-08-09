@@ -1,0 +1,1284 @@
+[
+  {
+    "jobFamilyTitle": "Web Developers",
+    "skills": {
+      "basic": [
+        {
+          "id": "B1",
+          "description": "Understand the basics of security requirements and fundamental risk management principles."
+        },
+        {
+          "id": "B2",
+          "description": "Focus on systematic risk identification and mitigation to develop secure software."
+        },
+        {
+          "id": "B3",
+          "description": "Understand the OWASP Top 10 and CWE Top 25, applying basic best practices."
+        },
+        {
+          "id": "B4",
+          "description": "Practice safe use of external software, including regular updates and security checks. Ensure regular updates and security checks for third-party libraries and dependencies."
+        },
+        {
+          "id": "B5",
+          "description": "Implement basic input validation and injection prevention techniques to safeguard against common vulnerabilities such as XSS and SQL Injection."
+        },
+        {
+          "id": "B6",
+          "description": "Understand basic encryption concepts, e.g., the differences between symmetric and asymmetric encryption, and the importance of protecting data in transit and at rest."
+        },
+        {
+          "id": "B7",
+          "description": "Follow organizational security guidelines and policies, incorporating them into the development process."
+        },
+        {
+          "id": "B8",
+          "description": "Awareness of authentication & authorization (SSH, SSL, OpenID/OAuth, SSO) and basic role-based access control (RBAC)."
+        },
+        {
+          "id": "B9",
+          "description": "Learn the fundamentals of verification methods such as static application security testing (SAST), dynamic application security testing (DAST), and using web application scanners."
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "I1",
+          "description": "Understand and apply threat modeling techniques throughout the development lifecycle based on job function.  Monitor and plan for emerging threats."
+        },
+        {
+          "id": "I3",
+          "description": "Understand organization policies and legal/regulatory obligations as regards security and privacy."
+        },
+        {
+          "id": "I4",
+          "description": "Implement Continuous Integration/Continuous Delivery (CI/CD) processes relevant to job function and role."
+        },
+        {
+          "id": "I6",
+          "description": "Implement scanning and testing throughout the development lifecycle."
+        },
+        {
+          "id": "I7",
+          "description": "Harden development infrastructure by configuring secure environments, updating tools, and performing regular vulnerability assessments to prevent exploits."
+        },
+        {
+          "id": "I8",
+          "description": "Deepen understanding of implementing strong cryptography measures to protect data integrity and confidentiality, with a focus on practical applications of symmetric and asymmetric encryption, digital signatures, and hashing."
+        },
+        {
+          "id": "I9",
+          "description": "Provide leadership, instruction, and guidance to junior staff."
+        }
+      ],
+      "advanced": [
+        {
+          "id": "A1",
+          "description": "Ongoing investment in advanced understanding and expertise of security practices, tooling, and techniques related to job function or role."
+        },
+        {
+          "id": "A2",
+          "description": "Lead threat modeling efforts throughout the development lifecycle. Apply advanced threat modeling techniques to anticipate and prevent emerging threats."
+        },
+        {
+          "id": "A3",
+          "description": "Automate tasks throughout the development lifecycle to ensure code quality, infrastructure availability, and threat detection."
+        },
+        {
+          "id": "A4",
+          "description": "Provide leadership, instruction, and guidance to junior staff. Act as a senior advisor to leadership and other projects in the area of security related to job function or role."
+        },
+        {
+          "id": "A6",
+          "description": "Deepen knowledge of advanced cryptographic techniques, including symmetric and asymmetric encryption, digital signatures, and hashing algorithms (e.g., RSA, ECC). Ensure compliance with security standards such as ISO 27001 and NIST guidelines."
+        }
+      ]
+    }
+  },
+  {
+    "jobFamilyTitle": "Software Developers",
+    "skills": {
+      "basic": [
+        {
+          "id": "B1",
+          "description": "Understand the basics of security requirements and fundamental risk management principles."
+        },
+        {
+          "id": "B2",
+          "description": "Focus on systematic risk identification and mitigation to develop secure software."
+        },
+        {
+          "id": "B3",
+          "description": "Understand the OWASP Top 10 and CWE Top 25, applying basic best practices."
+        },
+        {
+          "id": "B4",
+          "description": "Practice safe use of external software, including regular updates and security checks. Ensure regular updates and security checks for third-party libraries and dependencies."
+        },
+        {
+          "id": "B5",
+          "description": "Implement basic input validation and injection prevention techniques to safeguard against common vulnerabilities such as XSS and SQL Injection."
+        },
+        {
+          "id": "B6",
+          "description": "Understand basic encryption concepts, e.g., the differences between symmetric and asymmetric encryption, and the importance of protecting data in transit and at rest."
+        },
+        {
+          "id": "B7",
+          "description": "Follow organizational security guidelines and policies, incorporating them into the development process."
+        },
+        {
+          "id": "B8",
+          "description": "Awareness of authentication & authorization (SSH, SSL, OpenID/OAuth, SSO) and basic role-based access control (RBAC)."
+        },
+        {
+          "id": "B9",
+          "description": "Learn the fundamentals of verification methods such as static application security testing (SAST), dynamic application security testing (DAST), and using web application scanners."
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "I1",
+          "description": "Understand and apply threat modeling techniques throughout the development lifecycle based on job function.  Monitor and plan for emerging threats."
+        },
+        {
+          "id": "I3",
+          "description": "Understand organization policies and legal/regulatory obligations as regards security and privacy."
+        },
+        {
+          "id": "I4",
+          "description": "Implement Continuous Integration/Continuous Delivery (CI/CD) processes relevant to job function and role."
+        },
+        {
+          "id": "I6",
+          "description": "Implement scanning and testing throughout the development lifecycle."
+        },
+        {
+          "id": "I7",
+          "description": "Harden development infrastructure by configuring secure environments, updating tools, and performing regular vulnerability assessments to prevent exploits."
+        },
+        {
+          "id": "I8",
+          "description": "Deepen understanding of implementing strong cryptography measures to protect data integrity and confidentiality, with a focus on practical applications of symmetric and asymmetric encryption, digital signatures, and hashing."
+        },
+        {
+          "id": "I9",
+          "description": "Provide leadership, instruction, and guidance to junior staff."
+        }
+      ],
+      "advanced": [
+        {
+          "id": "A1",
+          "description": "Ongoing investment in advanced understanding and expertise of security practices, tooling, and techniques related to job function or role."
+        },
+        {
+          "id": "A2",
+          "description": "Lead threat modeling efforts throughout the development lifecycle. Apply advanced threat modeling techniques to anticipate and prevent emerging threats."
+        },
+        {
+          "id": "A3",
+          "description": "Automate tasks throughout the development lifecycle to ensure code quality, infrastructure availability, and threat detection."
+        },
+        {
+          "id": "A4",
+          "description": "Provide leadership, instruction, and guidance to junior staff. Act as a senior advisor to leadership and other projects in the area of security related to job function or role."
+        },
+        {
+          "id": "A6",
+          "description": "Deepen knowledge of advanced cryptographic techniques, including symmetric and asymmetric encryption, digital signatures, and hashing algorithms (e.g., RSA, ECC). Ensure compliance with security standards such as ISO 27001 and NIST guidelines."
+        }
+      ]
+    }
+  },
+  {
+    "jobFamilyTitle": "Platform Engineers",
+    "skills": {
+      "basic": [
+        {
+          "id": "B1",
+          "description": "Understand the basics of security requirements and fundamental risk management principles."
+        },
+        {
+          "id": "B2",
+          "description": "Focus on systematic risk identification and mitigation to develop secure software."
+        },
+        {
+          "id": "B4",
+          "description": "Practice safe use of external software, including regular updates and security checks. Ensure regular updates and security checks for third-party libraries and dependencies."
+        },
+        {
+          "id": "B7",
+          "description": "Follow organizational security guidelines and policies, incorporating them into the development process."
+        },
+        {
+          "id": "B8",
+          "description": "Awareness of authentication & authorization (SSH, SSL, OpenID/OAuth, SSO) and basic role-based access control (RBAC)."
+        },
+        {
+          "id": "B10",
+          "description": "Understand and implement Multi Factor Authentication techniques."
+        },
+        {
+          "id": "B11",
+          "description": "Understand and implement monitoring and logging tooling/techniques."
+        },
+        {
+          "id": "B12",
+          "description": "Assist with patch management, system updates, and understand basic networking concepts and tools."
+        },
+        {
+          "id": "B13",
+          "description": "Gain foundational knowledge of DevSecOps and the importance of integrating security into the development process."
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "I3",
+          "description": "Understand organization policies and legal/regulatory obligations as regards security and privacy."
+        },
+        {
+          "id": "I9",
+          "description": "Provide leadership, instruction, and guidance to junior staff."
+        },
+        {
+          "id": "I10",
+          "description": "Perform security audits and assessments based on job function and role."
+        },
+        {
+          "id": "I11",
+          "description": "Actively participate in incident response, conduct root cause analysis, and respond to security alerts and incidents promptly."
+        },
+        {
+          "id": "I12",
+          "description": "Embed secure coding, threat modeling, and risk assessment into the software development lifecycle."
+        },
+        {
+          "id": "I13",
+          "description": "Regularly review and enhance system configurations, focusing on role-based access control and network hardening."
+        }
+      ],
+      "advanced": [
+        {
+          "id": "A1",
+          "description": "Ongoing investment in advanced understanding and expertise of security practices, tooling, and techniques related to job function or role."
+        },
+        {
+          "id": "A7",
+          "description": "Define and drive security architecture and design across systems."
+        },
+        {
+          "id": "A8",
+          "description": "Lead incident response coordination and planning activities."
+        },
+        {
+          "id": "A9",
+          "description": "Conduct root cause analysis and develop remediation plans for security incidents."
+        },
+        {
+          "id": "A10",
+          "description": "Advocate for and implement cutting-edge security solutions and practices."
+        },
+        {
+          "id": "A11",
+          "description": "Work closely with other departments to ensure a holistic approach to security."
+        },
+        {
+          "id": "A12",
+          "description": "Communicate security risks and strategies to stakeholders and executive leadership."
+        }
+      ]
+    }
+  },
+  {
+    "jobFamilyTitle": "Systems Architecture",
+    "skills": {
+      "basic": [
+        {
+          "id": "B1",
+          "description": "Understand the basics of security requirements and fundamental risk management principles."
+        },
+        {
+          "id": "B8",
+          "description": "Awareness of authentication & authorization (SSH, SSL, OpenID/OAuth, SSO) and basic role-based access control (RBAC)."
+        },
+        {
+          "id": "B9",
+          "description": "Learn the fundamentals of verification methods such as static application security testing (SAST), dynamic application security testing (DAST), and using web application scanners."
+        },
+        {
+          "id": "B14",
+          "description": "Document system architecture, configuration and changes, with a focus on integrating basic security considerations."
+        },
+        {
+          "id": "B15",
+          "description": "Implement access control policies and secure authentication & authorization mechanisms to protect systems."
+        },
+        {
+          "id": "B16",
+          "description": "Assist in integrating security requirements into system design under the supervision of senior architects."
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "I3",
+          "description": "Understand organization policies and legal/regulatory obligations as regards security and privacy."
+        },
+        {
+          "id": "I9",
+          "description": "Provide leadership, instruction, and guidance to junior staff."
+        },
+        {
+          "id": "I10",
+          "description": "Perform security audits and assessments based on job function and role."
+        },
+        {
+          "id": "I11",
+          "description": "Actively participate in incident response, conduct root cause analysis, and respond to security alerts and incidents promptly."
+        },
+        {
+          "id": "I14",
+          "description": "Design and enforce secure system architectures and conduct thorough security risk assessments and threat modeling."
+        },
+        {
+          "id": "I15",
+          "description": "Contribute to the creation and implementation of security policies, standards, and protocols for the organization."
+        }
+      ],
+      "advanced": [
+        {
+          "id": "A1",
+          "description": "Ongoing investment in advanced understanding and expertise of security practices, tooling, and techniques related to job function or role."
+        },
+        {
+          "id": "A2",
+          "description": "Lead threat modeling efforts throughout the development lifecycle. Apply advanced threat modeling techniques to anticipate and prevent emerging threats."
+        },
+        {
+          "id": "A4",
+          "description": "Provide leadership, instruction, and guidance to junior staff. Act as a senior advisor to leadership and other projects in the area of security related to job function or role."
+        },
+        {
+          "id": "A5",
+          "description": "Create organizational processes, standards, and policies that align with legal/regulatory obligations of the organization."
+        },
+        {
+          "id": "A8",
+          "description": "Lead incident response coordination and planning activities."
+        },
+        {
+          "id": "A12",
+          "description": "Communicate security risks and strategies to stakeholders and executive leadership."
+        },
+        {
+          "id": "A13",
+          "description": "Define and implement an enterprise-wide security architecture and strategy, leading complex incident response and recovery efforts."
+        }
+      ]
+    }
+  },
+  {
+    "jobFamilyTitle": "DevOps Engineer",
+    "skills": {
+      "basic": [
+        {
+          "id": "B1",
+          "description": "Understand the basics of security requirements and fundamental risk management principles."
+        },
+        {
+          "id": "B3",
+          "description": "Understand the OWASP Top 10 and CWE Top 25, applying basic best practices."
+        },
+        {
+          "id": "B4",
+          "description": "Practice safe use of external software, including regular updates and security checks. Ensure regular updates and security checks for third-party libraries and dependencies."
+        },
+        {
+          "id": "B7",
+          "description": "Follow organizational security guidelines and policies, incorporating them into the development process."
+        },
+        {
+          "id": "B9",
+          "description": "Learn the fundamentals of verification methods such as static application security testing (SAST), dynamic application security testing (DAST), and using web application scanners."
+        },
+        {
+          "id": "B10",
+          "description": "Understand and implement Multi Factor Authentication techniques."
+        },
+        {
+          "id": "B11",
+          "description": "Understand and implement monitoring and logging tooling/techniques."
+        },
+        {
+          "id": "B15",
+          "description": "Implement access control policies and secure authentication & authorization mechanisms to protect systems."
+        },
+        {
+          "id": "B17",
+          "description": "Ensure that code repositories and build environments are secured."
+        },
+        {
+          "id": "B18",
+          "description": "Monitor systems for security incidents and document & report potential issues."
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "I3",
+          "description": "Understand organization policies and legal/regulatory obligations as regards security and privacy."
+        },
+        {
+          "id": "I4",
+          "description": "Implement Continuous Integration/Continuous Delivery (CI/CD) processes relevant to job function and role."
+        },
+        {
+          "id": "I6",
+          "description": "Implement scanning and testing throughout the development lifecycle."
+        },
+        {
+          "id": "I9",
+          "description": "Provide leadership, instruction, and guidance to junior staff."
+        },
+        {
+          "id": "I10",
+          "description": "Perform security audits and assessments based on job function and role."
+        },
+        {
+          "id": "I11",
+          "description": "Actively participate in incident response, conduct root cause analysis, and respond to security alerts and incidents promptly."
+        },
+        {
+          "id": "I16",
+          "description": "Conduct root cause analysis for security incidents and implement remediation measures."
+        },
+        {
+          "id": "I17",
+          "description": "Secure IaC templates and scripts (e.g., OpenTofu, Terraform, CloudFormation)."
+        },
+        {
+          "id": "I18",
+          "description": "Implement and enforce policies for secure cloud infrastructure management."
+        }
+      ],
+      "advanced": [
+        {
+          "id": "A1",
+          "description": "Ongoing investment in advanced understanding and expertise of security practices, tooling, and techniques related to job function or role."
+        },
+        {
+          "id": "A2",
+          "description": "Lead threat modeling efforts throughout the development lifecycle. Apply advanced threat modeling techniques to anticipate and prevent emerging threats."
+        },
+        {
+          "id": "A5",
+          "description": "Create organizational processes, standards, and policies that align with legal/regulatory obligations of the organization."
+        },
+        {
+          "id": "A8",
+          "description": "Lead incident response coordination and planning activities."
+        },
+        {
+          "id": "A9",
+          "description": "Conduct root cause analysis and develop remediation plans for security incidents."
+        },
+        {
+          "id": "A10",
+          "description": "Advocate for and implement cutting-edge security solutions and practices."
+        },
+        {
+          "id": "A11",
+          "description": "Work closely with other departments to ensure a holistic approach to security."
+        },
+        {
+          "id": "A12",
+          "description": "Communicate security risks and strategies to stakeholders and executive leadership."
+        }
+      ]
+    }
+  },
+  {
+    "jobFamilyTitle": "Network Engineer",
+    "skills": {
+      "basic": [
+        {
+          "id": "B1",
+          "description": "Understand the basics of security requirements and fundamental risk management principles."
+        },
+        {
+          "id": "B4",
+          "description": "Practice safe use of external software, including regular updates and security checks. Ensure regular updates and security checks for third-party libraries and dependencies."
+        },
+        {
+          "id": "B14",
+          "description": "Document system architecture, configuration and changes, with a focus on integrating basic security considerations."
+        },
+        {
+          "id": "B18",
+          "description": "Monitor systems for security incidents and document & report potential issues."
+        },
+        {
+          "id": "B19",
+          "description": "Implement and manage basic firewall rules, intrusion prevention systems (IPS), and virtual private networks (VPNs) to secure network boundaries."
+        },
+        {
+          "id": "B20",
+          "description": "Manage network device access using secure tokens and multi-factor authentication (MFA). Maintain and update access control lists (ACLs) to ensure proper permissions are set."
+        },
+        {
+          "id": "B21",
+          "description": "Understand and work with basic networking protocols like TCP/IP, DNS, and routing. Perform basic cloud networking tasks and configurations."
+        },
+        {
+          "id": "B22",
+          "description": "Utilize network monitoring tools (e.g., Wireshark, Nagios, SolarWinds) to observe network traffic for unusual activity and report potential security incidents to senior engineers."
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "I3",
+          "description": "Understand organization policies and legal/regulatory obligations as regards security and privacy."
+        },
+        {
+          "id": "I9",
+          "description": "Provide leadership, instruction, and guidance to junior staff."
+        },
+        {
+          "id": "I10",
+          "description": "Perform security audits and assessments based on job function and role."
+        },
+        {
+          "id": "I11",
+          "description": "Actively participate in incident response, conduct root cause analysis, and respond to security alerts and incidents promptly."
+        },
+        {
+          "id": "I19",
+          "description": "Implement and manage advanced security measures, including firewalls, intrusion detection/prevention systems (IDS/IPS), and VPNs, ensuring the network is secure."
+        },
+        {
+          "id": "I20",
+          "description": "Design secure network architectures and topologies, integrating security considerations into network planning and configuration to mitigate risks."
+        },
+        {
+          "id": "I21",
+          "description": "Develop scripts to automate security tasks and monitoring. Implement and manage automated monitoring and alerting systems for security events."
+        }
+      ],
+      "advanced": [
+        {
+          "id": "A1",
+          "description": "Ongoing investment in advanced understanding and expertise of security practices, tooling, and techniques related to job function or role."
+        },
+        {
+          "id": "A2",
+          "description": "Lead threat modeling efforts throughout the development lifecycle. Apply advanced threat modeling techniques to anticipate and prevent emerging threats."
+        },
+        {
+          "id": "A4",
+          "description": "Provide leadership, instruction, and guidance to junior staff. Act as a senior advisor to leadership and other projects in the area of security related to job function or role."
+        },
+        {
+          "id": "A9",
+          "description": "Conduct root cause analysis and develop remediation plans for security incidents."
+        },
+        {
+          "id": "A10",
+          "description": "Advocate for and implement cutting-edge security solutions and practices."
+        },
+        {
+          "id": "A12",
+          "description": "Communicate security risks and strategies to stakeholders and executive leadership."
+        }
+      ]
+    }
+  },
+  {
+    "jobFamilyTitle": "AI Engineer",
+    "skills": {
+      "basic": [
+        {
+          "id": "B1",
+          "description": "Understand the basics of security requirements and fundamental risk management principles."
+        },
+        {
+          "id": "B4",
+          "description": "Practice safe use of external software, including regular updates and security checks. Ensure regular updates and security checks for third-party libraries and dependencies."
+        },
+        {
+          "id": "B18",
+          "description": "Monitor systems for security incidents and document & report potential issues."
+        },
+        {
+          "id": "B23",
+          "description": "Design and implement secure data pipelines, ensuring data integrity, confidentiality, and proper methods for secure data storage and transfer."
+        },
+        {
+          "id": "B24",
+          "description": "Handle sensitive data responsibly by applying data anonymization, encryption techniques, and adhering to data protection regulations and organizational security policies."
+        },
+        {
+          "id": "B25",
+          "description": "Implement basic security measures to protect AI/ML models from tampering and unauthorized access, using tools like the Adversarial Robustness Toolbox. Utilize secure coding practices in developing data pipelines and AI/ML models."
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "I4",
+          "description": "Implement Continuous Integration/Continuous Delivery (CI/CD) processes relevant to job function and role."
+        },
+        {
+          "id": "I9",
+          "description": "Provide leadership, instruction, and guidance to junior staff."
+        },
+        {
+          "id": "I11",
+          "description": "Actively participate in incident response, conduct root cause analysis, and respond to security alerts and incidents promptly."
+        },
+        {
+          "id": "I22",
+          "description": "Implement advanced encryption, masking, and anonymization techniques to secure sensitive data in AI/ML workflows."
+        },
+        {
+          "id": "I23",
+          "description": "Protect AI/ML models from adversarial attacks and data poisoning, conducting regular security reviews of models and their deployment environments."
+        }
+      ],
+      "advanced": [
+        {
+          "id": "A2",
+          "description": "Lead threat modeling efforts throughout the development lifecycle. Apply advanced threat modeling techniques to anticipate and prevent emerging threats."
+        },
+        {
+          "id": "A4",
+          "description": "Provide leadership, instruction, and guidance to junior staff. Act as a senior advisor to leadership and other projects in the area of security related to job function or role."
+        },
+        {
+          "id": "A5",
+          "description": "Create organizational processes, standards, and policies that align with legal/regulatory obligations of the organization."
+        },
+        {
+          "id": "A9",
+          "description": "Conduct root cause analysis and develop remediation plans for security incidents."
+        },
+        {
+          "id": "A10",
+          "description": "Advocate for and implement cutting-edge security solutions and practices."
+        },
+        {
+          "id": "A11",
+          "description": "Work closely with other departments to ensure a holistic approach to security."
+        },
+        {
+          "id": "A14",
+          "description": "Develop and implement comprehensive security strategies for data and AI/ML systems, addressing complex risks such as data poisoning and adversarial attacks."
+        }
+      ]
+    }
+  },
+  {
+    "jobFamilyTitle": "DB Engineer",
+    "skills": {
+      "basic": [
+        {
+          "id": "B1",
+          "description": "Understand the basics of security requirements and fundamental risk management principles."
+        },
+        {
+          "id": "B4",
+          "description": "Practice safe use of external software, including regular updates and security checks. Ensure regular updates and security checks for third-party libraries and dependencies."
+        },
+        {
+          "id": "B6",
+          "description": "Understand basic encryption concepts, e.g., the differences between symmetric and asymmetric encryption, and the importance of protecting data in transit and at rest."
+        },
+        {
+          "id": "B7",
+          "description": "Follow organizational security guidelines and policies, incorporating them into the development process."
+        },
+        {
+          "id": "B8",
+          "description": "Awareness of authentication & authorization (SSH, SSL, OpenID/OAuth, SSO) and basic role-based access control (RBAC)."
+        },
+        {
+          "id": "B11",
+          "description": "Understand and implement monitoring and logging tooling/techniques."
+        },
+        {
+          "id": "B26",
+          "description": "Follow best practices for secure database configuration, apply security patches and updates as directed, and use tools like DbDat and CIS benchmarks to evaluate and enhance database security."
+        },
+        {
+          "id": "B27",
+          "description": "Identify and fix security issues with database systems, understanding mechanisms for secured connections without compromising performance."
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "I3",
+          "description": "Understand organization policies and legal/regulatory obligations as regards security and privacy."
+        },
+        {
+          "id": "I9",
+          "description": "Provide leadership, instruction, and guidance to junior staff."
+        },
+        {
+          "id": "I10",
+          "description": "Perform security audits and assessments based on job function and role."
+        },
+        {
+          "id": "I21",
+          "description": "Develop scripts to automate security tasks and monitoring. Implement and manage automated monitoring and alerting systems for security events."
+        },
+        {
+          "id": "I24",
+          "description": "Implement advanced encryption and masking techniques to protect sensitive data, focusing on security both inside and outside the network (e.g., VPC peering, PrivateLink)."
+        },
+        {
+          "id": "I25",
+          "description": "Integrate security best practices into database design and development processes, ensuring secure architectures are embedded throughout."
+        }
+      ],
+      "advanced": [
+        {
+          "id": "A1",
+          "description": "Ongoing investment in advanced understanding and expertise of security practices, tooling, and techniques related to job function or role."
+        },
+        {
+          "id": "A2",
+          "description": "Lead threat modeling efforts throughout the development lifecycle. Apply advanced threat modeling techniques to anticipate and prevent emerging threats."
+        },
+        {
+          "id": "A4",
+          "description": "Provide leadership, instruction, and guidance to junior staff. Act as a senior advisor to leadership and other projects in the area of security related to job function or role."
+        },
+        {
+          "id": "A5",
+          "description": "Create organizational processes, standards, and policies that align with legal/regulatory obligations of the organization."
+        },
+        {
+          "id": "A8",
+          "description": "Lead incident response coordination and planning activities."
+        },
+        {
+          "id": "A9",
+          "description": "Conduct root cause analysis and develop remediation plans for security incidents."
+        },
+        {
+          "id": "A10",
+          "description": "Advocate for and implement cutting-edge security solutions and practices."
+        },
+        {
+          "id": "A11",
+          "description": "Work closely with other departments to ensure a holistic approach to security."
+        },
+        {
+          "id": "A12",
+          "description": "Communicate security risks and strategies to stakeholders and executive leadership."
+        }
+      ]
+    }
+  },
+  {
+    "jobFamilyTitle": "IT Project Management",
+    "skills": {
+      "basic": [
+        {
+          "id": "B1",
+          "description": "Understand the basics of security requirements and fundamental risk management principles."
+        },
+        {
+          "id": "B7",
+          "description": "Follow organizational security guidelines and policies, incorporating them into the development process."
+        },
+        {
+          "id": "B28",
+          "description": "Develop soft skills for presenting updates to senior leaders, and collaborate with cybersecurity specialists to ensure security best practices are integrated into project plans."
+        },
+        {
+          "id": "B29",
+          "description": "Participate in hiring developers with a focus on cybersecurity awareness, and support continuous training efforts to improve the team's understanding of cybersecurity standards and practices."
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "B3",
+          "description": "Understand the OWASP Top 10 and CWE Top 25, applying basic best practices."
+        },
+        {
+          "id": "I10",
+          "description": "Perform security audits and assessments based on job function and role."
+        },
+        {
+          "id": "I26",
+          "description": "Embed security practices within the DevOps culture, ensuring security checks are automated and integrated into the CI/CD pipelines to maintain continuous security compliance."
+        },
+        {
+          "id": "I27",
+          "description": "Ensure continuous cybersecurity training of project members."
+        }
+      ],
+      "advanced": [
+        {
+          "id": "A1",
+          "description": "Ongoing investment in advanced understanding and expertise of security practices, tooling, and techniques related to job function or role."
+        },
+        {
+          "id": "A4",
+          "description": "Provide leadership, instruction, and guidance to junior staff. Act as a senior advisor to leadership and other projects in the area of security related to job function or role."
+        },
+        {
+          "id": "A5",
+          "description": "Create organizational processes, standards, and policies that align with legal/regulatory obligations of the organization."
+        },
+        {
+          "id": "A15",
+          "description": "Design and implement disaster recovery (DR) plans tailored to specific database systems (e.g., SQL, NoSQL, cloud-based solutions), and continuously improve DR strategies based on lessons learned from tests and incidents."
+        },
+        {
+          "id": "A16",
+          "description": "Perform coordinated disclosure with external organizations (e.g., CERTs, government, suppliers) to ensure compliance and address security vulnerabilities promptly."
+        },
+        {
+          "id": "A17",
+          "description": "Oversee the renewal and management of SSL certificates and plan for software version updates across key infrastructure (e.g., Kubernetes, databases), ensuring systems remain secure and up-to-date."
+        }
+      ]
+    }
+  },
+  {
+    "jobFamilyTitle": "Solutions Architecture",
+    "skills": {
+      "basic": [
+        {
+          "id": "B1",
+          "description": "Understand the basics of security requirements and fundamental risk management principles."
+        },
+        {
+          "id": "B7",
+          "description": "Follow organizational security guidelines and policies, incorporating them into the development process."
+        },
+        {
+          "id": "B30",
+          "description": "Configure firewalls and basic network security protocols, such as setting up secure wireless networks using WPA3 and configuring VLANs for traffic segregation."
+        },
+        {
+          "id": "B31",
+          "description": "Utilize antivirus software, and learn to configure basic firewall rules. Start with implementing regular scans and basic real-time protection settings."
+        },
+        {
+          "id": "B32",
+          "description": "Develop awareness of cybersecurity laws and regulations relevant to your industry, such as GDPR for data protection. Begin by conducting simple compliance checks and documenting data handling procedures."
+        },
+        {
+          "id": "B33",
+          "description": "Embed security practices within the DevOps culture, ensuring security checks are automated and integrated into the CI/CD pipelines to maintain continuous security compliance."
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "I3",
+          "description": "Understand organization policies and legal/regulatory obligations as regards security and privacy."
+        },
+        {
+          "id": "I10",
+          "description": "Perform security audits and assessments based on job function and role."
+        },
+        {
+          "id": "I28",
+          "description": "Implement advanced system hardening techniques, focusing on more complex responsibilities like Security Information and Event Management (SIEM) deployment and managing defense-in-depth strategies, rather than overlapping with DevOps or network engineering tasks."
+        },
+        {
+          "id": "I29",
+          "description": "Utilize advanced threat modeling tools (e.g., STRIDE, Microsoft's Threat Modeling Tool) to analyze software designs and address potential security issues, integrating this into the development lifecycle."
+        },
+        {
+          "id": "I30",
+          "description": "Apply advanced cryptographic practices (e.g., AES for encryption, RSA for digital signatures) and secure design principles, ensuring comprehensive protection of data in storage and transmission."
+        },
+        {
+          "id": "I31",
+          "description": "Focus on broader solutions architecture responsibilities, coordinating security implementations across multiple operating systems, including growing environments like Linux, and ensuring timely application of security updates following rigorous testing."
+        }
+      ],
+      "advanced": [
+        {
+          "id": "A1",
+          "description": "Ongoing investment in advanced understanding and expertise of security practices, tooling, and techniques related to job function or role."
+        },
+        {
+          "id": "A5",
+          "description": "Create organizational processes, standards, and policies that align with legal/regulatory obligations of the organization."
+        },
+        {
+          "id": "A9",
+          "description": "Conduct root cause analysis and develop remediation plans for security incidents."
+        },
+        {
+          "id": "A11",
+          "description": "Work closely with other departments to ensure a holistic approach to security."
+        },
+        {
+          "id": "A12",
+          "description": "Communicate security risks and strategies to stakeholders and executive leadership."
+        },
+        {
+          "id": "A18",
+          "description": "Connect various security initiatives such as data security programs, SOC operations, identity management, and automated response mechanisms into a cohesive security architecture."
+        }
+      ]
+    }
+  },
+  {
+    "jobFamilyTitle": "CyberSecurity Operations",
+    "skills": {
+      "basic": [
+        {
+          "id": "B7",
+          "description": "Follow organizational security guidelines and policies, incorporating them into the development process."
+        },
+        {
+          "id": "B11",
+          "description": "Understand and implement monitoring and logging tooling/techniques."
+        },
+        {
+          "id": "B34",
+          "description": "Assist in conducting vulnerability assessments and penetration testing under supervision to identify weaknesses in network and system security, with a focus on hands-on learning."
+        },
+        {
+          "id": "B35",
+          "description": "Provide support to senior analysts in investigating incidents, compiling reports, and analyzing basic threat intelligence data. This includes learning to identify and report on potential security threats using real-time monitoring tools."
+        },
+        {
+          "id": "B36",
+          "description": "Develop a strong understanding of essential security tools, including SIEM/SOAR systems, and gain hands-on experience with basic security operations, such as analyzing logs and managing alerts."
+        },
+        {
+          "id": "B37",
+          "description": "Participate in internal training sessions to enhance understanding of cybersecurity best practices."
+        },
+        {
+          "id": "B38",
+          "description": "Written and oral communication skills essential for documenting incidents, reporting to team leaders, and liaising with other departments for coordinated security efforts."
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "I9",
+          "description": "Provide leadership, instruction, and guidance to junior staff."
+        },
+        {
+          "id": "I21",
+          "description": "Develop scripts to automate security tasks and monitoring. Implement and manage automated monitoring and alerting systems for security events."
+        },
+        {
+          "id": "I32",
+          "description": "Conduct more complex penetration testing and vulnerability assessments independently, while also starting to lead smaller projects or components of larger projects. This includes threat modeling and applying compliance standards like NIST, ISO, or OWASP."
+        },
+        {
+          "id": "I33",
+          "description": "Analyze security events, develop relevant SIEM correlation rules or SOAR playbooks, and provide detailed reports to senior management or the CISO. This includes tracking Advanced Persistent Threats (APTs) and providing actionable intelligence."
+        },
+        {
+          "id": "I34",
+          "description": "Develop and implement proactive security strategies to pre-emptively address potential threats. This includes threat hunting, continuous improvement of security practices, and adaptation to the latest trends in cybersecurity."
+        },
+        {
+          "id": "I35",
+          "description": "Deepen expertise in a particular area of cybersecurity, such as network security, application security, or threat intelligence. Engage in continuous learning to stay updated with the latest tools, techniques, and standards in the field."
+        }
+      ],
+      "advanced": [
+        {
+          "id": "A1",
+          "description": "Ongoing investment in advanced understanding and expertise of security practices, tooling, and techniques related to job function or role."
+        },
+        {
+          "id": "A4",
+          "description": "Provide leadership, instruction, and guidance to junior staff. Act as a senior advisor to leadership and other projects in the area of security related to job function or role."
+        },
+        {
+          "id": "A5",
+          "description": "Create organizational processes, standards, and policies that align with legal/regulatory obligations of the organization."
+        },
+        {
+          "id": "A9",
+          "description": "Conduct root cause analysis and develop remediation plans for security incidents."
+        },
+        {
+          "id": "A12",
+          "description": "Communicate security risks and strategies to stakeholders and executive leadership."
+        }
+      ]
+    }
+  },
+  {
+    "jobFamilyTitle": "GRC Manager",
+    "skills": {
+      "basic": [
+        {
+          "id": "B1",
+          "description": "Understand the basics of security requirements and fundamental risk management principles."
+        },
+        {
+          "id": "B2",
+          "description": "Focus on systematic risk identification and mitigation to develop secure software."
+        },
+        {
+          "id": "B7",
+          "description": "Follow organizational security guidelines and policies, incorporating them into the development process."
+        },
+        {
+          "id": "B38",
+          "description": "Written and oral communication skills essential for documenting incidents, reporting to team leaders, and liaising with other departments for coordinated security efforts."
+        },
+        {
+          "id": "B39",
+          "description": "Begin by actively assisting in compliance audits, focusing on documenting processes according to specified standards. Learn to interpret and apply various compliance requirements in different contexts."
+        },
+        {
+          "id": "B40",
+          "description": "Gain exposure to and understanding of common IT controls (e.g., access controls, encryption, backup procedures) and learn how they mitigate specific risks within an organization. Understand the role of these controls in maintaining compliance."
+        },
+        {
+          "id": "B41",
+          "description": "Collaborate with stakeholders who manage the systems and processes related to audit standards. Document how compliance is achieved, including providing justifications or explanations for compliance status."
+        },
+        {
+          "id": "B42",
+          "description": "Develop proficiency in using tools like Excel or SQL for data analysis to support audit processes. Learn to perform data queries and generate audit evidence reports to assist in compliance assessments and regulatory audits."
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "I3",
+          "description": "Understand organization policies and legal/regulatory obligations as regards security and privacy."
+        },
+        {
+          "id": "I10",
+          "description": "Perform security audits and assessments based on job function and role."
+        },
+        {
+          "id": "I36",
+          "description": "Independently conduct detailed risk assessments, including identification, evaluation, and prioritization of risks. Develop and recommend mitigation strategies that align with the organization’s risk tolerance and business objectives."
+        },
+        {
+          "id": "I37",
+          "description": "Ensure that compliance activities are well-integrated with other IT systems and business functions. This includes aligning IT controls with broader organizational objectives and facilitating cross-functional security measures."
+        },
+        {
+          "id": "I38",
+          "description": "Utilize advanced data analytics tools like Python, R, or similar to gain deeper insights during audits. Conduct trend analysis, predictive modeling, and identify patterns to anticipate potential compliance issues."
+        },
+        {
+          "id": "I39",
+          "description": "Continue to develop and apply technical security skills, with a focus on practical understanding of standards like ISO 31000 for risk management and data center security. This includes staying current with emerging threats and integrating new security measures into the audit process."
+        }
+      ],
+      "advanced": [
+        {
+          "id": "A1",
+          "description": "Ongoing investment in advanced understanding and expertise of security practices, tooling, and techniques related to job function or role."
+        },
+        {
+          "id": "A4",
+          "description": "Provide leadership, instruction, and guidance to junior staff. Act as a senior advisor to leadership and other projects in the area of security related to job function or role."
+        },
+        {
+          "id": "A5",
+          "description": "Create organizational processes, standards, and policies that align with legal/regulatory obligations of the organization."
+        },
+        {
+          "id": "A9",
+          "description": "Conduct root cause analysis and develop remediation plans for security incidents."
+        },
+        {
+          "id": "A12",
+          "description": "Communicate security risks and strategies to stakeholders and executive leadership."
+        }
+      ]
+    }
+  },
+  {
+    "jobFamilyTitle": "Security Administrator",
+    "skills": {
+      "basic": [
+        {
+          "id": "B1",
+          "description": "Understand the basics of security requirements and fundamental risk management principles."
+        },
+        {
+          "id": "B4",
+          "description": "Practice safe use of external software, including regular updates and security checks. Ensure regular updates and security checks for third-party libraries and dependencies."
+        },
+        {
+          "id": "B7",
+          "description": "Follow organizational security guidelines and policies, incorporating them into the development process."
+        },
+        {
+          "id": "B8",
+          "description": "Awareness of authentication & authorization (SSH, SSL, OpenID/OAuth, SSO) and basic role-based access control (RBAC)."
+        },
+        {
+          "id": "B11",
+          "description": "Understand and implement monitoring and logging tooling/techniques."
+        },
+        {
+          "id": "B43",
+          "description": "Participate in initial incident response activities, learning to document incidents and contribute to investigations under supervision."
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "I3",
+          "description": "Understand organization policies and legal/regulatory obligations as regards security and privacy."
+        },
+        {
+          "id": "I10",
+          "description": "Perform security audits and assessments based on job function and role."
+        },
+        {
+          "id": "I21",
+          "description": "Develop scripts to automate security tasks and monitoring. Implement and manage automated monitoring and alerting systems for security events."
+        },
+        {
+          "id": "I40",
+          "description": "Focus on implementing secure network designs and configurations as per established designs, with a deepening understanding of complex firewall setups and advanced network segmentation."
+        },
+        {
+          "id": "I41",
+          "description": "Manage incident response operations, including performing detailed forensic analysis when needed. Work on refining incident response plans and playbooks, collaborating closely with senior security professionals."
+        },
+        {
+          "id": "I42",
+          "description": "Assist in the creation and maintenance of comprehensive security policies and procedures, collaborating with senior security teams to ensure these policies are up-to-date and effective."
+        }
+      ],
+      "advanced": [
+        {
+          "id": "A1",
+          "description": "Ongoing investment in advanced understanding and expertise of security practices, tooling, and techniques related to job function or role."
+        },
+        {
+          "id": "A2",
+          "description": "Lead threat modeling efforts throughout the development lifecycle. Apply advanced threat modeling techniques to anticipate and prevent emerging threats."
+        },
+        {
+          "id": "A4",
+          "description": "Provide leadership, instruction, and guidance to junior staff. Act as a senior advisor to leadership and other projects in the area of security related to job function or role."
+        },
+        {
+          "id": "A5",
+          "description": "Create organizational processes, standards, and policies that align with legal/regulatory obligations of the organization."
+        },
+        {
+          "id": "A9",
+          "description": "Conduct root cause analysis and develop remediation plans for security incidents."
+        },
+        {
+          "id": "A12",
+          "description": "Communicate security risks and strategies to stakeholders and executive leadership."
+        }
+      ]
+    }
+  },
+  {
+    "jobFamilyTitle": "IT Services Manager",
+    "skills": {
+      "basic": [
+        {
+          "id": "B1",
+          "description": "Understand the basics of security requirements and fundamental risk management principles."
+        },
+        {
+          "id": "B2",
+          "description": "Focus on systematic risk identification and mitigation to develop secure software."
+        },
+        {
+          "id": "B4",
+          "description": "Practice safe use of external software, including regular updates and security checks. Ensure regular updates and security checks for third-party libraries and dependencies."
+        },
+        {
+          "id": "B7",
+          "description": "Follow organizational security guidelines and policies, incorporating them into the development process."
+        },
+        {
+          "id": "B10",
+          "description": "Understand and implement Multi Factor Authentication techniques."
+        },
+        {
+          "id": "B11",
+          "description": "Understand and implement monitoring and logging tooling/techniques."
+        },
+        {
+          "id": "B44",
+          "description": "Gain familiarity with ITSM frameworks like ITIL (Information Technology Infrastructure Library) (certs approved under both 8140 and NICCS)."
+        },
+        {
+          "id": "B45",
+          "description": "Help document procedures and ensure that service operations comply with security policies and regulations."
+        },
+        {
+          "id": "B46",
+          "description": "Participate in incident management processes."
+        },
+        {
+          "id": "B47",
+          "description": "Learn to respond to service-related security incidents, logging them accurately and escalating as appropriate."
+        }
+      ],
+      "intermediate": [
+        {
+          "id": "I3",
+          "description": "Understand organization policies and legal/regulatory obligations as regards security and privacy."
+        },
+        {
+          "id": "I5",
+          "description": "Understand organizational Business Continuity Plans (BCP) and Disaster Recovery processes (DR)."
+        },
+        {
+          "id": "I36",
+          "description": "Independently conduct detailed risk assessments, including identification, evaluation, and prioritization of risks. Develop and recommend mitigation strategies that align with the organization’s risk tolerance and business objectives."
+        },
+        {
+          "id": "I43",
+          "description": "Deepen understanding of advanced ITSM processes with a focus on security."
+        },
+        {
+          "id": "I44",
+          "description": "Manage the integration of cybersecurity with service lifecycle management, from service design to continuous improvement."
+        },
+        {
+          "id": "I45",
+          "description": "Analyze and improve security processes within IT services. For example, refine change management processes to include security impact assessments."
+        }
+      ],
+      "advanced": [
+        {
+          "id": "A1",
+          "description": "Ongoing investment in advanced understanding and expertise of security practices, tooling, and techniques related to job function or role."
+        },
+        {
+          "id": "A4",
+          "description": "Provide leadership, instruction, and guidance to junior staff. Act as a senior advisor to leadership and other projects in the area of security related to job function or role."
+        },
+        {
+          "id": "A5",
+          "description": "Create organizational processes, standards, and policies that align with legal/regulatory obligations of the organization."
+        },
+        {
+          "id": "A8",
+          "description": "Lead incident response coordination and planning activities."
+        },
+        {
+          "id": "A9",
+          "description": "Conduct root cause analysis and develop remediation plans for security incidents."
+        },
+        {
+          "id": "A12",
+          "description": "Communicate security risks and strategies to stakeholders and executive leadership."
+        },
+        {
+          "id": "A19",
+          "description": "Develop metrics to measure the effectiveness of security practices within IT services."
+        }
+      ]
+    }
+  }
+]
