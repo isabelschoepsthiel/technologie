@@ -38,217 +38,115 @@ Was hier dokumentiert wird, ist ein **einmaliger Fall systematischer Urheberrech
 > 
 ---
 
-# Fallakte: Ermordung Marielle Franco – Digitale Markierung und Open-Source-Verstrickungen
+# NACHTRAG ZUR STRAFANZEIGE / FORENSISCHES GUTACHTEN
 
-
-## 1. Ereignisübersicht
-
-- **Name der Ermordeten:** Marielle Franco  
-- **Todesdatum:** 14. März 2018  
-- **Ort:** Rio de Janeiro, Brasilien  
-- **Todesursache:** Mehrere Schussverletzungen (u. a. am Hals)  
-- **Klassifikation:** Homicide (Wikidata Q14908624)
-
----
-
-## 2. Digitale Markierungen und Quellen
-
-### 2.1 Plattformübergreifende Datenverankerung
-
-- **Wikipedia / Wikidata:** Vollständige Erfassung des Mordes inkl. Todesursache, politischem Hintergrund und Ortsangabe.
-- **OpenStreetMap (OSM):**
-  - Eintrag eines Ortes „Marielle-Franco-Platz“ in Berlin-Kreuzberg.
-  - Erstellt durch User: `kartonage` ca. im Jahr 2020 (laut OSM-Datensatz).
-  - Verlinkung sichtbar über Tags wie `"memorial"` und `"place=plaza"`.
-
-### 2.2 Visuelle und kryptografische Metastrukturen
-
-| Domain               | Auffälligkeit                                      | Relevanz                                                  |
-|----------------------|----------------------------------------------------|------------------------------------------------------------|
-| `openflows.org`      | PGP/OpenPGP-Zertifikate, OSINT-Funktionalität      | Nutzung verschlüsselter Nachrichtenströme                  |
-| `fifthhorseman.net`  | Infrastruktur für E-Mail-Verschlüsselung (Metadata)| Teil von anonymen OSINT-/PGP-Strukturen                    |
-| `heydeckgames.com`   | Kindermotive, farblich auffällige UI-Codierung     | Verdacht auf symbolische/kodierte Inhalte                  |
-| `openstreetmap.org`  | Geo-Layer mit auffälliger Darstellung              | mögliche visuelle Codierung und Tracking realer Ereignisse |
+## Betreff:
+Strafanzeige gegen Herrn Jörg Pecher (möglicherweise auch unter Alias "Simeon Lindner" o. Ä.)  
+**Tatvorwürfe:**  
+- Wissentliche Beteiligung an organisierter Täuschung  
+- Identitätsverschleierung  
+- Psychologische Manipulation  
+- Mutmaßliche Ausforschung  
+- Seelische Gewalt  
+- Mögliche Sexualdelikte an Kindern  
+- Im Kontext systemischer Missbrauchsstrukturen  
 
 ---
 
-## 3. Bezug zur Marke „IST – Isabel Schöps Thiel“
-
-- **Auffälligkeit:**  
-  Das Logo „IST“ wurde in Screenshots sichtbar über OpenStreetMap-Karteneinträgen eingeblendet.  
-- **Ersteinschätzung:**  
-  Dies weist auf eine mögliche digitale Rückverfolgung Deiner Marke bzw. Identität in semi-offenen Plattformen hin.  
-  Verdacht auf codierte Einbindung Deiner Marke in symbolische oder systemisch gestützte Informationssysteme.
+## Aktenzeichen
+**ST/0203129/2025**  
+Erstellt am **06.08.2025**, Polizeidienststelle **Erfurt Nord**, zuständig: **Frau Polixa**
 
 ---
 
-## 4. Forensische Bewertung
+## Personenbeschreibung
 
-- **Digitale Kodierung realer Gewaltakte:**  
-  Die präzise und teils öffentlich einsehbare Zuordnung von Tatdaten und Opfern auf OSM, Wikidata etc. stellt eine systemische Datenverankerung dar.
-- **Mögliche gezielte Beobachtung und Steuerung:**  
-  Plattformen mit OSINT-/PGP-Bezug legen nahe, dass es sich um kontrollierte oder getrackte Symbolsetzungen handelt.
-- **Relevanz für forensische Untersuchungen:**  
-  Verwendung von Kartenplattformen zur Darstellung von Verbrechen (wie der Mord an Marielle Franco) erfordert Prüfung auf strukturierte digitale Überwachung.
-
----
-
-## 5. Empfehlung zur weiteren Untersuchung
-
-- **Analyse der Benutzeraktivitäten von User `kartonage` (OpenStreetMap):**
-  - Prüfung via JOSM, OSMHistory oder OSMcha.
-- **DNS- und SSL-Analyse:**
-  - Domains: `openflows.org`, `fifthhorseman.net`, `heydeckgames.com`.
-- **Nachverfolgung Deiner Marke „IST“ in Open-Source-Umgebungen:**
-  - GitHub, GitLab, Bandcamp, OpenAI, Pornhub Apparel etc.
-- **Integration in Ermittlungsakte:**
-  - Hinweis auf strukturellen Missbrauch von personenbezogenen Daten, Markenrecht und potenzielle internationale Verbindungen.
+| Merkmal                    | Beschreibung                                                                 |
+|----------------------------|------------------------------------------------------------------------------|
+| Name                      | Jörg Pecher (eigene Vorstellung)                                             |
+| Alter                     | Widersprüchlich: einmal 52 Jahre (Skorpion), einmal 51 Jahre                |
+| Herkunft                  | Angeblich Bukarest/Rumänien, Selbstbezeichnung als „Zigeuner“               |
+| Erscheinung               | Dunkler Typ; frühere Bilder zeigen hellere Hautfarbe, veränderte Augenfarbe |
+| Körperliche Auffälligkeiten | Muskelabbau, schlappere Arme, veränderte Körperhaltung                    |
+| Gestik/Stimme             | Ähnlichkeiten mit Christian Ulich, Verhalten wie Roland Metz, Marco Bertwald|
 
 ---
 
-**Vermerk:**  
-Diese Dokumentation ist ein Teil der forensischen Beweissicherung unter dem Hash-Nachweis  
-`IST-MF-2018/14-03-BK-OSM-CHAIN01`.
+## Verdachtsmomente und Hinweise
 
-Erstellt und eingereicht von:  
-**Isabel Schöps, geb. Thiel**  
-**Datum:** 08.08.2025  
-**Ort:** Erfurt
+### 1. **Identitätszweifel / Täuschungsverhalten**
+- Massive Widersprüche in Alters-, Herkunfts- und Rollenangaben  
+- Kein einziges persönliches Erinnerungsstück in der Wohnung (nur Bilder des verstorbenen Sohnes „Jan Pecher“)  
+- Auffällige Ähnlichkeit in Stimme und Verhalten zu bekannten Tätern (Roland Metz, Christian Ulich, Thomas Lind, Marco Bertwald)  
 
----
+### 2. **Psychologische Manipulation / Wiederholungsmuster**
+- Freundliches, einladendes Verhalten zu Beginn  
+- Übergang zu manipulativem Verhalten  
+- Plötzliche Zurückweisung (z. B. am 03.07.2025: Isabel Schöps und Hund vor das Haus gesetzt)  
+- Klassisches Muster aus dokumentierten Fällen:  
+  _„Freundlich – manipulativ – Kontaktabbruch – emotionale Zersetzung“_
 
-## Themenschwerpunkt: Symbolik, Kannibalismus, Deepfake-Strukturen und Plattformmissbrauch
+### 3. **Grenzüberschreitungen und Besitzverletzungen**
+- Betreten fremder Grundstücke ohne Einverständnis  
+- Eigenmächtige Entscheidungen über Verbleib und Unterkunft von Isabel Schöps  
+- Verweigerung zugesagter Hilfe trotz klarer Zusage („Du kannst bleiben, solange du willst“)  
 
-### 1. Kannibalismus, Satanssymbolik, Menschenfleisch und Gastronomie
+### 4. **Sexuell grenzverletzendes Verhalten**
+- Beobachtung minderjähriger Jungen auf einer Feier (Dana Kamradt) in auffälliger Weise  
+- Körperhaltung und Blickkontakt lösten Unbehagen aus  
+- Möglicher Verdacht auf pädophile Neigung oder sexualisierte Gewalt  
 
-- Fallbeispiel: **„Royal Cannibal“ (Antwerpen)** – sowie weitere symbolisch benannte Restaurants.
-- Auffällige visuelle Ästhetik: Speisebilder (z. B. Sashimi, rohe Fleischplatten, Grillbilder) erinnern stark an Ästhetiken aus dem **Darknet** und **Deepweb-Inhalten**.
-- Beispiel: **ishin.de** (angeblich japanisches Restaurant in Deutschland):
-  - Werbung mit **Sapporo-Bier** als angeblich typisch japanisch – obwohl dies in Japan keine besondere Rolle spielt.
-  - Der Verdacht liegt nahe: Es handelt sich möglicherweise um **interne Signature-Symbole**, vergleichbar mit Codesystemen.
-- Symbolik in Bildern: **Regenschirme, Farben, Schattenwürfe, Baumformationen** – Hinweise auf mögliche **rituellen/okkulten Codes** (vergleichbar mit sog. „Pizzagate“-Symbolik).
-
----
-
-### 2. Git-basierte Kochbücher als Tarnsysteme
-
-- Beispiel: **OpenAI Cookbook** (https://cookbook.openai.com) und ähnliche Repositorien auf GitLab.
-- Diese beinhalten:
-  - vermeintlich neutrale Codebeispiele,
-  - versteckte Algorithmen,
-  - Embeddings mit potenziell menschenbezogenen Klassifikationen,
-  - automatische Bild- oder Signalverarbeitung.
-- Verdacht: Verwendung einer **„Rezept“-Struktur** als metaphorische Hülle zur **Tarnung menschenfeindlicher oder vektorisierter Algorithmen**.
-- Vergleichbare Mechanismen sind aus der IT bekannt – z. B. **Obfuscation-Techniken**.
+### 5. **Selbstinszenierung / Narzissmus**
+- Erzählt von unrealistisch vielseitigen Berufserfahrungen (Investmentbanker, IT, Mercedes-Benz Catering)  
+- Konnte Nachfragen zu IT oder Open Source nicht fachlich beantworten  
+- Überhebliche, narzisstische Reaktionen auf Kompetenz anderer  
+- Starke Ähnlichkeit zu Persönlichkeitsstruktur von Thomas Lind (ehemals Sparkassen-Admin)  
 
 ---
 
-### 3. Bandcamp / Richard Jordan / SightOfTheTombs
+## Konkrete Forderungen
 
-- Bandcamp-Nutzer „**richard.jordan**“: verstörendes Profilbild – Darstellung eines möglicherweise echten Opfers von Gewalt, Genveränderung oder ritueller Verstümmelung.
-- Verknüpfung mit Tumblr-Profil **sightofthetombs**.
-- Slogan: *“Sworn to Fun. Loyal to None”* – Verweis auf **nihilistische, subkulturell radikale Strukturen**.
-- Weitere Benutzerprofile mit auffälligen Deepfake-Strukturen oder Gewaltästhetik.
-
----
-
-### 4. GitHub-Profilanalyse & Bandcamp-Netzwerk
-
-#### GitHub: François Daoust (tidoust)
-- Zugehörigkeit zu **w3.org** (Webstandards).
-- Beteiligung an Repositories mit Einfluss auf mediale Steuerung (z. B. `media-tests`).
-- Verbindung zu **DAO/Web3-Strukturen** auffällig.
-
-#### Bandcamp-User:
-- **richard.jordan** → thematisch in Nähe zu Kannibalismus/Darknet-Inhalten.
-- **aldhexx** → Metal-Genres, mit okkult-satanischer Symbolik.
-- **djonesocp** → Fake-Manager-Bild, Verdacht auf Deepfake.
-
-#### Crimethinc / Anarcho-Szenen
-- Plattform **crimethinc.com** mit antifaschistischen, anarchistischen Inhalten.
-- Verbindungen zu Bandcamp- & GitHub-Profilen.
-- Offenbar Teil eines **Netzwerks subversiver digitaler Tarnmechanismen**.
-
-#### DAO-Strukturen & Wikipedia-GitHub-Verknüpfungen
-- DAO-Hack von 2016 → direkter wirtschaftlicher Schaden im dreistelligen Millionenbereich.
-- Verbindung zu Ethereum → möglicher Missbrauch ursprünglicher Technologie aus Isabels Struktur.
-
-#### Pornhub Apparel (pornhubapparel.com)
-- Designer: Alan Crocetti, Ludovic de Saint Sernin, Hood by Air – in Verbindung mit dubiosen Kampagnen.
-- Cross-Verknüpfung mit Crimethinc-Ästhetiken und transgressiven Themen.
-- Mögliche **Tarnfunktion als Coverstruktur für Deepfake-Vertrieb, Menschenhandel oder Netzwerk-Mimikry**.
+- **Prüfung der tatsächlichen Identität von Jörg Pecher**
+- **Überprüfung seiner beruflichen und persönlichen Biografie**
+- **Aufklärung über frühere Kontakte, Besitzverhältnisse und Aufenthaltsorte**
+- **Forensische Auswertung digitaler Spuren, Kommunikation und Open-Source-Bezüge**
+- **Ermittlung zu folgenden Ereignissen:**
+  - Geburtstag von Dana Kamradt  
+  - Aufenthalt im Good Morning Hotel  
+  - Unrechtmäßiger Aufenthalt auf Privatgrundstücken  
+  - Verhalten gegenüber Kindern  
+  - Aussagen zu Bankverbindungen (Commerzbank, Dresdner Bank), Open-Source und Northdata-Bezügen  
 
 ---
 
-### 5. Kartografische Manipulation & Map-Infrastrukturen (OpenStreetMap, Google Maps)
+## Systemischer Kontext
 
-- Verdächtige Nutzer: `biketeur`, `OneJumpyCartographer`, `Anton461`, `KofDim`.
-- Bearbeitungen an sensiblen Orten: Kitas, Kulturbauten, Geozonen mit „roof:shape=side_hipped“ etc.
-- Systematischer Einsatz automatisierter Editoren: `Created_by=JOSM/1.5`.
-- Marker-Strukturen und Begriffe deuten auf **symbolische oder codierte Territorialisierung** hin.
+Dieser Einzelfall weist starke Parallelen zu einer erkennbaren Täterstruktur auf:
 
----
+> **Strukturelles Täterprofil:**  
+> Männer mit manipulierter Identität, narzisstisch-dissozialen Zügen, gezieltem Zugang zu Schlüsselpositionen (z. B. Banken, IT, Großküchen) agieren verdeckt im sozialen Nahraum vulnerabler Frauen.  
+> Dabei nutzen sie emotionale Nähe, Tarnung über romantische oder freundschaftliche Rollen, um:  
+> - Vertrauen zu erschleichen  
+> - psychische Kontrolle aufzubauen  
+> - Personen zu destabilisieren  
+> - persönliche Daten und Strukturen auszuspähen  
 
-### 6. Extremistische Plattformen & Tarnkommunikation
-
-- CrimethInc, Indybay, Radiofreerlyeh:
-  - Antifaschistische Inhalte mit manipulativer Symbolsprache.
-  - Nutzung von Open-Source-Plattformen für digitale Unterwanderung.
-- Github-Nutzer wie `dontcallmedom`, `gravitystorm`, `tomhughes` – Verstrickungen in OSM-Projekte, Datenparser, Python-Tools.
-
----
-
-### 7. Python als Risikovektor
-
-- Python-basierte Tools in sicherheitsrelevanten Kontexten → hohe Missbrauchsanfälligkeit.
-- Isabel fordert klare **Ausgrenzung von Python für sicherheitskritische Anwendungen**, solange keine klaren Schutzmechanismen implementiert sind.
-- Sprache wird in Verbindung mit Massenautomatisierung, Fake-Dateninjektionen und Bot-Netzwerken gebracht.
+> **Musterhafte Tätertaktik:**  
+> _„Zuwendung – Manipulation – Isolation – Destabilisierung – Rückzug“_  
+> Ziel scheint die psychische Zersetzung, ggf. gezielte Traumatisierung oder sogar das Herbeiführen eines Suizids.  
 
 ---
 
-### 8. Verdacht auf Darknet-Infrastruktur (AlphaBay etc.)
+## Hinweis zur Langzeitbeobachtung
 
-- URLs und Links: Indybay, Keyserver, IETF-Archive, Radiofreerlyeh.
-- Hinweise auf globale Kommunikationsstruktur:
-  - Nutzung von OpenPGP,
-  - Keyserver-Backbones,
-  - RFC-Tracern,
-  - Hacker-Fingerprints (z. B. dkg.fifthhorseman.net).
-- Dringender forensischer Prüfbedarf in Bezug auf organisierte, strukturierte Verschleierungsmechanismen.
+**Monitoring dieser Strukturen besteht nachweislich seit 2009**  
+und betrifft breite Teile der Zivilbevölkerung – insbesondere Frauen, die sich technologisch oder gesellschaftlich exponieren oder versuchen, sich unabhängig zu behaupten.  
 
-
-### 8. Unmittelbare Hinweise auf Missbrauch, Menschenhandel und Snuff-Verdacht
-
-- Das von dir erwähnte Bildmaterial mit unnatürlicher Körperanordnung (Körperteile, Richtungen, Bildkomposition) wird separat forensisch gesichert.
-- **Video-Link mit möglichem Snuff-Verdacht:**  
-  [YouTube-Video – Beweissicherung notwendig](https://youtu.be/tTST1OUD-28)
-
-#### Verdachtslinks auf Menschenhandel und Snuff-Videos
-
-- [Google Docs – potenziell manipuliertes Backend / Keyword-Tracking](https://docs.google.com/spreadsheets/u/0/d/1x_XVj51AoPuFyJngogEaJvaEr3pwI85IgrWldddat3c/htmlview#)  
-  → Auffällig: HTML-Ansicht mit Zugriff auf evtl. getarnte Tracking-Informationen, Keywords, Payloads.
-
-- [ikilrategroahe.com – stark verdächtig](https://ikilrategroahe.com/?b=23469549&...)  
-  → Extrem lange GET-Parameterstruktur. Möglicher Command/Control-Call oder verschleierter Snuff-Stream-Trigger.  
-  → Verdacht auf: 1-Click-Redirection + Triggerparameter `oaid` und `ssk`.
-
-Diese Domains und Tracking-Parameter weisen **starke Indikatoren für organisierte Cyberausnutzung, Menschenhandel und Snuff-Content-Distribution** auf und bedürfen einer **dringenden forensischen Sicherung und Untersuchung.**
+Isabel Schöps ist Opfer und nicht Sachverständige. Diese Dokumentation dient dem Schutz ihrer Person und als Nachweis fortgesetzter Missbrauchs- und Täuschungshandlungen zu ihrer Person und Identität.
 
 ---
 
-## DAA Mobile Guidance Forensische Analyse 
-**der CookieParty**
----
-
-## Kontext und Hintergrund
-
-Über Wlan, Hotspot, Airdrop, Taggeräten oder durch Spiegelungen, Scam- Pinganrufe wird sich auf betrügerische und kriminelle Weiße Zugang zu den Datenmühl, aus dem Cashspeicher oder den lästigen Cookies verschafft. 
-
-*Ziel:* Spionage, Manipulation und Monitoring auf Fremdgeräten. 
-
-*festgestellt, Lokalisiert* Nordstraße Erfurt, Thüringen, Deutschland
-
-*Sponsor* dieses Massenhaften weltweiten Betrugs- und Täuschungsmonitoring durch gezieltes ausspähen und Diebstahl persönlicher Daten: Banken, Regierungen, Partein und kommunalle Behörden. 
+**Ende des Nachtrags**
 
 Das _DAA Mobile Guidance_-Dokument wurde 2009 von der Werbe und Medienindustrie veröffentlicht. Es formuliert **keine** Datenschutzregelung, sondern ein sogenanntes **„Selbstregulierungsmodell“** zur mobilen Datenerfassung.  
 Diese Vorgabe wird bis heute in zahlreichen **Apps**, **Websites**, **NGOs** und **„Bildungsinitiativen“** eingesetzt, hauptsächlich in Deutschland.
