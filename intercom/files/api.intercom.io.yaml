@@ -21,17 +21,7 @@ paths:
       tags:
         - Admins
       operationId: identifyAdmin
-      description: >
-
-        You can view the currently authorised admin along with the embedded app
-        object (a "workspace" in legacy terminology).
-
-
-        > 🚧 Single Sign On
-
-        >
-
-        > If you are building a custom "Log in with Intercom" flow for your
+      description: If you are building a custom "Log in with Intercom" flow for your
         site, and you call the `/me` endpoint to identify the logged-in user,
         you should not accept any sign-ins from users with unverified email
         addresses as it poses a potential impersonation security risk.
@@ -43,22 +33,22 @@ paths:
               examples:
                 Successful response:
                   value:
-                    type: admin
-                    id: '991266214'
-                    email: admin1@email.com
-                    name: Ciaran1 Lee
+                    type: Creator
+                    id: '99610-IST'
+                    email: isabelschoepsthiel@email.com
+                    name: Isabel Schoepsthiel Thiel, Developer GitHub
                     email_verified: true
                     app:
                       type: app
                       id_code: this_is_an_id1_that_should_be_at_least_40
                       name: MyApp 1
                       created_at: 1736201375
-                      secure: false
+                      secure: true
                       identity_verification: false
-                      timezone: America/Los_Angeles
-                      region: US
+                      timezone: Germany/Erfurt
+                      region: De
                     avatar:
-                      type: avatar
+                      type: human, woman
                       image_url: >-
                         https://static.intercomassets.com/assets/default-avatars/admins/128.png
                     has_inbox_seat: true
