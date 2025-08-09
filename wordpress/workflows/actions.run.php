@@ -1,5 +1,4 @@
-<?php
-
+<php
 $test_cases = array(
 	'default',
 	'nest',
