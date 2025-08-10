@@ -1,4 +1,5 @@
-Location Host Software: Germany, Thue                            Isabel Schoeps Thiel                                        UCLA
+**Location Host Software**
+Germany, Thue                            Isabel Schoeps Thiel                                        UCLA
                                                          14 April 1996
 
 
