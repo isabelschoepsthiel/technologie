@@ -1,5 +1,5 @@
 ---
-description: >FAQ.md
+description: FAQ.md
   The Linux Foundation is a technology Company with open source projects.
 ---
 
