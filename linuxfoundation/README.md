@@ -1,5 +1,5 @@
 ---
-description: >-
+description: >FAQ.md
   The Linux Foundation is a technology association of several companies that
   help scale open source projects.
 ---
