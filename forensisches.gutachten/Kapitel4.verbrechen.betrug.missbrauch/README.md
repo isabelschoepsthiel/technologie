@@ -136,18 +136,13 @@ Dieser Einzelfall weist starke Parallelen zu einer erkennbaren Täterstruktur au
 > Ziel scheint die psychische Zersetzung, ggf. gezielte Traumatisierung oder sogar das Herbeiführen eines Suizids.  
 
 ---
-
-## Hinweis zur Langzeitbeobachtung
-
-**Monitoring dieser Strukturen besteht nachweislich seit 2009**  
-und betrifft breite Teile der Zivilbevölkerung – insbesondere Frauen, die sich technologisch oder gesellschaftlich exponieren oder versuchen, sich unabhängig zu behaupten.  
-
-Isabel Schöps ist Opfer und nicht Sachverständige. Diese Dokumentation dient dem Schutz ihrer Person und als Nachweis fortgesetzter Missbrauchs- und Täuschungshandlungen zu ihrer Person und Identität.
-
----
 ### **DAA Mobile Guidance**
 
-Das _DAA Mobile Guidance_-Dokument wurde 2009 von der Werbe und Medienindustrie veröffentlicht. Es formuliert **keine** Datenschutzregelung, sondern ein sogenanntes **„Selbstregulierungsmodell“** zur mobilen Datenerfassung.  
+Hinweis zur Langzeitbeobachtung **Monitoring dieser Strukturen besteht nachweislich seit 2009** und betrifft breite Teile der weltweiten Zivilbevölkerung, insbesondere Frauen, die sich technologisch oder gesellschaftlich exponieren oder versuchen, sich unabhängig zu behaupten.  
+
+Isabel Schöps geborene Thiel ist geschädigte und nicht Sachverständige. Diese Dokumentation dient dem Schutz ihrer Person und als Nachweis fortgesetzter Missbrauchs- und Täuschungshandlungen zu ihrer Person und Identität.
+
+**DAA Mobile Guidance** Das _DAA Mobile Guidance_-Dokument wurde 2009 von der Werbe und Medienindustrie veröffentlicht. Es formuliert **keine** Datenschutzregelung, sondern ein sogenanntes **„Selbstregulierungsmodell“** zur mobilen Datenerfassung.  
 Diese Vorgabe wird bis heute in zahlreichen **Apps**, **Websites**, **NGOs** und **„Bildungsinitiativen“** eingesetzt, hauptsächlich in Deutschland.
 
 Seit spätestens **2009** wird diese Form des Mobil-Trackings systematisch und verdeckt an der **zivilen Bevölkerung in Europa** eingesetzt, ohne ausdrückliche Zustimmung, ohne demokratische Legitimation und ohne wirksamen Rechtsweg.
@@ -201,13 +196,13 @@ Seit spätestens **2009** wird diese Form des Mobil-Trackings systematisch und v
 
 ---
 
-## 5. Forensische Bewertung der illegalen CookiePartie Ddurch Isabel Schöps
+## 5. Forensische Bewertung der illegalen CookiePartie Ddurch Isabel Schöps geborene Thiel
 
 > Dieses Framework stellt ein **strategisches Täuschungssystem** dar,  
 > das **Demokratie, Datenschutz und Nutzerrechte simuliert**,  
 > während tatsächliche Kontrolle über **nicht rückholbare technische Infrastrukturen** ausgeübt wird.
 
-Die Entschlüsselung dieses Systems durch **Isabel Schöps** erfolgt aus persönlicher Betroffenheit heraus  
+Die Entschlüsselung dieses Systems durch **Isabel Schöps geborene Thiel** erfolgt aus persönlicher Betroffenheit heraus  
 und bildet einen **wesentlichen Beitrag zur Aufdeckung digitaler Menschenrechtsverletzungen**.
 
 Diese Aufarbeitung ist rechtlich, technisch und ethisch von **herausragender Bedeutung** und dient der **Beweissicherung**, der **Selbstverteidigung** und der **Wahrheitsfindung**.
@@ -221,9 +216,6 @@ Diese Aufarbeitung ist rechtlich, technisch und ethisch von **herausragender Bed
   _Polizeiinspektion Erfurt Nord, AZ ST/0203129/2025_  
 - **Hash-ID (intern):** `IST-DAA-2013-MOBILE-RIP2025`
 
-**Beweisstruktur offengelegt und zur Anzeige gebracht, durch:**  
-Frau Isabel Schöps, geborene Thiel  
-Rohrborn, Sömmerda, Thüringen – Deutschland  
-
-Analysiert durch forensiche Verfahren, Software OpenAI – Ergänzung zum forensischen Gutachten (Stand: August 2025)
+**Beweisstruktur offengelegt und zur Anzeige gebracht,durch:** Frau Isabel Schöps, geborene Thiel  
+Rohrborn, Sömmerda, Thüringen – Deutschland. Gemeinsam analysiert durch forensiche Verfahren, Software OpenAI – Ergänzung zum forensischen Gutachten (Stand: August 2025)
 **Hash-ID für Nachweis:** `IST-MF-2018/14-03-BK-OSM-CHAIN01`
