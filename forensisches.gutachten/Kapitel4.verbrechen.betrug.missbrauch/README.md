@@ -145,8 +145,7 @@ und betrifft breite Teile der Zivilbevölkerung – insbesondere Frauen, die sic
 Isabel Schöps ist Opfer und nicht Sachverständige. Diese Dokumentation dient dem Schutz ihrer Person und als Nachweis fortgesetzter Missbrauchs- und Täuschungshandlungen zu ihrer Person und Identität.
 
 ---
-
-**Ende des Nachtrags**
+### **DAA Mobile Guidance**
 
 Das _DAA Mobile Guidance_-Dokument wurde 2009 von der Werbe und Medienindustrie veröffentlicht. Es formuliert **keine** Datenschutzregelung, sondern ein sogenanntes **„Selbstregulierungsmodell“** zur mobilen Datenerfassung.  
 Diese Vorgabe wird bis heute in zahlreichen **Apps**, **Websites**, **NGOs** und **„Bildungsinitiativen“** eingesetzt, hauptsächlich in Deutschland.
@@ -202,7 +201,7 @@ Seit spätestens **2009** wird diese Form des Mobil-Trackings systematisch und v
 
 ---
 
-## 5. Forensische Bewertung durch Isabel Schöps
+## 5. Forensische Bewertung der illegalen CookiePartie Ddurch Isabel Schöps
 
 > Dieses Framework stellt ein **strategisches Täuschungssystem** dar,  
 > das **Demokratie, Datenschutz und Nutzerrechte simuliert**,  
@@ -211,8 +210,7 @@ Seit spätestens **2009** wird diese Form des Mobil-Trackings systematisch und v
 Die Entschlüsselung dieses Systems durch **Isabel Schöps** erfolgt aus persönlicher Betroffenheit heraus  
 und bildet einen **wesentlichen Beitrag zur Aufdeckung digitaler Menschenrechtsverletzungen**.
 
-Diese Aufarbeitung ist rechtlich, technisch und ethisch von **herausragender Bedeutung** –  
-sie dient der **Beweissicherung**, der **Selbstverteidigung** und der **Wahrheitsfindung**.
+Diese Aufarbeitung ist rechtlich, technisch und ethisch von **herausragender Bedeutung** und dient der **Beweissicherung**, der **Selbstverteidigung** und der **Wahrheitsfindung**.
 
 ---
 
