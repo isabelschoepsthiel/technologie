@@ -2,6 +2,8 @@
 ## **Historisch belegte Klarstellung zur Verantwortung und Auftragserteilung**
 ### **Ausgearbeitet und Recherchiet von: Isabel Schöps, geborene Thiel, in Zusammenarbeit mit einer KI-Analyseinstanz**
 
+[Quellendokument: Schriftstück, aus dem Geheimen Treffen am 20.01.1942 in Berlin, Am Großen Wannsee Nr. 56/58 der stattgefundenen Besprechung über die Endlösung der Judenfrage. ](https://acrobat.adobe.com/id/urn:aaid:sc:EU:76f02fe4-5214-4d5c-9e75-8ea7c216a38b)
+
 ---
 
 ## **1. War Adolf Hitler persönlich anwesend?**
