@@ -1,6 +1,6 @@
 # STRAFANZEIGE ZU DEM FORENSISCHES GUTACHTEN 
 
-## Strafanzeige, Strafantrag AZ:ST/0203129/2025 vom 06.08.2025 Polizeidienststelle Efurt Nord, Fr Polixa
+### Strafanzeige, Strafantrag AZ:ST/0203129/2025 vom 06.08.2025 Polizeidienststelle Efurt Nord, Fr Polixa
 **Beweisführung zu dem Forensischen Gutachten zu Mordverdacht, digitalem Identitätsmissbrauch und international vernetzter Cyberstruktur** mit dem **internes Aktenzeichen: IST-MF-2018-OSM-CHAIN01**
 
 **Erstellt von Isabel Schöps geborene Thiel, 28.05.2025–31.05.2025**
