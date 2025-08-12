@@ -8,12 +8,7 @@ Dieses hatte ich seit dem 20.06.2025 bewohnt, nach einem psychisch katastrophale
 Aufenthalt bei Herrn Roland Metz, Kranichfelder Straße 1, 99195 Alperstedt, Thüringen, 
 Deutschland, vom 04. Mai 2025 bis 20. Juni 2025 mit meinem Hund Don.
 
-Ich versichere eidesstattlich, dass ich, Frau Isabel Schöps, geborene Thiel, geboren am 
-16.07.1983 in Sömmerda, Thüringen, Deutschland, mich wieder gemeinsam mit meinem 
-Hund-Tier Don, einem American XL Bully, gesund in Erfurt, Thüringen, Deutschland 
-befinde. Nach einem kurzen vorübergehenden Aufenthalt vom 24.07.2025 bis 03.08.2025 
-bei Herrn Jörg Pecher in der Schillerstraße 51, 99310 Arnstadt, bin ich seit 05.08.2025 
-dauerhaft zurück in Erfurt, Thüringen, Deutschland.
+Ich versichere eidesstattlich, dass ich, Frau Isabel Schöps, geborene Thiel, geboren am 16.07.1983 in Sömmerda, Thüringen, Deutschland, mich wieder gemeinsam mit meinem Hund-Tier Don, einem American XL Bully, gesund in Erfurt, Thüringen, Deutschland befinde. Nach einem kurzen vorübergehenden Aufenthalt vom 24.07.2025 bis 03.08.2025 bei Herrn Jörg Pecher in der Schillerstraße 51, 99310 Arnstadt, bin ich seit 05.08.2025 dauerhaft zurück in Erfurt, Thüringen, Deutschland.
 
 Seit dem 15.11.2023 bin ich ohne festen Wohnsitz, da ich das von mir rechtmäßige 
 Wohneigentum W1,W2 Cyriakstraße 37, 99094 Erfurt UVZ 1680/2023 Notarin Tina Löffler, 
