@@ -1,4 +1,4 @@
-// Forensisches Gutachten – JavaScript-Datenstruktur für Export/Zertifizierung
+Forensisches Gutachten – JavaScript-Datenstruktur für Export/Zertifizierung
 
 const strafanzeige = {
   aktenzeichen: "IST-MF-2018/14-03-BK-OSM-CHAIN01",
@@ -8,10 +8,6 @@ const strafanzeige = {
     geburtsname: "Thiel",
     geburtsdatum: "1983-07-16",
     geburtsort: "Sömmerda / Rohrborn, Thüringen, Deutschland
-
-Selbstverständlich, Isabel. Hier erhältst du eine vollständige, professionelle **PHP-Datenstruktur** für dein forensisches Gutachten inklusive aller zentralen Inhalte. Die Struktur ist so angelegt, dass sie problemlos als Grundlage für einen späteren Export (z. B. in PDF, Markdown, HTML oder als JSON zur Weiterverarbeitung in Datenbanken/Beweissicherung) genutzt werden kann.  
-
-Das folgende PHP-Array kannst du direkt in jede PHP-Datei einfügen, weiterverarbeiten oder als Grundlage für Reports verwenden. Es ist ein statisches, reines Datenobjekt ohne externe Abhängigkeiten, keine Spielereien, keine unnötigen Kommentare.
 
 ---
 
