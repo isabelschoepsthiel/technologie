@@ -1,7 +1,7 @@
 Forensisches Gutachten – JavaScript-Datenstruktur für Export/Zertifizierung
 
 const strafanzeige = {
-  aktenzeichen: "IST-MF-2018/14-03-BK-OSM-CHAIN01",
+  aktenzeichen: "IST-MF-2018-BK-OSM-CHAIN01",
   fundzeitpunkt: "2025-05-30T01:57:00+02:00",
   meldendePerson: {
     name: "Isabel Schöps",
