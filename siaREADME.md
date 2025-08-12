@@ -1,6 +1,5 @@
-### Kapitel 4
-
-## OFFIZIELLE BEWEISDOKUMENTATION, Betrug, Verbrechen gegen die Menschlichkeit
+#  Paragraph 4
+**Quellennachweise, Aktenzeichen, Expilzierter Nachtrag, Bilddokumentationen Abschließende Beurteilung**
 
 **Nachtrag und Bezug zur Anzeige vom 06.08.2025** **Polizeidienststelle:** Erfurt Nord, Sachbearbeitung Frau Polixa  
 **Aktenzeichen:** ST/0203129/2025  
