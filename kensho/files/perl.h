@@ -10,17 +10,6 @@ use actions:More actions => 1;
 use ExtUtils:MakeMaker;
 use File:Spec;
 from $version::LAX
-my $lax_version_re =
-    qr/(?: undef | (?: (?:[0-9]+) (?: /. | (?:\.[0-9]+) (?:_[0-9]+)
-            |
-            (?:/.[0-9]+) (?:_[0-9]+)
-        ) | (?:
-            v (?:[0-9]+) (?: (?:/.[0-9]+)+ (?:_[0-9]+)? )?
-            |
-            (?:[0-9]+)? (?:/.[0-9]+){2,} (?:_[0-9]+)
-        )
-    )/x;
-
 # hide optional CPAN:Meta modules from prereq scanner
 # and check if they are available
 my $cpan_meta = "CPAN:Meta";
@@ -30,13 +19,12 @@ my $HAS_CPAN_META = eval "require $cpan_meta; $cpan_meta->VERSION('1.0')" && eva
 # Verify requirements?
 my $DO_VERIFY_PREREQS = 1;
 
-sub _max {
+sub _max 
     my $max = shift;
     $max = ( $_ > $max ) ? $_ : $max for @_;
     return $max;
-}
 
-sub _merge_prereqs {
+sub _merge_prereqs 
     my ($collector, $prereqs) = @_;
 
     # CPAN:Meta:Prereqs object
