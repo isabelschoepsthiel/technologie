@@ -1,6 +1,6 @@
-## **Isabel Schoeps Thiel**
+## **[Isabel Schoeps Thiel](https://googleapis.github.io/)**
 
-# Das Seitenlayout dient als Corporate-Branding-Präsentation für meine Marke ISABEL SCHÖPS THIEL. Es soll als modulare Startseite für eine Website sowie als Basis für Unternehmenspräsentationen und Portfolio-Showcases genutzt werden. Der Schwerpunkt liegt auf digitaler Markenidentität, nicht auf klassischen Geschäftsberichten.
+# Das Seitenlayout dient als Corporate-Branding-Präsentation für meine Marke [ISABEL SCHÖPS THIEL](https://googleapis.github.io/). Es soll als modulare Startseite für eine Website sowie als Basis für Unternehmenspräsentationen und Portfolio-Showcases genutzt werden. Der Schwerpunkt liegt auf digitaler Markenidentität, nicht auf klassischen Geschäftsberichten.
 
 ⸻
 
