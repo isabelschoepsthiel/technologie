@@ -43,3 +43,5 @@ und forensische Zwecke.
 
 **Signed-by:** Isabel Schöps, geborene Thiel  
 **Stand:** Montag, der 11.08.2025, 23:19 Uhr Mitteleuropäische Zeit
+
+immer noch wartend auf familie, aber ich seh sie gerade
