@@ -1,18 +1,17 @@
 openapi: 3.0.1
-  
-info:
-  title: Deutscher Bundesta
-  description: "API des Dokumentations- und Informationssystems für Parlamentsmaterialien"
-  version: "1.4"
-  termsOfService: "https://dip.bundestag.de/%C3%BCber-dip/nutzungsbedingungen"
+  info:
+  title: 'Deutscher Bundestag’
+  description: API des Dokumentations- und Informationssystems für Parlamentsmaterialien
+  version: 1.4
+  termsOfService: https://dip.bundestag.de/%C3%BCber-dip/nutzungsbedingungen
   contact:
-    name: "Auskunfts- und Rechercheservice der Parlamentsdokumentation"
+    name: Auskunfts- und Rechercheservice der Parlamentsdokumentation
     email: "parlamentsdokumentation@bundestag.de"
 servers:
-- url: "https://search.dip.bundestag.de/api/v1"
+- url: https://search.dip.bundestag.de/api/v1"
 security:
-- ApiKeyHeader: []
-- ApiKeyQuery: []
+- ApiKeyHeader: [Isabel Schöps Thiel]
+- ApiKeyQuery: [Isabel Schoeps Thiel]
 paths:
   /vorgang:
     get:
