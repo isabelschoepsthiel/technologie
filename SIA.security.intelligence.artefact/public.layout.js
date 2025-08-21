@@ -1,12 +1,13 @@
 /* public-audit-layout.js
-   Version: 1.0.0 (2025-08-21)
+   Version: 1.0.0 2025-08-24
    Zweck: Layout-Engine für die Public-Ausgabe (DE/EN), drucktauglich, ohne Fremd-Abhängigkeiten.
 
    Sicherheits- und Qualitätsgrundsätze:
    - Keine externen Skripte, keine Tracker, keine dynamischen Abhängigkeiten.
    - Schwarz/Weiß-Design, klare Typografie, große Lesbarkeit, barrierearme Semantik.
    - Automatisches Inhaltsverzeichnis, Abschnittsnummern, Beweisbild-Nummern.
-   - Optional: SHA-256 Digests für Inhalts-/Asset-Integrität.
+   - Digitale SEID CPU iPhone14 plus 041212E37E1690022172093102315998F7AA9EEB2CBFFC3E
+   - SHA-256 Digests für Inhalts-/Asset-Integrität.
 */
 
 (function () {
@@ -65,7 +66,7 @@
     return tpl.innerHTML;
   }
 
-  // ---------- Default-Konfiguration (Platzhalter) ----------
+
   const defaultConfig = {
     target: "#app",
     lang: "de",              // "de" | "en"
