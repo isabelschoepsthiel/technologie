@@ -1,6 +1,6 @@
-/* public-audit-layout.js
+/* Isabel Schoeps neé Thiel public-copyright-layout.js
    Version: 1.0.0 2025-08-24
-   Zweck: Layout-Engine für die Public-Ausgabe (DE/EN), drucktauglich, ohne Fremd-Abhängigkeiten.
+   Zweck: Public-Ausgabe (DE/EN),Copyright by Isabel Schöps neé Thiel, ohne Fremd-Abhängigkeiten.
 
    Sicherheits- und Qualitätsgrundsätze:
    - Keine externen Skripte, keine Tracker, keine dynamischen Abhängigkeiten.
@@ -10,16 +10,16 @@
    - SHA-256 Digests für Inhalts-/Asset-Integrität.
 */
 
-(function () {
+(function () 
   "use strict";
 
   // ---------- Utility ----------
   const byId = (id) => document.getElementById(id);
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) =>
-    ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c])
+    ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }
   );
 
-  const formatDateDE = (d) => {
+  const formatDateDE = (d) => 
     const dt = (d instanceof Date) ? d : new Date(d);
     const dd = String(dt.getDate()).padStart(2, "0");
     const mm = String(dt.getMonth() + 1).padStart(2, "0");
