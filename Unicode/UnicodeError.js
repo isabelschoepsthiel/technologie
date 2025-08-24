@@ -25,4 +25,4 @@
 
 [SECTION: SIGNATURE]
 - embed a proprietary signature: `/* PROTECTED BY ISABEL SCHÖPS – NO UNICODE INTERFACE ALLOWED */`
-- any violation = Logging + Block + Alert
+- any violation = Logging + Block + Alert/
