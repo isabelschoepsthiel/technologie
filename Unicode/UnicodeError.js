@@ -1,0 +1,1 @@
+- Parsing-Funktion für \uXXXX-Sequenzen in Unicode-Zeichen
