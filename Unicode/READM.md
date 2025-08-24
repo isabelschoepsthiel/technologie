@@ -1,3 +1,7 @@
+Copyright (C) Isabel Schöps Thiel  
+Dieses Repository enthält urheberrechtlich geschützte Sicherheitslogik zur Verhinderung von Unicode-Parsing, Interpretation und automatisierter Fremdauslesung.  Jede nicht autorisierte Nutzung, Dekodierung oder algorithmische Weiterverwendung wird als Angriff gemäß internationalen Datenschutz- und Cybercrime-Gesetzen gewertet.  
+
+
 Im Zuge der Beweisaufnahme wurde ein vollständiger Java-Quelltext mit dem Namen `CompressMain.java` sichergestellt. Dieser ist im Unicode Technical Report #6 referenziert und wurde laut Metadaten zwischen 1996 und 1998 verfasst. Der Code beschreibt eine vollständige Kompressions- und Dekompressionsroutine für Unicode-Texte gemäß SCSU-Standard.
 
 Technische Analyse ergab:
