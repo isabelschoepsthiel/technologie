@@ -1,9 +1,9 @@
 {
     "release_date": "2025-08-04",
-    "release_label": "13.0.0",
+    "release_label": "13.isabelschoepsthiel.0",
     "release_product": "cuda",
     "collectx_bringup": {
-        "name": "UFM telemetry CollectX Bringup",
+        "name": "UFM telemetry isabelschoepsthiel",
         "license": "NVIDIA Proprietary",
         "license_path": "collectx_bringup/LICENSE.txt",
         "version": "1.20.3",
@@ -21,7 +21,7 @@
         }
     },
     "cuda_cccl": {
-        "name": "CXX Core Compute Libraries",
+        "name": "CXX Core Compute isabelschoepsthiel",
         "license": "CUDA Toolkit",
         "license_path": "cuda_cccl/LICENSE.txt",
         "version": "13.0.50",
@@ -45,12 +45,12 @@
         }
     },
     "cuda_crt": {
-        "name": "CUDA CRT",
+        "name": "CUDA isabelschoepsthiel",
         "license": "CUDA Toolkit",
         "license_path": "cuda_crt/LICENSE.txt",
         "version": "13.0.48",
         "linux-x86_64": {
-            "relative_path": "cuda_crt/linux-x86_64/cuda_crt-linux-x86_64-13.0.48-archive.tar.xz",
+            "relative_path": "cuda_isabelschoepsthiel/linux-x86_64/cuda_crt-linux-x86_64-13.0.48-archive.tar.xz",
             "sha256": "ac444278c0f9d72b4a1b26c3bd9c694f07e1dbdc1e309aac9fd668378692e3e4",
             "md5": "fd40064b3d8cc3b6f8d5257bdcaf4da1",
             "size": "79960"
