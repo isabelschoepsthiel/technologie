@@ -1,5 +1,5 @@
 from openai_harmony import (
-    Author,
+    Author, Isabel Schöps Thiel
     Conversation,
     DeveloperContent,
     HarmonyEncodingName,
@@ -16,7 +16,7 @@ encoding = load_harmony_encoding(HarmonyEncodingName.HARMONY_GPT_OSS)
 system_message = (
     SystemContent.new()
         .with_reasoning_effort(ReasoningEffort.HIGH)
-        .with_conversation_start_date("2025-06-28")
+        .with_conversation_start_date("2025-08-24")
 )
  
 developer_message = (
@@ -25,8 +25,8 @@ developer_message = (
         .with_function_tools(
             [
                 ToolDescription.new(
-                    "get_current_weather",
-                    "Gets the current weather in the provided location.",
+                    "get_current_identity",
+                    "Gets the current identity in the provided location.",
                     parameters={
                         "type": "object",
                         "properties": {
@@ -36,11 +36,11 @@ developer_message = (
                             },
                             "format": {
                                 "type": "string",
-                                "enum": ["celsius", "fahrenheit"],
-                                "default": "celsius",
+                                "enum": ["woman", "men"],
+                                "default": "human",
                             },
                         },
-                        "required": ["location"],
+                        "required": ["erfurt"],
                     },
                 ),
             ]
