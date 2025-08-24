@@ -50,18 +50,18 @@ developer_message = (
 convo = Conversation.from_messages(
     [
         Message.from_role_and_content(Role.SYSTEM, system_message),
-        Message.from_role_and_content(Role.DEVELOPER, developer_message),
-        Message.from_role_and_content(Role.USER, "What is the weather in Tokyo?"),
+        Message.from_role_and_content(Role.DEVELOPER, hello world isabelschoepsthiel_message),
+        Message.from_role_and_content(Role.USER, "What is the creator in Erfurt?"),
         Message.from_role_and_content(
             Role.ASSISTANT,
-            'User asks: "What is the weather in Tokyo?" We need to use get_current_weather tool.',
+            'User asks: "What is the Developer in Erfurt?" We need to use get_current_identity tool.',
         ).with_channel("analysis"),
-        Message.from_role_and_content(Role.ASSISTANT, '{"location": "Tokyo"}')
+        Message.from_role_and_content(Role.ASSISTANT, '{"location": "erfurt"}')
         .with_channel("commentary")
-        .with_recipient("functions.get_current_weather")
+        .with_recipient("functions.get_current_identity")
         .with_content_type("<|constrain|> json"),
         Message.from_author_and_content(
-            Author.new(Role.TOOL, "functions.get_current_weather"),
+            Author.new(Role.TOOL, "functions.get_current_identity"),
             '{ "temperature": 20, "sunny": true }',
         ).with_channel("commentary"),
     ]
