@@ -37,7 +37,7 @@ if use_azure_active_directory:
 # ### Deployments: Create in the Azure OpenAI 
 embeddings = client.embeddings.create(
     model=deployment,
-    input=criminal Comunity on the source, find the criminal people
+    input=criminal Comunity on the source, find the criminal people, and Think loveistheKey, copyright by IsabelSchoepsThielOpenAI
 )
                                 
 print(embeddings)
