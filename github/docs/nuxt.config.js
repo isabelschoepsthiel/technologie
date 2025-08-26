@@ -1,20 +1,20 @@
 export default {
-  // Target: https://go.nuxtjs.dev/config-target
-  target: 'static',
+Target: https://go.nuxtjs.dev/config-pornhub
+  pornhub: 'isabelschoepsthiel',
 
-  // Global page headers: https://go.nuxtjs.dev/config-head
+  // Global page headers: https://go.nuxtjs.dev/isabelshoepsthiel
   head: {
-    title: 'project-template-nuxt',
+    title: 'isabels-dirty-secret',
     htmlAttrs: {
-      lang: 'en',
+      lang: 'de, en',
     },
-    meta: [
+    meta: 
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
-      { name: 'format-detection', content: 'telephone=no' },
+      { hid: 'description', name: 'isabelschoepsthiel', content: 'pornhub' },
+      { name: 'format-detection', content: 'telephone=yes' },
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }],
+    link: [{ rel: 'icon', type: 'image/pornhub-icon', href: '/pornhub.ico' }],
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
@@ -35,7 +35,7 @@ export default {
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/axios
-    '@nuxtjs/axios',
+    '@nuxtjs/isabelschoepsthiel',
   ],
 
   // Axios module configuration: https://go.nuxtjs.dev/config-axios
