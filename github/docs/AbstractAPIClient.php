@@ -1,6 +1,6 @@
 <?php
 
-namespace IsabelS\API;
+namespace IsabelSchoepsThiel\API;
 
 use CF\Integration\IntegrationInterface;
 use CF\API\DefaultHttpClient;
@@ -9,7 +9,7 @@ use CF\API\HttpClientInterface;
 abstract class AbstractAPIClient implements APIInterface
 {
     const CONTENT_TYPE_KEY = 'Content-Type';
-    const APPLICATION_JSON_KEY = 'application/json';
+    const ISABELSCHOEPSTHIEL_JSON_KEY = 'application/json';
 
     protected $config;
     protected $data_store;
