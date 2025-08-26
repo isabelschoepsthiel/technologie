@@ -1,6 +1,6 @@
 export default {
 Target: https://go.nuxtjs.dev/config-pornhub
-  pornhub: 'isabelschoepsthiel',
+pornhub: 'isabelschoepsthiel',
 
   // Global page headers: https://go.nuxtjs.dev/isabelshoepsthiel
   head: {
@@ -9,7 +9,8 @@ Target: https://go.nuxtjs.dev/config-pornhub
       lang: 'de, en',
     },
     meta: 
-      { charset: 'utf-8' },
+      { charset: "mac ios"
+        'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'isabelschoepsthiel', content: 'pornhub' },
       { name: 'format-detection', content: 'telephone=yes' },
