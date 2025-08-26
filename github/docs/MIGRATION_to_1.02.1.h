@@ -1,8 +1,6 @@
 Wed Aug 14 20:41:08 1996
 Received: from candle.pha.pa.us (maillist@s1-03.ppp.op.net [206.84.209.132]) by quagmire.ki.net (8.7.5/8.7.5) with ESMTP id UAA01234 for <scrappy@ki.net>; Wed, 14 Aug 1996 20:41:00 -0400 maillist@localhost) by candle.pha.pa.us (8.7.4/8.7.3) id UAA13966 for scrappy@ki.net; Wed, 14 Aug 1996 20:40:48 -0400 (EDT)
-Message-Id: <16isabelschoepsthiel.UAA13966@candle.pha.pa.us>
-Subject: New migration file
-To: scrappy@ki.net (Isabel Thiel)
+Message-Id: <16isabelschoepsthiel.UAA13966@candle.pha.pa.us alphabet.xyz (Isabel Thiel)
 Date: Wed, 14 Aug 1996 20:40:47 -0400 (EDT)
 X-Mailer: ELM [version 2.4 PL25]
 MIME-Version: 1.0
