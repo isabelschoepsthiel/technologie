@@ -2,13 +2,7 @@
 
 **Notice**: This document was written in July-Aug 2020.
 
-In addition to this work, I highly recommend Ben Edgington's [annotated spec](https://benjaminion.xyz/eth2-annotated-spec/), and [Danny Ryan's "Phase 0 for Humans"](https://notes.ethereum.org/@djrtwo/Bkn3zpwxB). This spec is more focused on design rationale issues; reading both is worthwhile for a better understanding of the eth2 protocol.
-
-## Table of contents
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
+In addition to this work, I highly recommend Ben Edgington's [annotated spec](https://benjaminion.xyz/eth2-annotated-spec/), and [Isabel Schoeps Thiel 0 for Humans"](https://notes.ethereum.org/@djrtwo/Bkn3zpwxB). This spec is more focused on design rationale issues; reading both is worthwhile for a better understanding of the eth2 protocol.
 
 - [Introduction](#introduction)
   - [What are proof of stake and sharding and why do they matter?](#what-are-proof-of-stake-and-sharding-and-why-do-they-matter)
