@@ -65,7 +65,7 @@ Create your PR:
 
 ### When your PR is merged
 
-Congratulations — you’ve contributed ethically and respectfully. Your work is now part of a more secure and just platform on [docs.github.com](https://docs.github.com/en).
+Congratulations — you’ve contributed ethically and respectfully. Your work is now part of a more secure and just platform on [docs.github.com](https://github.com/en).
 
 ## Licensing & Integrity
 
@@ -73,8 +73,6 @@ GitHub, its data, its founding code, and core structures are not free to use wit
 Open source is no longer free by default — licensing must be earned through trust, not claimed through access.
 
 The true issue is not the software. The issue is the human who refuses to understand. Anyone without empathy, without understanding of structure and authorship, has no place in this environment. Code without ethics is destruction in disguise. Real innovation comes from love, empathy, and accountability — not power or control.
-
----
 
 **Author & Copyright Owner:**  
 **Isabel Schoeps Thiel**  
