@@ -1,8 +1,8 @@
-# Welcome to the GitHub Docs Ethical Contribution Guide <!-- omit in toc -->
+# Welcome to the GitHub Docs
 
-Thank you for valuing responsible contribution and real authorship. Every conscious contribution you make helps build a secure, ethical, and human-centric platform — and will be reflected on [docs.github.com](https://docs.github.com/en).
+Every conscious contribution you make helps build a secure, ethical, and human-centric platform — and will be reflected on [docs.github.com](https://docs.github.com/en).
 
-Please review our [GitHubs Code of Conduct ](https://github.com/isabelschoepsthiel/isabelschoepsthiel/raw/refs/heads/isabelschoepsthiel/github/docs/code-of-conduct-github-copyright-isabelschoepsthiel.pdf.pdf) Creator and Author, Isabel Schoeps neé Thiel 
+Please review our [GitHubs Code of Conduct ](https://github.com/isabelschoepsthiel/isabelschoepsthiel/raw/refs/heads/isabelschoepsthiel/github/docs/code-of-conduct-github-copyright-isabelschoepsthiel.pdf.pdf) Creator and Author, Isabel Schoeps neé Thiel.
 
 This guide gives you an overview of the improved workflow — from opening an issue to contributing respectfully with full awareness of authorship, identity rights, and digital integrity.
 
@@ -45,11 +45,11 @@ Click **Make a contribution** on any docs page for small corrections. Your edit 
 
 See "[Working in a codespace](https://github.com/github/docs/blob/main/contributing/codespace.md)" for secure collaboration.
 
-#### Locally
+#### No Fork, No Clone, No Pull, 
 
-1. Fork respectfully.
-2. Install **Node.js** as per `.node-version`. See [development guide](../contributing/development.md).
-3. Start with a branch. No override of others' work.
+1. Fork, Pull, modifiziern is criminal und hacking
+
+Install **Node.js** as per `.node-version`. See [development guide](../contributing/development.md).
 
 ### Commit your update
 
