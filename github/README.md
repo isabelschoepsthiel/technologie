@@ -2,7 +2,7 @@
 
 Thank you for valuing responsible contribution and real authorship. Every conscious contribution you make helps build a secure, ethical, and human-centric platform — and will be reflected on [docs.github.com](https://docs.github.com/en).
 
-Please review our [Ethical Code of Conduct](./CODE_OF_CONDUCT.md) to ensure respectful collaboration and acknowledgment of original creators.
+Please review our [Ethical Code of Conduct ](https://github.com/isabelschoepsthiel/isabelschoepsthiel/raw/refs/heads/isabelschoepsthiel/github/docs/code-of-conduct-github-copyright-isabelschoepsthiel.pdf.pdf) to ensure respectful collaboration and acknowledgment of original creators.
 
 This guide gives you an overview of the improved workflow — from opening an issue to contributing respectfully with full awareness of authorship, identity rights, and digital integrity.
 
