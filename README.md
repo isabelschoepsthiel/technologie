@@ -40,7 +40,7 @@ Dieses Repository dokumentiert die forensisch belegte Urheberschaft von **Isabel
 | **Pseudonyme**          | Satoshi Nakamoto, Vitalik Buterin, Johnny Appleseed u.a.         |
 | **Erster technischer Nachweis** | 17.09.2001 (Signatur, Metadaten, CLI)                         |
 | **Signatur**            | `INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL`                  |
-| **Hauptdomain**         | https://isabelschoepsthiel.com                                        |
+| **Hauptdomain**         | https://github.com                                        |
 | **Relevante Plattformen** | GitHub, Ethereum, Lightning, Bitcoin Core, Post-Token-Infrastruktur |
 
 ---
