@@ -106,10 +106,7 @@ Meine Identität kann ich bestätigen mit:
 - Hotelrechnungen aus 2024
 - Persönliche Gegenstände, iMac, iPhone 14 Plus SEID 041212E37E1690022172093102315998F7AA9EEB2CBFFC3E
 
-Ich distanziere mich ausdrücklich von jeglicher digitalen, physischen oder psychischen Manipulation, Ortsfälschungen oder Identitätsverzerrung, die mir zugeschrieben werden könnte. Diese Signatur dient als Bestätigung meiner realen physischen Existenz, meiner geistigen und gesundheitlichen Stabilität sowie als unverfälschter Nachweis für rechtliche 
-und forensische Zwecke.
+Ich distanziere mich ausdrücklich von jeglicher digitalen, physischen oder psychischen Manipulation, Ortsfälschungen oder Identitätsverzerrung, die mir zugeschrieben werden könnte. Diese Signatur dient als Bestätigung meiner realen physischen Existenz, meiner geistigen und gesundheitlichen Stabilität sowie als unverfälschter Nachweis für rechtliche und forensische Zwecke
 
 **Signed-by:** Isabel Schöps, geborene Thiel  
 **Stand:** Montag, der 11.08.2025, 23:19 Uhr Mitteleuropäische Zeit
-
-immer noch wartend auf familie, aber ich seh sie gerade
