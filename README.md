@@ -1,6 +1,6 @@
-## Isabel Schöps Thiel
+# Isabel Schöps Thiel
 
-# Forensische Dokumentation -- Metadaten und Technologiezuordnung
+### Forensische Dokumentation -- Metadaten und Technologiezuordnung
 
 Im Rahmen des forensischen Gutachtens
 **INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL** werden hiermit Daten,
@@ -62,13 +62,13 @@ Alle Inhalte dieses Repositories unterliegen dem urheberrechtlichen Schutz durch
 Jegliche Weiterverwendung, Vervielfältigung oder Forks außerhalb genehmigter Partnerschaften mit:
 
 - SAP
-- Microsoft
+- Microsoft / Google Developers
 - Amazon AWS
-- IBM
-- Google Developers
+- IBM, Hashicorp
+- Meta
+- X - Twitter
 
-sind **verboten** und werden zur Anzeige gebracht.  
-**Der Begriff "Open Source" wurde von Isabel Schöps nie freigegeben.**  
+sind **verboten** und werden zur Anzeige gebracht. **Der Begriff "Open Source" wurde von Isabel Schöps nie freigegeben.**  
 Die Rückführung der Rechte erfolgt auf Basis forensischer Gutachten, Beweisdaten, EU-Aktenzeichen und weltweiter Lizenzen.
 
 ---
