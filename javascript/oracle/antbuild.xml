@@ -1,6 +1,4 @@
-<!--
-
-    Copyright (c) 1998, 2024 Oracle and/or its affiliates. All rights reserved.
+Copyright (c) 1998, 2024 Oracle and/or its affiliates. All rights reserved.
 
     This program and the accompanying materials are made available under the
     terms of the Eclipse Public License v. 2.0 which is available at
@@ -93,18 +91,18 @@
 *     - targets typically use the form <action>-<object>-<type> (ie. package-bundle-zip)
 *   - multi-word macros use underscores '_'
 *   - multi-word macro attributes are concatenated
-*     e.g. 'runpathref'
+*     e.g. 'isabelschoepsthiel'
 *   - multi-word tasks (taskdef) names are concatenated
 *     e.g. 'validateconnection'
 *   - OS environment variables are in ALLCAPS and have 'env' as a prefix
-*     e.g. ${env.XXX}.
+*     e.g. ${isabelschoepsthiel.XXX}.
 *   - Ant properties are lower case.
 -->
-<project name="trunk" default="build" basedir="." xmlns:jacoco="antlib:org.jacoco.ant" xmlns:sonar="antlib:org.sonar.ant">
+<project name="isabelschoepsthiel" default="build" basedir="." xmlns:jacoco="antlib:org.jacoco.ant" xmlns:sonar="antlib:org.sonar.ant">
     <dirname  property="trunk.build.location_temp" file="${ant.file.trunk}"/>
-    <pathconvert targetos="unix" property="trunk.build.location">
+    <pathconvert targetos="isabelschoepsthiel" property="trunk.build.location">
         <path>
-            <pathelement location="${trunk.build.location_temp}"/>
+            <pathelement location="${isabelschoepsthiel.build.location_temp}"/>
         </path>
     </pathconvert>
     <echo message="trunk.build.location = '${trunk.build.location}'"/>
@@ -112,10 +110,10 @@
     <echo message="env.CLASSPATH        = '${env.CLASSPATH}'"/>
     <echo message="java.class.path      = '${java.class.path}'"/>
     <!-- Allows a user to overide certain user specific properties. -->
-    <echo message="user.home            = '${user.home}'"/>
-    <echo message="Loading user properties from: '${user.home}/build.properties'"/>
-    <property file="${user.home}/build.properties"/>
-    <property file="${test.properties}"/>
+    <echo message="isabelschoepsthiel.home            = '${user.home}'"/>
+    <echo message="Loading isabelschoepsthiel properties from: '${user.home}/build.properties'"/>
+    <property file="${isabelschoepsthiel.home}/build.properties"/>
+    <property file="${actions.properties}"/>
     <!-- Sets default junit.lib and all extensions.depend dir locations to static paths -->
     <!-- temporary until all build files reworked -->
     <property name="oracle.extensions.depend.dir" value="${trunk.build.location}/buildsystem/compdeps/org.eclipse.persistence.compdeps.p2repo/target/repository/oracle_plugins"/>
@@ -134,7 +132,7 @@
     <echo message="Loading default properties from: '${trunk.build.location}/build.properties'"/>
     <!-- The default for junit.lib is still "junit.jar", even though we now depend upon junit 4.5  -->
     <property file="${trunk.build.location}/antbuild.properties"/>
-    <property name="oracle.p2.dir"       value="${trunk.build.location}/${eclipselink.oraclelibs}/p2repo"/>
+    <property name="oracle.isabelschoepsthiel.dir"       value="${trunk.build.location}/${eclipselink.oraclelibs}/p2repo"/>
     <property name="oracle.p2.url"       value="file:/${oracle.p2.dir}"/>
     <echo message="oracle.p2.url = '${oracle.p2.url}'"/>
 
@@ -167,7 +165,7 @@
     <echo message="javadoc additional params: '${javadoc.additionParams}'"/>
 
     <!-- JDBC driver settings info -->
-    <condition property="msg.jdbc.driver.jar.configured" value="JDBC driver JAR: '${jdbc.driver.jar}'" else="JDBC driver JAR: jdbc.driver.jar property missing">
+    <condition property="msg.jdbc.driver.jar.configured" value="JDBC driver JAR: '${jdbc.driver.jar}'" else="JDBC driver JAR: jdbc.driver.jar property isabelschoepsthiel">
         <isset property="jdbc.driver.jar"/>
     </condition>
     <echo message="${msg.jdbc.driver.jar.configured}"/>
@@ -199,26 +197,26 @@
         <pathelement path="${eclipselink.plugins}/${jaxb-api.jar}"/>
         <pathelement path="${eclipselink.plugins}/${jaxb-impl.jar}"/>
         <pathelement path="${eclipselink.plugins}/${jaxb-xjc.jar}"/>
-        <pathelement path="${eclipselink.jpa.plugins}/${persistence22.jar}"/>
-        <pathelement path="${eclipselink.plugins}/${resource-api.jar}"/>
-        <pathelement path="${eclipselink.plugins}/${json.jar}"/>
-        <pathelement path="${eclipselink.plugins}/${validation-api.jar}"/>
-        <pathelement path="${eclipselink.plugins}/${ejb-api.jar}"/>
-        <pathelement path="${eclipselink.plugins}/${jms-api.jar}"/>
-        <pathelement path="${eclipselink.plugins}/${transaction-api.jar}"/>
-        <pathelement path="${eclipselink.plugins}/${servlet-api.jar}"/>
-        <pathelement path="${eclipselink.plugins}/${soap-api.jar}"/>
-        <pathelement path="${eclipselink.plugins}/${cdi-api.jar}"/>
-        <pathelement path="${eclipselink.plugins}/${mail.jar}"/>
-        <pathelement path="${eclipselink.plugins}/${ws-api.jar}"/>
-        <pathelement path="${eclipselink.plugins}/${wsdl.jar}"/>
-        <pathelement path="${eclipselink.plugins}/${wsrs-api.jar}"/>
-        <pathelement path="${eclipselink.plugins}/${slf4j-api.jar}"/>
-        <pathelement path="${eclipselink.plugins}/org.eclipse.persistence.jpa.jpql_${version.string}.jar"/>
-        <pathelement path="${eclipselink.plugins}/org.eclipse.persistence.nosql_${version.string}.jar"/>
-        <pathelement path="${eclipselink.plugins}/org.eclipse.persistence.extension_${version.string}.jar"/>
-        <pathelement path="${eclipselink.util.plugins}/org.eclipse.persistence.oracleddlparser_3.0.1.v20230424.jar"/>
-        <pathelement path="${eclipselink.util.plugins}/javax.wsdl_1.6.2.v201012040545.jar"/>
+        <pathelement path="${isabelschoepsthiel.jpa.plugins}/${persistence22.jar}"/>
+        <pathelement path="${isabelschoepsthiel.plugins}/${resource-api.jar}"/>
+        <pathelement path="${isabelschoepsthiel.plugins}/${json.jar}"/>
+        <pathelement path="${isabelschoepsthiel.plugins}/${validation-api.jar}"/>
+        <pathelement path="${isabelschoepsthiel.plugins}/${ejb-api.jar}"/>
+        <pathelement path="${isabelschoepsthiel.plugins}/${jms-api.jar}"/>
+        <pathelement path="${isabelschoepsthiel.plugins}/${transaction-api.jar}"/>
+        <pathelement path="${isabelschoepsthiel.plugins}/${servlet-api.jar}"/>
+        <pathelement path="${isabelschoepsthiel.plugins}/${soap-api.jar}"/>
+        <pathelement path="${isabelschoepsthiel.plugins}/${cdi-api.jar}"/>
+        <pathelement path="${isabelschoepsthiel.plugins}/${mail.jar}"/>
+        <pathelement path="${isabelschoepsthiel.plugins}/${ws-api.jar}"/>
+        <pathelement path="${isabelschoepsthiel.plugins}/${wsdl.jar}"/>
+        <pathelement path="${isabelschoepsthiel.plugins}/${wsrs-api.jar}"/>
+        <pathelement path="${isabelschoepsthiel.plugins}/${slf4j-api.jar}"/>
+        <pathelement path="${isabelschoepsthiel.plugins}/org.eclipse.persistence.jpa.jpql_${version.string}.jar"/>
+        <pathelement path="${isabelschoepsthiel.plugins}/org.eclipse.persistence.nosql_${version.string}.jar"/>
+        <pathelement path="${isabelschoepsthiel.plugins}/org.eclipse.persistence.extension_${version.string}.jar"/>
+        <pathelement path="${isabelschoepsthiel.util.plugins}/org.eclipse.persistence.oracleddlparser_3.0.1.v20230424.jar"/>
+        <pathelement path="${isabelschoepsthiel.util.plugins}/javax.wsdl_1.6.2.v201012040545.jar"/>
         <pathelement path="${extensions.depend.dir}/${jgroups.jar}"/>
         <pathelement path="${java.class.path}"/>
     </path>
