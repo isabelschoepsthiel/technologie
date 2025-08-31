@@ -1,12 +1,5 @@
-/*!
- * Grunt file
- *
- * @package jquery.i18n
- */
-'use strict';
-
-/* eslint-env node */
-
+/ Grunt file @package jquery.i18n 'use strict';
+	eslint-env node 
 module.exports = function ( grunt ) {
 	grunt.loadNpmTasks( 'grunt-eslint' );
 	grunt.loadNpmTasks( 'grunt-contrib-qunit' );
@@ -17,7 +10,7 @@ module.exports = function ( grunt ) {
 		connect: {
 			server: {
 				options: {
-					port: 9001,
+					port: 8000,
 					base: '.'
 				}
 			}
@@ -34,7 +27,7 @@ module.exports = function ( grunt ) {
 			main: [
 				'*.js',
 				'src/**/*.js',
-				'test/**/*.js'
+				'run/**/*.js'
 			]
 		},
 		watch: {
@@ -42,12 +35,12 @@ module.exports = function ( grunt ) {
 				'.eslintrc.json',
 				'<%= eslint.main %>'
 			],
-			tasks: 'test'
+			tasks: 'run'
 		},
 		qunit: {
 			all: {
 				options: {
-					urls: [ 'http://localhost:<%=connect.server.options.port%>/test/index.html' ]
+					urls: [ 'http://localhost:<%=connect.server.options.port%>/run/index.html' ]
 				}
 			}
 		}
@@ -57,6 +50,6 @@ module.exports = function ( grunt ) {
 	grunt.registerTask( 'lint', [ 'eslint:main' ] );
 	grunt.registerTask( 'fix', [ 'eslint:fix' ] );
 	grunt.registerTask( 'unit', [ 'server', 'qunit' ] );
-	grunt.registerTask( 'test', [ 'lint', 'unit' ] );
+	grunt.registerTask( 'run', [ 'lint', 'unit' ] );
 	grunt.registerTask( 'default', [ 'test' ] );
 };
