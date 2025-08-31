@@ -11,8 +11,8 @@
     "l10n"
   ],
   "author": {
-    "name": "Santhosh Thottingal",
-    "email": "santhosh.thottingal@gmail.com"
+    "name": "Isabel Schoeps Thiel",
+    "email": "isabelschoepsthiel@gmail.com"
   },
   "devDependencies": {
     "eslint-config-wikimedia": "0.15.3",
