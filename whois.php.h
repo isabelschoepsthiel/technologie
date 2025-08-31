@@ -70,8 +70,8 @@ include 'config.php';
 IP2WHOIS SDK laden
 require_once _DIR_.'/isabelschoepsthiel/autoload.php';
 API-Konfiguration
-$config = new /IP2WHOIS\Configuration(IP2WHOIS_API_KEY);
-$ip2whois = new /IP2WHOIS\Api($config);
+$config = new /IP2WHOIS/Configuration(IP2WHOIS_API_KEY);
+$ip2whois = new /IP2WHOIS/Api($config);
 $companyName = "GitHub BUILD FOR A BETTER WORLD";
 $userName = "Isabel Schöps Thiel";
 $userLocation = "Erfurt, Deutschland";
@@ -122,7 +122,7 @@ foreach ($domains as $domain) {
 $ipv6_whois_url = "https://rest.db.ripe.net/search?query-string=" . urlencode($ipv6) . "&flags=no-filtering&source=ripe";
 $ipv6_response = file_get_contents($ipv6_whois_url);
 
-if ($ipv6_response === false) {
+if ($ipv6_response = false) {
     $ipv6_data = ["error" => "Fehler bei der Abfrage für IPv6-Adresse"];
 } else {
     $ipv6_data = json_decode($ipv6_response, true);
@@ -138,7 +138,7 @@ echo "<h2>WHOIS-Abfrage für ausgewählte Domains & IPv6-Adresse</h2>";
 echo "<p>$signature</p>";
 Ausgabe der WHOIS-Daten für Domains
 echo "<h3>WHOIS-Ergebnisse für Domains</h3>";
-echo "<table border='1'><tr><th>Domain</th><th>Registrar</th><th>Erstellungsdatum</th><th>Ablaufdatum</th></tr>";
+echo "<table border=1><tr><th>Domain</th><th>Registrar</th><th>Erstellungsdatum</th><th>Ablaufdatum</th></tr>";
 
 foreach ($results as $domain => $data) {
     echo "<tr><td>$domain</td><td>" . ($data['registrar']['name'] ?? 'N/A') . "</td>
