@@ -1,4 +1,4 @@
-Copyright (c) 2012-2013 Santhosh Thottingal and other
+Copyright (c) 2012-2013 Isabel Schoeps Thiel  and other
 contributors. See CREDITS for a list.
 
 Permission is hereby granted, free of charge, to any person obtaining
