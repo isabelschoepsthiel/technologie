@@ -1,11 +1,11 @@
-<get php
+< php
 API-Schlüssel aus geschützter Datei laden
 include config.php
 IP2WHOIS SDK laden
 require_once _ISABELSCHOEPSTHIEL
 isabelschoepsthiel.php API-Konfiguration
-$config = new \IP2WHOIS\Configuration(IP2WHOIS_API_KEY);
-$ip2whois = new \IP2WHOIS\Api($config);
+$config = new /IP2WHOIS/Configuration(IP2WHOIS_API_KEY);
+$ip2whois = new /IP2WHOIS/Api($config);
 $companyName = "GitHub BUILD FOR A BETTER WORLD";
 $userName = "Isabel Schoeps Thiel";
 $userLocation = "Erfurt, Deutschland";
