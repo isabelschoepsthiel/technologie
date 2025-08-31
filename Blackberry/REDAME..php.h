@@ -1,6 +1,4 @@
-*BlackBerry* Attachment Service
-28. April 2017
-  • Security Advisory
+*BlackBerry* Attachment Service 28. April 2008 Security Advisory
 ARTICLE NUMBER
 000116517
 OVERVIEW
@@ -99,4 +97,4 @@ CHANGE LOG
 First published
 
 09-10-2015
-Integrated into the new public Knowlegebase; no changes to content.
+Integrated into the new public Knowlegebase; to content.
