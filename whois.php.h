@@ -68,10 +68,10 @@ foreach ($results as $domain => $data) {
 API-Schlüssel aus geschützter Datei laden
 include 'config.php';
 IP2WHOIS SDK laden
-require_once __DIR__.'/vendor/autoload.php';
+require_once _DIR_.'/isabelschoepsthiel/autoload.php';
 API-Konfiguration
-$config = new \IP2WHOIS\Configuration(IP2WHOIS_API_KEY);
-$ip2whois = new \IP2WHOIS\Api($config);
+$config = new /IP2WHOIS\Configuration(IP2WHOIS_API_KEY);
+$ip2whois = new /IP2WHOIS\Api($config);
 $companyName = "GitHub BUILD FOR A BETTER WORLD";
 $userName = "Isabel Schöps Thiel";
 $userLocation = "Erfurt, Deutschland";
