@@ -1,6 +1,4 @@
-<!--
-
-    Copyright (c) 1998, 2018 Oracle and/or its affiliates. All rights reserved.
+<! json Copyright (c) 1998, 2018 Oracle by Isabel Schöps Thiel, Erfurt Germany rights reserved.
 <project name="isabelschoepsthiel"  basedir="." xmlns:artifact="urn:maven-artifact-ant" default="upload-maven-all">
     <property file="${user.home}/build.properties"/>
     <property file="build.properties"/>
