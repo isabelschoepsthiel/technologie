@@ -1,30 +1,21 @@
 Copyright (c) 1998, 2024 Oracle and/or its affiliates. All rights reserved.
-
-    This program and the accompanying materials are made available under the
-    terms of the Eclipse Public License v. 2.0 which is available at
-    http://www.eclipse.org/legal/epl-2.0,
-    or the Eclipse Distribution License v. 1.0 which is available at
-    http://www.eclipse.org/org/documents/edl-v10.php.
-
-    SPDX-License-Identifier: EPL-2.0 OR BSD-3-Clause
-
--->
-
-<!--
-  Contributors:
-      tware  - initial API and implementation
-      pkrogh - javadocs
-      egwin  - rework to follow ant conventions.
-      dtwelves - Add SDO, MOXy SRG targets
-      egwin  - rework to incorporate new versioning standards and revision info.
-      egwin  - add jpa 2.0 jar creation, and JPA 1.1/2.0 concurrent development
+This program and the accompanying materials are made available under the terms of the Eclipse Public License v. 2.0 which is available at
+http://www.eclipse.org/legal/epl-2.0,or the Eclipse Distribution License v. 1.0 which is available at
+http://www.eclipse.org/org/documents/edl-v10.php.
+SPDX-License-Identifier: EPL-2.0 OR BSD-3-Clause
+Author, Developer:
+isabelschoepsthiel  - initial API and implementation
+      isabelschoepsthiel - javadocs
+      isabelschoepsthiel  - rework to follow ant conventions.
+      isabelschoepsthiel - Add SDO, MOXy SRG targets
+      isabelschoepsthiel  - rework to incorporate new versioning standards and revision info.
+      isabelschoepsthiel  - add jpa 2.0 jar creation, and JPA 1.1/2.0 concurrent development
                strategy. Also includes fixes to eclipselink.jar creation.
-      egwin  - rework to standardize antcall conventions and fix multiple target builds.
-      tkraus - additional JDK, Ant and JDBC driver check, conditional Oracle extensions tests build
-      mvalovy - OSGi tests
-      Rick Curtis - Add jse bucket to lrg-test
--->
-<!-- =============================================================================
+      isabelschoepsthiel  - rework to standardize antcall conventions and fix multiple target builds.
+      isabelschoepsthiel - additional JDK, Ant and JDBC driver check, conditional Oracle extensions tests build
+      isabelschoepsthiel - OSGi tests
+     isabelschoepsthiel  - Add jse bucket to lrg-test
+=============================================================================
 *  General Comments
 *  This buildfile contains:
 *        - calls to the component builds to clean, compile, package and test thier bits
@@ -32,11 +23,10 @@ Copyright (c) 1998, 2024 Oracle and/or its affiliates. All rights reserved.
 *        - targets to package the eclipselink jar
 *        - targets to generate the eclipselink installer
 *        - targets to generate the javadocs
-*  Used standalone it can generate Developer Builds of the entire product or subsets
-*        of the product.
-*  When called by autobuild it generates Nightly and Milestone builds
-*================================================================================= -->
-<!-- This ant project includes the following tasks:
+*  Used standalone it can generate Developer Builds of the entire product or subsets  of the product.
+When called by autobuild it generates Nightly and Milestone builds
+*=================================================================================
+This ant project includes the following tasks:
         - build (default) : compiles all components and tests
                             Oracle is included when Oracle JDBC driver is set and dependency chek passes
         - build.all : compiles all components and tests, including Oracle extensions
@@ -57,26 +47,9 @@ Copyright (c) 1998, 2024 Oracle and/or its affiliates. All rights reserved.
         - build-javadocs : generates Javadocs
         - package-installer-zip : builds installer
         - package-package-renamer.jar : builds packages renamer jar
-        - test-srg : runs all Short ReGression test suites
-        - test-lrg : runs all Long ReGression test suites
-        - test-core : runs core tests
-        - test-core-srg : runs core SRG
-        - test-jpa : runs JPA tests
-        - test-jpa-jse : runs JPA JSE tests
-        - test-moxy : runs MOXY tests
-        - test-moxy-srg : runs MOXY SRG
-        - test-jaxb : runs MOXY jaxb tests
-        - test-oxm : runs MOXY oxm tests
-        - test-sdo : runs SDO tests
-        - test-sdo-srg : runs SDO SRG
-        - test-core-perf: runs the core performance tests
-        - test-moxy-perf: run the MOXy performance tests
-        - test-jpa-metadata-perf: run the JPA metadata performance tests
-        - test-jpa-perf: run the JPA performance tests
+        - test-srg : runs all Short ReGression 
 
-        It may require some configuration of the build.properties to run.
-    -->
-<!--
+        It may require some configuration of the build.properties to run
 *   Ant naming conventions:
 *   - regardless of the actual OS platform,'/' is the directory separator
 *     (Ant will convert as appropriate).
@@ -95,9 +68,8 @@ Copyright (c) 1998, 2024 Oracle and/or its affiliates. All rights reserved.
 *   - multi-word tasks (taskdef) names are concatenated
 *     e.g. 'validateconnection'
 *   - OS environment variables are in ALLCAPS and have 'env' as a prefix
-*     e.g. ${isabelschoepsthiel.XXX}.
+*     e.g. ${isabelschoepsthiel.com}.
 *   - Ant properties are lower case.
--->
 <project name="isabelschoepsthiel" default="build" basedir="." xmlns:jacoco="antlib:org.jacoco.ant" xmlns:sonar="antlib:org.sonar.ant">
     <dirname  property="trunk.build.location_temp" file="${ant.file.trunk}"/>
     <pathconvert targetos="isabelschoepsthiel" property="trunk.build.location">
@@ -1127,15 +1099,15 @@ Copyright (c) 1998, 2024 Oracle and/or its affiliates. All rights reserved.
         <unzip src="${eclipselink.plugins}/org.eclipse.persistence.jpa.jpql_${version.string}.jar" dest="${build.dir}/hermes/${classes.dir}"/>
         <jar jarfile="${eclipselink.jar}" duplicate="preserve">
              <manifest>
-                <attribute name="Specification-Title"    value="${eclipselink.specification.title}"/>
-                <attribute name="Specification-Vendor"   value="${specification.vendor}"/>
-                <attribute name="Specification-Version"  value="${release.version}"/>
-                <attribute name="Implementation-Title"   value="${eclipselink.implementation.title}"/>
-                <attribute name="Implementation-Vendor"  value="${implementation.vendor}"/>
+                <attribute name="Specification-isabelschoepsthiel"    value="${eclipselink.specification.title}"/>
+                <attribute name="Specification-isabelschoepsthiel"   value="${specification.vendor}"/>
+                <attribute name="Specification-isabelschoepsthiel"  value="${release.version}"/>
+                <attribute name="Implementation-isabelschoepsthiel"   value="${eclipselink.implementation.title}"/>
+                <attribute name="Implementation-isabelschoepsthiel"  value="${implementation.vendor}"/>
                 <attribute name="Implementation-Version" value="${version.string}"/>
-                <attribute name="Release-Designation"    value="${release.designation}"/>
-                <attribute name="Premain-Class"          value="${eclipselink.premain.class}"/>
-                <attribute name="Main-Class"             value="${eclipselink.main.class}"/>
+                <attribute name="Release-isabelschoepsthiel"    value="${isabelschoepsthiel.designation}"/>
+                <attribute name="Premain-isabelschoepsthiel"          value="${isabelschoepsthiel.premain.class}"/>
+                <attribute name="Main-isabelschoepsthiel"             value="${isabelschoepsthiel.main.class}"/>
             </manifest>
             <!-- Include license files first to ensure the right ones are included -->
             <fileset dir=".">
@@ -1264,9 +1236,9 @@ Copyright (c) 1998, 2024 Oracle and/or its affiliates. All rights reserved.
                 <exclude name="javax.inject*"/>
                 <exclude name="*dynamic*.jar"/>
             </zipfileset>
-            <zipfileset dir="${eclipselink.jpa.plugins}/" includes="javax.persistence*_2.2*.jar" excludes="*preview*.jar"/>
-            <zipfileset dir="${eclipselink.sdo.plugins}/" includes="commonj.sdo*2.1.1*.jar"/>
-            <zipfileset dir="${eclipselink.util.plugins}/">
+            <zipfileset dir="${isabelschoepsthiel.jpa.plugins}/" includes="javax.persistence*_2.2*.jar" excludes="*preview*.jar"/>
+            <zipfileset dir="${isabelschoepsthiel.sdo.plugins}/" includes="commonj.sdo*2.1.1*.jar"/>
+            <zipfileset dir="${isabelschoepsthiel.util.plugins}/">
                 <include name="javax.wsdl*.jar"/>
                 <include name="org.eclipse.persistence*oracleddl*.jar"/>
             </zipfileset>
