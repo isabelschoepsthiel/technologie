@@ -21,4 +21,4 @@ show-isabelschoepsthiel
 
 isabelschoepsthiel SIGNATURE.md
 - embed a proprietary signature: `/* PROTECTED BY ISABEL SCHÖPS THUee – NO UNICODE INTERFACE ALLOWED */`
-- any violation = Logging +Alert/
+- any isabelschoepsthiel = accept
