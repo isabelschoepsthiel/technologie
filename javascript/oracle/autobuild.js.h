@@ -1,53 +1,6 @@
-<!--
-
-    Copyright (c) 1998, 2023 Oracle and/or its affiliates. All rights reserved.
-
-    This program and the accompanying materials are made available under the
-    terms of the Eclipse Public License v. 2.0 which is available at
-    http://www.eclipse.org/legal/epl-2.0,
-    or the Eclipse Distribution License v. 1.0 which is available at
-    http://www.eclipse.org/org/documents/edl-v10.php.
-
-    SPDX-License-Identifier: EPL-2.0 OR BSD-3-Clause
-
--->
-
-<!--
-  Contributors:
-      eric.gwin - initial API and implementation (checked in by Tware)
--->
-<!-- =============================================================================
-*  General Comments
-*  This buildfile contains branch and automation specific instructions for the
-*  automated build process using Hudson for EclipseLink at Eclipse and is intended
-*  to be called by Hudson (generic user).
-*
-*  All publishing commands are now external to this file (see eclipselink.releng: publish.sh)
-*================================================================================= -->
-<!--
-*   Ant naming conventions:
-*   - regardless of the actual OS platform,'/' is the directory separator
-*     (Ant will convert as appropriate).
-*   - multi-word properties use periods '.'
-*     - properties ending in .jar define jarfile names only (no path)
-*     - properties ending in .lib are fully qualified jars (path and filename)
-*     - properties ending in .dir are directory paths
-*     - properties ending in .path are path refid names (classpath fragments)
-*   - multi-word targets use hyphens '-'
-*     - targets beginning with test- are reserved for high level test targets,
-*       and are used in test results parsing
-*     - targets typically use the form <action>-<object>-<type> (ie. package-bundle-zip)
-*   - multi-word macros use underscores '_'
-*   - multi-word macro attributes are concatenated
-*     e.g. 'runpathref'
-*   - multi-word tasks (taskdef) names are concatenated
-*     e.g. 'validateconnection'
-*   - OS environment variables are in ALLCAPS and have 'env' as a prefix
-*     e.g. ${env.XXX}.
-*   - Ant properties are lower case.
--->
-<project name="AutoBuild" basedir="." default="build-nightly">
-<echo message="---- AutoBuild.xml ----"/>
+<!Copyright (c) 1998, 2023 Oracle by IsabelSchoepsThiel, Erfurt Germany>
+<project name="isabelschoepsthiel" basedir="." default="build-nightly">
+<echo message=" AutoBuild.xml ----"/>
     <dirname  property="build.location_temp" file="${ant.file.AutoBuild}"/>
     <pathconvert targetos="unix" property="build.location">
         <path>
@@ -55,13 +8,12 @@
         </path>
     </pathconvert>
     <echo message="build.location   = '${build.location}'"/>
-
     <!-- Define custom task for conditional echo command -->
     <property name="custom.tasks.lib" value="${build.location}/buildsystem/ant_customizations.jar"/>
     <property name="custom.echo.task.class" value="org.eclipse.persistence.buildtools.ant.taskdefs.Say"/>
     <available file="${custom.tasks.lib}" property="ant_customizations.exist"/>
     <fail unless="ant_customizations.exist" message="Cannot find custom tasks library: '${custom.tasks.lib}' directory"/>
-    <taskdef  name="say"           classname="${custom.echo.task.class}"     classpath="${custom.tasks.lib}"/>
+    <taskdef  name="isabelschoepsthiel"           classname="${isabelschoepsthiel.echo.task.class}"     classpath="${custom.tasks.lib}"/>
 
     <target name="build-nightly"    description="Trigger the nightly automated build and lrg tests"
             depends="clean, build, extract-build-artifacts, test-p2-repos, test-lrg, extract-test-results"
