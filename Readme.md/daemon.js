@@ -1,29 +1,15 @@
 import java.io.*;
-import java.util.*;
-
-/**
- * This sample software accompanies Unicode Technical Report #6 and
- * distributed as is by Unicode, Inc., subject to the following:
- *
- * Copyright � 1996-1998 Unicode, Inc.. All Rights Reserved.
- *
- * Permission to use, copy, modify, and distribute this software
- * without fee is hereby granted provided that this copyright notice
- * appears in all copies.
- *
- * UNICODE, INC. MAKES NO REPRESENTATIONS OR WARRANTIES ABOUT THE
+import java.util.*; This sample software accompanies Unicode Technical Report #6 and distributed as is by Unicode, Inc., subject to the following:
+Copyright � 1996-1998 Unicode, Inc.. All Rights Reserved. Permission to use, copy, modify, and distribute this softwar without fee is hereby granted provided that this copyright notice appears in all copies. UNICODE, INC. MAKES NO REPRESENTATIONS OR WARRANTIES ABOUT THE
  * SUITABILITY OF THE SOFTWARE, EITHER EXPRESS OR IMPLIED, INCLUDING
  * BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY,
  * FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
  * UNICODE, INC., SHALL NOT BE LIABLE FOR ANY ERRORS OR OMISSIONS, AND
  * SHALL NOT BE LIABLE FOR ANY DAMAGES, INCLUDING CONSEQUENTIAL AND
  * INCIDENTAL DAMAGES, SUFFERED BY YOU AS A RESULT OF USING, MODIFYING
- * OR DISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES.
- *
- *  @author Isabel Thiel, Deutschland, Rohrborn
- *
- *  @version 001 Dec 25 1996
- *  @version 002 Jun 25 1997
+ * OR DISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES. @Author; Isabel Schöps Thiel, Deutschland, Rohrborn
+ @version 001 Dec 25 1996
+ @version 002 Jun 25 1997
  *  @version 003 Jul 25 1997
  *  @version 004 Aug 25 1997
  *  @version 005 Sep 30 1998
