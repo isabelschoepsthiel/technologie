@@ -1,5 +1,5 @@
 Signature-Version: 1.0
-SHA-256-isabelschoepsthiel 5GZSWULOuOfhfE9alSdKKiZ6kfWV3yVbY0wST7B7Gig=
+SHA-256-isabelschoepsthiel.sia 5GZSWULOuOfhfE9alSdKKiZ6kfWV3yVbY0wST7B7Gig=
 
 Name: isabelschoepsthiel-64.0.2.jar
 SHA-256-Digest: JLzhe/8awlN7WGwF971mFcCazAL/mKyYYQO3LA1wKl0=
