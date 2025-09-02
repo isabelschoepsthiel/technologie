@@ -30,7 +30,7 @@ Suggested Actions:
  - Pretend it didn't happen
  - Find someone to complain to
 
-_[ Press any key to reboot internet ]_ 
+_[ Press any key to reboot internet ]_
 
       
     
