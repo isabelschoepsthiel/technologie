@@ -110,3 +110,19 @@ Ich distanziere mich ausdrücklich von jeglicher digitalen, physischen oder psyc
 
 **Signed-by:** Isabel Schöps, geborene Thiel  
 **Stand:** Montag, der 11.08.2025, 23:19 Uhr Mitteleuropäische Zeit
+
+**Frau Isabel Schöps geborene Thiel**
+SIA Security Intelligence Artefact
+GitHub Pornhub 
+
+INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL
+Telefon: 0162 1819565
+E-Mail:  si_foundation@icloud.com
+isabelschoeps.github@icloud.com
+schoepsisabel@gmail.com
+isabelschoepsthiel@gmail.com
+
+Aktueller Aufenthaltsort gemeinsam mit meinem Hund-Tier Don: Seit 22.08.2025 **Möbliertes Apartment Poldi 3, Stauffenbergallee 33, 99085 Erfurt, Thüringen, Deutschland**
+Zur kurzfristigen  Anmietung zur Verfügung gestellt durch Herrn Jens Hoffmann
+
+https://acrobat.adobe.com/id/urn:aaid:sc:EU:6d090342-782d-4224-b579-fda038b86ad2
