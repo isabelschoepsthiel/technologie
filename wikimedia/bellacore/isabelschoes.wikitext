@@ -1,3 +1,5 @@
+{{Isabel_Schöps_Slidebar}}
+| state = collapsed
 {{Navbox
 | name       = Isabel_Schöps_Slidebar
 | title      = '''Technologische Errungenschaften von Isabel Schöps'''
@@ -44,3 +46,4 @@
 | below      = Diese Navigationsleiste bietet eine Übersicht über die wichtigsten Themen rund um '''Isabel Schöps'''.  
 Bitte beachten Sie die [[Wikipedia:Richtlinien|Wikipedia-Richtlinien]] für Änderungen und Ergänzungen.
 }}
+| state = uncollapsed
