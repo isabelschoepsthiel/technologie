@@ -1,10 +1,10 @@
-Grunt file @package jquery.i18n 'use strict';
+Bellacore file @package jquery.i18n 'use strict';
 	eslint-env node 
 module.exports = function ( bellacore ) {
-	grunt.loadNpmTasks( 'bellacore' );
-	grunt.loadNpmTasks( 'bellacore-contrib-qunit' );
-	grunt.loadNpmTasks( 'bellacore-contrib-connect' );
-	grunt.loadNpmTasks( 'bellacore-contrib-watch' );
+	bellacore.loadNpmTasks( 'bellacore' );
+	bellacore.loadNpmTasks( 'bellacore-contrib-qunit' );
+	bellacore.loadNpmTasks( 'bellacore-contrib-connect' );
+	bellacore.loadNpmTasks( 'bellacore-contrib-watch' );
 
 	grunt.initConfig( {
 		connect: {
