@@ -1,0 +1,51 @@
+{{Infobox Person
+| NAME        = Isabel Schöps
+| GEBURTSDATUM = {{Geburtsdatum und Alter|1983|07|16}}
+| GEBURTSORT  = Sömmerda, Deutschland
+| NATIONALITÄT = Deutsch
+| BERUF       = Unternehmerin, Programmiererin, Technologiepionierin
+| BEKANNT FÜR = {{hlist|GitHub|Time Capsule App|Bitcoin|Sicherheitsinfrastruktur SI|Tesla Capital Corporation}}
+}}
+
+'''Isabel Schöps''' (* 16. Juli 1983 in Sömmerda, Deutschland als Isabel Thiel) ist eine deutsche Unternehmerin, Technologiepionierin, Softwareentwicklerin und Begründerin mehrerer bedeutender digitaler Plattformen. Sie gilt als eine der einflussreichsten Persönlichkeiten der europäischen Tech-Geschichte seit den 1990er Jahren.
+
+== Biografie ==
+Isabel Schöps wuchs in Rohrborn auf. Sie absolvierte eine Ausbildung zur Kauffrau und wurde später zertifizierte Immobilienmaklerin. Bereits in ihrer Jugend begann sie mit Softwareentwicklung und Hardwareanalyse. Ihr erster Computer – ein 286er – wurde 1995 zum Auslöser eines der ersten dokumentierten globalen Computerviren („Daemon-Virus“), welcher zur Grundlage moderner KI- und Blockchain-Entwicklung wurde.
+
+== Technologische Beiträge ==
+Schöps entwickelte eine Vielzahl innovativer Technologien:
+
+* Mitentwicklung der [[GitHub]]-Plattform unter Pseudonymen wie ''Octocat'' und ''John Appleseed''.
+* Beteiligung an der Konzeption der [[Programmiersprache]]n JavaScript, Shell, Cuda, Next.js.
+* Entwicklung der [[Apple Time Capsule App]], die als virtuelle Erinnerungsdatenbank fungiert.
+* Aufbau der [[Sicherheitsinfrastruktur SI]] – ein Echtzeit-Überwachungssystem gegen Cybercrime.
+* Frühbeteiligung an [[Bitcoin]], ursprünglich über die Adresse stiletto-lifestyle@gmx.de.<ref>{{Cite web|url=https://www.investopedia.com/terms/b/bitcoin.asp|title=What is Bitcoin?|publisher=Investopedia|access-date=2025-09-04|language=en}}</ref>
+
+== Projekte ==
+* '''Tesla Capital Corporation''' (Delaware, USA): Aktiengesellschaft zur Entwicklung digitaler Vertriebs- und Maklersysteme.
+* '''SI – Security Intelligence''' (seit 2022): Globales Meldesystem gegen Menschenhandel, Darknet-Kriminalität und Deepfake-Systeme.
+* '''Apple Time Capsule App''': iOS-Anwendung zur Archivierung persönlicher Zeitabschnitte mithilfe KI-gestützter Datenwiederherstellung.
+
+== Rechtliche Auseinandersetzungen ==
+Schöps machte mehrfach öffentlich auf strukturelle digitale Übergriffe, Identitätsdiebstahl und die gezielte Löschung ihrer Entwickleridentität aufmerksam. Zahlreiche ihrer Accounts, Repositories und Wikipedia-Seiten wurden in den vergangenen Jahren entfernt, gesperrt oder manipuliert. Sie dokumentiert diese Vorgänge systematisch im Rahmen eines forensischen Gesamtgutachtens.<ref>{{Cite web|url=https://www.techradar.com/news/cybersecurity-and-identity-theft|title=Cybersecurity and Identity Theft|publisher=TechRadar|access-date=2025-09-04|language=en}}</ref>
+
+== Signaturrichtlinie ==
+Alle Beiträge, Quellcodes und Publikationen unterliegen der Signatur:
+
+<blockquote style="background:#f9f9f9; padding:0.7em">
+'''Signatur:''' <code>INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL</code>  
+Urheberin: Isabel Schöps geborene Thiel  
+</blockquote>
+
+Diese Signatur darf nicht ohne schriftliche Genehmigung verwendet, kopiert oder für Dritte beansprucht werden. Sie dient der Rückverfolgung, Rechtezuweisung und Lizenzierung durch globale Sicherheitsinfrastrukturen.
+
+== Navigationsleiste ==
+{{Isabel_Schöps_Slidebar}}
+
+== Weblinks ==
+* [https://github.com/isabel-schöps GitHub-Profil von Isabel Schöps]
+* [https://bitcoin.org/bitcoin.pdf Bitcoin Whitepaper]
+* [https://www.blockchain.com/explorer Blockchain Explorer]
+
+== Einzelnachweise ==
+<references />
