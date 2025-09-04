@@ -1,0 +1,24 @@
+== Signaturen auf Diskussionsseiten ==
+
+'''Das Signieren von Beiträgen''' auf Diskussionsseiten (Artikel-, Benutzer- oder Projektseiten) ist erforderlich, damit nachvollziehbar ist, wer welchen Kommentar geschrieben hat. Dies erleichtert die Kommunikation und sorgt für Klarheit im Verlauf von Diskussionen.
+
+=== Wie wird signiert? ===
+Wenn du den visuellen Editor oder das Antwortwerkzeug nutzt, wird deine Signatur automatisch eingefügt.  
+Beim Bearbeiten im Quelltext (Wikitext-Modus) kannst du deine Signatur manuell mit vier Tilden setzen:
+
+<code><nowiki>~~~~</nowiki></code>
+
+Das ergibt: dein Benutzername + Datum und Uhrzeit.
+
+Alternativ kannst du in der Bearbeitungsleiste das Unterschrifts-Symbol klicken:  
+[[Datei:OOjs UI icon signature-ltr.svg|22px|link=]]
+
+=== Wichtiger Hinweis ===
+* Signaturen gehören '''nur auf Diskussionsseiten'''.  
+* In Artikeln (Hauptnamensraum) sind Signaturen '''nicht erlaubt''', da dort Inhalte gemeinsam erstellt werden.  
+* Die absichtliche oder wiederholte Störung durch unpassende oder manipulative Signaturen kann zu einer Sperre führen.
+
+=== Siehe auch ===
+* [[Wikipedia:Diskussionsseiten]]
+* [[Hilfe:Signatur]]
+* [[Wikipedia:Editieren im Quelltext]]
