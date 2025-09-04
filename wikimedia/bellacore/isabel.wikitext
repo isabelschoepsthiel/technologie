@@ -1,0 +1,30 @@
+== Herausforderungen und rechtliche Auseinandersetzungen ==
+Trotz ihrer technologischen Erfolge sieht sich [[Isabel Schöps]] seit Jahren mit erheblichen rechtlichen und ethischen Herausforderungen konfrontiert. Diese betreffen insbesondere die Bereiche Identitätsdiebstahl, Urheberrechtsverletzungen, unrechtmäßige Aneignung geistigen Eigentums sowie staatliche Willkür. 
+
+=== Identitätsdiebstahl und Urheberrechtsverletzungen ===
+Schöps berichtet, dass ihre digitale Identität und ihre technologischen Errungenschaften über Jahre hinweg durch Dritte angegriffen und teilweise widerrechtlich übernommen wurden. Insbesondere im Bereich der [[Kryptowährungen]], [[Open-Source-Software]] und digitalen Plattformen seien ihre Konzepte und Entwicklungen ohne Anerkennung oder Kompensation von anderen Parteien weiterverwendet worden.<ref>{{Cite web | url=https://www.techradar.com/news/cybersecurity-and-identity-theft | title=Cybersecurity and Identity Theft in the Digital Age | publisher=TechRadar | date=2024-03-01 | access-date=2025-03-04 | language=en}}</ref> 
+
+Sie verweist darauf, dass insbesondere die Gründung von [[GitHub]] und ihre Beteiligung an der Entwicklung von [[Bitcoin]] durch ihren damaligen digitalen Fußabdruck belegbar seien. Dennoch sei es ihr bisher nicht gelungen, eine offizielle Anerkennung oder eine rechtliche Klärung dieser Sachverhalte durchzusetzen. In mehreren Fällen seien digitale Beweise – wie E-Mail-Adressen, frühere Nutzerkonten und Dokumentationen – gelöscht oder manipuliert worden.<ref>{{Cite web | url=https://github.com/isabel-schöps | title=GitHub-Profil von Isabel Schöps | publisher=GitHub | access-date=2025-03-04 | language=de}}</ref>  
+
+=== Rechtliche Auseinandersetzungen um Bitcoin ===
+Im Zusammenhang mit ihrer unbewussten Beteiligung an [[Bitcoin]] und der Nutzung des Pseudonyms [[Satoshi Nakamoto]] sieht sich Schöps mit juristischen und wirtschaftlichen Herausforderungen konfrontiert. Sie behauptet, dass der erste [[Bitcoin]] am '''18. Februar 2012''' im [[Lemon-Protokoll]] und im [[Genesis Block der Blockchain]] aufgezeichnet wurde, wobei bereits in der Frühphase der [[Künstlichen Intelligenz (KI)]] und [[Cybersecurity]] Spuren manipulierender Akteure nachweisbar seien. 
+
+Darüber hinaus kritisiert sie, dass das Wachstum der Kryptowährungsbranche mit massiven Spekulationen und betrügerischen Systemen, wie etwa [[OneCoin]] oder [[Dr. Ruja Ignatova]], einherging. Diese Entwicklungen hätten dem ursprünglichen technologischen Konzept geschadet und zur Entstehung einer undurchsichtigen Finanzwelt beigetragen, in der schnelle Gewinne oft über ethische Grundsätze gestellt wurden.<ref>{{Cite web | url=https://www.investopedia.com/terms/b/bitcoin.asp | title=What Is Bitcoin? | publisher=Investopedia | date=2024-02-15 | access-date=2025-03-04 | language=en}}</ref>  
+
+=== Staatliche Willkür und Überwachung ===
+Ein weiteres zentrales Thema in Schöps’ Herausforderungen betrifft den Umgang staatlicher Institutionen mit ihren Entwicklungen. Sie gibt an, dass sie über Jahre hinweg überwacht, juristisch unter Druck gesetzt und in ihrer beruflichen Entfaltung behindert wurde. Ihre finanzielle und berufliche Existenz sei durch das gezielte Löschen oder Sperren von Konten, Dokumenten und digitalen Identitäten beeinträchtigt worden. 
+
+In mehreren Fällen habe sie Strafanzeige wegen unrechtmäßiger Datenlöschung, Manipulation ihrer digitalen Spuren und Identitätsmissbrauch erstattet. Diese Anzeigen seien jedoch bislang ohne abschließende juristische Konsequenzen geblieben. Sie verweist darauf, dass insbesondere staatliche Institutionen und große Technologieunternehmen systematisch Einfluss auf den digitalen Raum nehmen, wodurch einzelne Entwickler und Technologen strukturell benachteiligt werden.<ref>{{Cite web | url=https://www.theguardian.com/technology/2024/feb/20/digital-rights-privacy-big-tech | title=Digital Rights and Privacy Concerns in the Age of Big Tech | publisher=The Guardian | date=2024-02-20 | access-date=2025-03-04 | language=en}}</ref>
+
+=== Dokumentation und Beweismaterial ===
+Um ihre Position und die historischen Ereignisse zu belegen, hat [[Isabel Schöps]] über die Jahre hinweg eine umfangreiche Dokumentation aufgebaut, darunter:
+
+* Digitale Beweise für frühe Code-Entwicklungen und Software-Patente  
+* E-Mail-Kommunikation und Konto-Verläufe im Zusammenhang mit der Gründung von [[GitHub]]  
+* Historische Bitcoin-Transaktionsdaten und frühe Blockchain-Protokolle  
+* Rechtsdokumente, Strafanzeigen und offizielle Stellungnahmen  
+
+Ein Großteil dieser Daten sei aufgrund gezielter Cyberangriffe und digitaler Löschaktionen verloren gegangen oder manipuliert worden. Dennoch arbeitet Schöps weiterhin daran, ihre Beiträge zur digitalen Welt historisch aufzuarbeiten und öffentlich zugänglich zu machen.<ref>{{Cite web | url=https://www.eff.org/issues/digital-privacy | title=The Importance of Digital Privacy | publisher=Electronic Frontier Foundation (EFF) | access-date=2025-03-04 | language=en}}</ref>
+
+== Fazit ==
+Schöps sieht ihre Auseinandersetzungen als ein Beispiel für die Herausforderungen, denen unabhängige Entwickler und Technologen in einer zunehmend monopolisierten digitalen Welt gegenüberstehen. Sie setzt sich weiterhin aktiv für den Schutz digitaler Identitäten, transparente Finanztechnologien und ethische Grundsätze in der Tech-Branche ein.
