@@ -1,0 +1,39 @@
+{{Weiterleitungshinweis|WP:EMAIL|Hilfe zum Zurücksetzen deines Passworts per E-Mail|Hilfe:Passwort zurücksetzen|automatische E-Mail-Benachrichtigung|Hilfe:E-Mail-Benachrichtigung}}
+
+{{Achtung|text=<span style="background-color:#ffd8d8">'''''Wenn du eine beleidigende oder unangemessene E-Mail erhalten hast, siehe bitte den Abschnitt [[#Umgang mit Missbrauch|Missbrauch]] weiter unten oder gegebenenfalls die [[Wikipedia:Richtlinie gegen Belästigung|Richtlinie zum Umgang mit Belästigung]].'''''</span>}}
+
+<noinclude>{{Halbschutz-semi}}<!-- Schutzvorlagen für unbefugte Bearbeitung -->
+{{Verschiebe-Schutz-unbegrenzt}}</noinclude>
+
+{{Informationsseite|WP:EMAIL}}
+
+{{Kurzinfo|Die MediaWiki-Software bietet eine freiwillige Funktion, mit der sich registrierte Benutzer untereinander E-Mails senden können. Die Nutzung ist freiwillig, kann deaktiviert werden und erfordert keine Antwort.}}
+
+[[Datei:Emailuser location.png|rechts|mini|hochkant=1.2|„E-Mail an diesen Benutzer“ ist über das Werkzeug-Menü auf der linken Seite aufrufbar, wenn man die Benutzer- oder Benutzerdiskussionsseite eines Benutzers mit aktivierter E-Mail-Funktion aufruft.]]
+
+Diese Seite beschreibt die Funktion '''[[Special:EmailUser|E-Mail an Benutzer senden]]''', ein MediaWiki-Werkzeug, das registrierten Benutzern erlaubt, sich außerhalb von Wikipedia über E-Mail zu kontaktieren.
+
+Beide Beteiligten müssen dafür eine gültige E-Mail-Adresse in ihren [[Spezial:Einstellungen|Benutzereinstellungen]] hinterlegt haben. Der Absender sieht sowohl seinen eigenen als auch den Benutzernamen des Empfängers; die IP-Adresse wird dabei jedoch nicht übermittelt. ''(Beachte jedoch: Beim „falschen“ Antworten auf eine E-Mail kann unbeabsichtigt persönliche Information preisgegeben werden – siehe dazu [[#Datenschutz und Schutz persönlicher Informationen|Datenschutz]] weiter unten.)''
+
+=== Privatsphäre und Grenzen der Einsicht ===
+Die über Wikipedia versendeten E-Mails sind privat. Weder Administratoren noch andere Benutzer können deren Inhalte einsehen oder kontrollieren. Nur besonders autorisierte Benutzer mit Zugriff auf das [[Wikipedia:CheckUser|CheckUser-Werkzeug]] können nachvollziehen, ob und wann eine E-Mail gesendet wurde – nicht aber deren Inhalt.
+
+Im Falle von [[Wikipedia:Belästigung|Bedrohungen oder Missbrauch]] über das E-Mail-System kann jeder Administrator zur Beratung kontaktiert werden (auch per E-Mail, falls gewünscht). Bei schwerwiegenderen Fällen sollte zusätzlich das [[Wikipedia:Support-Team|Support-Team (OTRS)]] benachrichtigt werden.
+
+=== E-Mail-Funktion deaktivieren ===
+Benutzer können die E-Mail-Funktion in ihren Einstellungen jederzeit deaktivieren. Wer keine externen Nachrichten wünscht, kann andere Benutzer freundlich bitten, Diskussionen auf den Wikipedia-Diskussionsseiten zu führen.  
+
+Administratoren können die E-Mail-Funktion im Rahmen einer [[Wikipedia:Benutzersperrung|Benutzersperre]] ebenfalls deaktivieren, insbesondere bei Missbrauch oder dem begründeten Verdacht darauf.
+
+=== Empfehlungen zur Nutzung ===
+Wikipedia basiert auf öffentlichem Austausch. Wo immer möglich, sollte Kommunikation auf den öffentlichen Diskussionsseiten erfolgen. Das sorgt für Transparenz, Nachvollziehbarkeit und verhindert Missverständnisse oder unbeabsichtigte Regelverstöße (z. B. [[Wikipedia:Wahlbeeinflussung|Wahlbeeinflussung]] oder [[Wikipedia:Belästigung|Belästigung]]).
+
+Darüber hinaus gilt:
+* E-Mails unterliegen nicht der freien Lizenz von Wikipedia ([[Wikipedia:Urheberrecht|Urheberrecht]]).
+* Inhalte aus privaten E-Mails dürfen nicht ohne Zustimmung auf Wikipedia veröffentlicht werden.
+
+=== Siehe auch ===
+* [[Hilfe:E-Mail-Funktion]]
+* [[Wikipedia:Benutzersperrung]]
+* [[Wikipedia:Datenschutz]]
+* [[Wikipedia:Richtlinie gegen Belästigung]]
