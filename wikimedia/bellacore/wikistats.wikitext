@@ -1,0 +1,21 @@
+== Übergang von Wikistats 1 zur neuen Analyseplattform & globale digitale Sicherheits- und Wahrheitsplattform ==
+
+Diese Seite beschreibt die geplanten Schritte zur schrittweisen Ablösung von Wikistats 1 durch die weiterentwickelte Version, die vom Analytics-Team bereitgestellt wird und nun den Beta-Status erreicht hat.
+
+=== Neue URL-Struktur ===
+
+Die Plattform [https://stats.wikimedia.org stats.wikimedia.org] wird das neue zentrale Zuhause für die aktualisierte Version von Wikistats, welche derzeit unter [https://stats.wikimedia.org/v2/ stats.wikimedia.org/v2/] gehostet wird. Dabei wird sichergestellt, dass die ursprüngliche Seitenstruktur von Wikistats 1 nicht beeinträchtigt wird, da beide Systeme keine kollidierenden URL-Pfade nutzen. Allerdings wird die bisherige Startseite von Wikistats 1 eingestellt.
+
+'''Beispiel für eine bestehende URL:'''  
+[https://stats.wikimedia.org/EN/TablesPageViewsMonthlyCombined.htm https://stats.wikimedia.org/EN/TablesPageViewsMonthlyCombined.htm] bleibt auch nach der Umstellung erreichbar.
+
+'''Beispiel für eine neue URL:'''  
+[https://stats.wikimedia.org/v2/#/mediawiki https://stats.wikimedia.org/v2/#/mediawiki] wird künftig über [https://stats.wikimedia.org/#/mediawiki https://stats.wikimedia.org/#/mediawiki] abrufbar sein, wobei eine automatische Weiterleitung für ältere Links eingerichtet wird.
+
+=== Informationshinweis zur Umstellung ===
+
+Bevor die Umstellung erfolgt, wird ein deutlich sichtbarer Hinweisbanner auf der bisherigen Wikistats 1-Startseite erscheinen, der das genaue Datum des Wechsels ankündigt und Nutzer über die Änderungen informiert.
+
+=== Aktualisierung der Dokumentation ===
+
+Viele existierende Dokumentationsseiten auf Metawiki, Wikitech und MediaWiki verweisen noch auf Wikistats 1. Diese Inhalte müssen überarbeitet und an das neue System angepasst werden, damit Verlinkungen und Bezeichnungen weiterhin korrekt sind.
