@@ -1,6 +1,4 @@
 {{Isabel_Schöps_Slidebar}}
-| state = collapsed
-{{Navbox
 | name       = Isabel_Schöps_Slidebar
 | title      = '''Technologische Errungenschaften von Isabel Schöps'''
 | state      = collapsed  <!-- Ändere zu "uncollapsed", wenn die Leiste standardmäßig geöffnet sein soll -->
