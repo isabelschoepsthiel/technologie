@@ -1,0 +1,350 @@
+PRICING SUPPLEMENT
+The Pricing Supplement in respect of each Tranche of Series of Notes will be substantially in the following form, duly supplemented (if necessary), amended (if necessary) and completed to reflect the particular terms of the relevant Notes and their issue.  Text in this section appearing in italics does not form part of the form of the Pricing Supplement but denotes directions for completing the Pricing Supplement.
+[MiFID II product governance/ [●] target market: Solely for the purposes of [the/each] manufacturer's product approval process, the target market assessment in respect of the Notes has led to the conclusion that: (i) the target market for the Notes is [●]; and (ii) [all/the following] channels for distribution of the Notes to [●] are appropriate[: [●]]. Any person subsequently offering, selling or recommending the Notes (a distributor) should take into consideration the manufacturer['s/s'] target market assessment; however, a distributor subject to MiFID II is responsible for undertaking its own target market assessment in respect of the Notes (by either adopting or refining the manufacturer['s/s'] target market assessment) and determining appropriate distribution channels. [The target market assessment is valid for the period of the Offer only.]
+[UK MiFIR Product Governance – Solely for the purposes of [the/each] manufacturer’s product approval process, the target market assessment in respect of the Notes has led to the conclusion that: (i) the target market for the Notes is eligible counterparties, as defined in the FCA Handbook Conduct of Business Sourcebook (“COBS”), professional clients [and retail clients], as defined in Regulation (EU) No 600/2014 as it forms part of domestic law by virtue of the European Union (Withdrawal) Act 2018 (“UK MiFIR”) and (ii) all channels for distribution of the Notes to eligible counterparties, professional clients [and retail clients] are appropriate. [Consider any negative target market]. Any [person subsequently offering, selling or recommending the Notes (a “distributor”)/distributor] should take into consideration the manufacturer[‘s/s’] target market assessment; however, a distributor subject to the FCA Handbook Product Intervention and Product Governance Sourcebook (the “UK MiFIR Product Governance Rules”)  is responsible for undertaking its own target market assessment in respect of the Notes (by either adopting or refining the manufacturer[‘s/s’] target market assessment) and determining appropriate distribution channels.] [The target market assessment is valid for the period of the Offer only.]
+[PROHIBITION OF SALES TO BELGIAN CONSUMERS - Notes issued under the Programme are not intended to be offered, sold to or otherwise made available to and will not be offered, sold or otherwise made available by any Dealer to any Belgian “consumer” (consument/consommateur) within the meaning of the Belgian Code of Economic Law (Wetboek van economisch recht/Code de droit economique) dated 28 February 2013, as amended from time to time.]
+Pricing Supplement dated [      ]
+RÉGION WALLONNE
+Legal Entity Identifier (“LEI”): 529900HPQFHMCG25MZ72
+Issue of [Aggregate Nominal Amount of (Tranche of) Series] [Title of Notes]
+Euro Medium Term Note Programme
+This document constitutes the Pricing Supplement relating to the issue of Notes described herein.
+Terms used herein shall be deemed to be defined as such for the purposes of the Conditions (the Conditions) set forth in the Offering Circular dated 1 October 2024.  The Pricing Supplement contains the final terms of the Notes and must be read in conjunction with the Offering Circular dated 1 October 2024 [(insert if applicable) and the supplemental Offering Circular dated [•]].
+[The following alternative language applies if the first tranche of an issue which is being increased was issued under an Offering Circular with an earlier date.
+Terms used herein shall be deemed to be defined as such for the purposes of the Conditions (the Conditions) set forth in the Offering Circular dated [original date].  This Pricing Supplement contains the final terms of the Notes and must be read in conjunction with the Offering Circular dated [current date], save in respect of the Conditions which are extracted from the Offering Circular dated [original date] and are attached hereto.]
+This Pricing Supplement does not constitute, and may not be used for the purposes of, an offer or solicitation by anyone in any jurisdiction in which such offer or solicitation is not authorised or to any person to whom it is unlawful to make such offer or solicitation, and no action is being taken to permit an offering of the Notes or the distribution of this Pricing Supplement in any jurisdiction where such action is required.  Full information on the Issuer and the offer of the Notes is only available on the basis of the combination of the Pricing Supplement and the Offering Circulars dated [current date] and [original date].
+Nothing has happened as of the date hereof or is expected to happen in relation to the Issuer or the Notes which would require the Offering Circular to be supplemented or updated.
+[Except as disclosed in this document,] there has been no significant change affecting any matter contained in the Offering Circular (including the "Terms and Conditions of the Notes" and including, for the avoidance of doubt, any documents incorporated by reference) whose inclusion would reasonably be required by investors and their professional advisors, and would reasonably be expected to be found by them in the Offering Circular, for the purpose of making an informed assessment of the assets and liabilities financial position and prospects of the Issuer, and the rights attaching to the Notes, since [●].
+[Include whichever of the following apply or specify as "Not Applicable" (N/A).  Note that the numbering should remain as set out below, even if "Not Applicable" is indicated for individual paragraphs or Subparagraphs.  Italics denote directions for completing the Pricing Supplement.]
+ 
+1. Issuer:
+Région wallonne
+2. ​Series Number:
+[          ]
+(i) Tranche Number:
+[          ]
+(If fungible with an existing Series, details of that Series, including the date on which the Notes become fungible).
+3. Specified Currency:
+[          ]
+4. Aggregate Nominal Amount:
+(i) Series:
+[          ]
+(ii) Tranche:
+[          ]
+5. ​Issue Price:
+(i) Net proceeds:
+[          ] per cent. of the Aggregate Nominal Amount [plus accrued interest from [insert date] (in the case of fungible issues only, if applicable)]
+[          ] (Required only for listed issues)]
+6. ​Specified Denominations:
+[         ] (denominations of minimum €100,000 or its equivalent in other currencies.)
+(i) Calculation Amount:
+[          ]
+(If only one Specified Denomination, insert the Specified Denomination.
+If more than one Specified Denomination, insert the highest common factor.  Note: There must be a common factor in the case of two or more Specified Denominations.)
+7. ​Issue Date:
+[          ]
+(i) Interest Commencement Date:
+[specify/Issue Date/Not Applicable] (N.B. An Interest Commencement Date will not be relevant for certain Notes, for example Zero-Coupon Notes).
+8. Maturity Date:
+[Fixed rate – specify date/
+Floating rate – Interest Payment Date falling in or nearest to [specify month]]
+9. Interest Basis:
+[[          ] per cent. Fixed Rate]
+ 
+[[EURIBOR]/ +/- [  ]per cent. Floating Rate]
+[Compounded Daily €STR/ Compounded Daily SOFR/Weighted Average SOFR/Compounded Daily SONIA] ] +/- [  ]per cent. Floating Rate]
+ 
+[Zero-Coupon]
+[Dual Currency Interest]
+ 
+[Index-Linked Interest]
+ 
+[Other (specify)]
+ 
+(further particulars specified below)
+10. Redemption/Payment Basis:
+[Redemption at par]
+ 
+[Index-Linked Redemption]
+ 
+[Instalment]
+ 
+[Other (specify)]
+11. Change of Interest or Redemption/Payment Basis:
+[Specify details of any provision for convertibility of Notes into another interest or redemption/payment basis]
+12. Put/Call Options:
+[Investor Put]
+ 
+[Issuer Call]
+ 
+[(further particulars specified below)]
+13. Status of the Notes:
+Senior/unsecured/unsubordinated Notes
+14. Date approval for issuance of Notes obtained:
+[          ]
+(N.B. Only relevant where specific authorisation is required for the particular tranche of Notes)
+15. Listing:
+[Applications have been made for the Notes to be admitted to listing on the Official List and trading on the regulated market of the Luxembourg Stock Exchange and/or Euronext Brussels /other (specify)/None]
+16. Method of distribution
+[Syndicated/Non-syndicated]
+17. Green, Sustainability and/or Social Bonds:
+ 
+ 
+[the Notes are expected to be a [Green Bond / Sustainability Bond / Social Bond / Green and Social / Green and Sustainability Bond] as from the Issue Date / Not Applicable]
+PROVISIONS RELATING TO INTEREST (IF ANY) PAYABLE
+18. Fixed Rate Note Provisions
+[Applicable/Not Applicable]
+(If not applicable, delete the remaining Subparagraphs of this paragraph)
+(i) Rate[(s)] of Interest:
+[          ] per cent. per annum [payable [annually/semi-annually/quarterly/monthly] in arrear]
+(ii) Interest Payment Date(s):
+[          ] in each year [adjusted in accordance with [specify Business Day Convention and any applicable (Additional) Business Centre(s) for the definition of "Business Day"]/not adjusted]
+(iii) Fixed Coupon Amount[(s)]:
+[          ] per Calculation Amount
+(iv) Day Count Fraction:
+[30/360]/[Actual/Actual (ICMA)]/[If neither of these options applies, give details]
+(v) Broken Amount(s):
+[     ] per Calculation Amount, payable on the Interest Payment Date falling [in/on] [      ] [not applicable]
+(vi) Other terms relating to the method of calculating interest for Fixed Rate Notes:
+[Not Applicable/give details]
+19. Floating Rate Note Provisions
+[Applicable/Not Applicable] (If not applicable, delete the remaining Subparagraphs of this paragraph.)
+(i) Interest Period(s):
+[          ]
+(ii) Specified Interest Payment Dates:
+[          ]
+(iii) First Interest Payment Date:
+[          ]
+(iv) Business Day Convention:
+[Following Business Day Convention/other (give details)]
+(v) Manner in which the Rate(s) of Interest is/are to be determined:
+[Screen Rate Determination/ISDA Determination/other (give details)]
+(vi) Party responsible for calculating the Rate(s) of Interest and Interest Amount(s) (if not the [Paying Agent]):
+[[Name] shall be the Calculation Agent (no need to specify if the Paying Agent is to perform this function)]
+(vii) Screen Rate Determination:
+• Reference Rate:
+[For example EURIBOR/Compounded Daily €STR/ Compounded Daily SOFR/Weighted Average SOFR/Compounded Daily SONIA]
+• Relevant Screen Page:
+[For example, Reuters page Euribor0l]
+• Interest Determination Date(s)
+[          ]
+(second day on which the TARGET System is open prior to the start of each Interest Period if EURIBOR or any other inter-bank offered rate prevailing in a country in which the TARGET System does not apply)
+• Relevant Time:
+[For example, 11.00 a.m. London time/Brussels time]
+• Relevant Financial Centre:
+[For example, London/Euro-zone (where Euro-zone means the region comprised of the countries whose lawful currency is the euro)]
+(viii) ISDA Determination:
+• ISDA Definitions:
+[2006 ISDA Definitions/2021 ISDA Definitions]
+• Floating Rate Option:
+[          ]
+• Designated Maturity:
+[          ]
+• Reset Date:
+[          ]
+(ix) Margin(s):
+[+/-] [     ] per cent. per annum
+(x) Minimum Rate of Interest:
+[          ] per cent. per annum
+(xi) Maximum Rate of Interest:
+[          ] per cent. per annum
+(xii) Day Count Fraction:
+[Actual/Actual (ICMA)]
+[Actual/365 (Fixed)]
+[Actual/360]
+[30/360]
+[30E/360 or Eurobond basis]
+[30E/360 (ISDA)]
+[Other]
+(xiii) Fall back provisions, rounding provisions, denominator and any other terms relating to the method of calculating interest on Floating Rate Notes, if different from those set out in the Conditions;
+[          ]
+20. Zero-Coupon Note Provisions
+[Applicable/Not Applicable] (If not applicable, delete the remaining Subparagraphs of this paragraph)
+(i) [Amortisation/Accrual] Yield:
+[  ] per cent. per annum
+(ii) Reference Price:
+[          ]
+(iii) Any other formula/basis of determining amount payable:
+[          ]
+(iv) Day Count Fraction in relation to Early Redemption Amounts:
+[30/360]
+[Actual/360]
+[Actual/365]
+21. Index-Linked Interest Note Provisions/other variable-linked interest Note Provisions
+[Applicable/Not Applicable] (If not applicable, delete the remaining Subparagraphs of this paragraph)
+(i) Index/Formula/other variable:
+[Give or annex details]
+(ii) Calculation Agent responsible for calculating the interest due:
+[          ]
+(iii) Provisions for determining Coupon where calculated by reference to Index and/or Formula and/or other variable:
+[          ]
+[          ]
+(iv) Interest Determination Date(s):
+[          ]
+(v) Provisions for determining Coupon where calculation by reference to Index and/or Formula and/or other variable is impossible or impracticable or otherwise disrupted:
+[          ]
+(vi) Interest or calculation period(s):
+[          ]
+(vii) Specified Interest Payment Dates
+[          ]
+(viii) Business Day Convention:
+[Following Business Day Convention/other (give details)]
+(ix) Minimum Rate of Interest:
+[          ] per cent. per annum
+(x) Maximum Rate of Interest:
+[          ] per cent. per annum
+(xi) Day Count Fraction:
+[          ]
+22. Range Accrual Notes
+[Applicable/Not Applicable] (If not applicable, delete the remaining Subparagraphs of this paragraph.)
+(i) Interest Period(s):
+[          ]
+(ii) Specified Interest Payment Dates:
+[          ]
+(iii) Business Day Convention:
+[Following Business Day Convention/other (give details)]
+(iv) Manner in which the Rate(s) of Interest is/are to be determined:
+[Screen Rate Determination/ISDA Determination/other (give details)]
+(v) Party responsible for calculating the Rate(s) of Interest and Interest Amount(s) (if not the [Paying Agent]):
+[[Name] shall be the Calculation Agent (no need to specify if the Paying Agent is to perform this function)]
+(vi) Screen Rate Determination:
+• Reference Rate:
+[For example EURIBOR]
+• Relevant Screen Page:
+[For example, Reuters page Euribor0l]
+• Interest Determination Date(s)
+[          ]
+• Relevant Time:
+[For example, 11.00 a.m. London time/Brussels time]
+• Relevant Financial Centre:
+[For example, London/Euro-zone (where Euro-zone means the region comprised of the countries whose lawful currency is the euro)]
+(vii) ISDA Determination:
+• Floating Rate Option:
+[          ]
+• Designated Maturity:
+[          ]
+• Reset Date:
+[          ]
+(viii) Margin(s):
+[+/-] [ ] per cent. per annum
+(ix) Minimum Rate of Interest:
+[          ] per cent. per annum
+(x) Maximum Rate of Interest:
+[          ] per cent. per annum
+(xi) Minimum Range of Interest Rate:
+[          ]
+(xii) Maximum Range of Interest Rate:
+[          ]
+(xiii) Day Count Fraction:
+[          ]
+(xiv) Fall back provisions, rounding provisions, denominator and any other terms relating to the method of calculating interest on Range Accrual Notes, if different from those set out in the Conditions:
+[          ]
+PROVISIONS RELATING TO REDEMPTION
+23. Call Option
+[Applicable/Not Applicable] (If not applicable, delete the remaining Subparagraphs of this paragraph)
+(i) Optional Redemption Date(s):
+[  ]
+(ii) Optional Redemption Amount(s) of each Note and method if any, of calculation of such amount(s):
+[          ] per Calculation Amount
+(iii) If redeemable in part:
+(i) Minimum Redemption Amount
+[          ] per Calculation Amount
+(ii) Maximum Redemption Amount
+[          ] per Calculation Amount
+(iv) Notice period:
+[          ]
+24. Put Option
+[Applicable/Not Applicable] (If not applicable, delete the remaining Subparagraphs of this paragraph)
+(i) Optional Redemption Date(s):
+[          ]
+(ii) Optional Redemption Amount(s) of each Note and method, if any, of calculation of such amount(s):
+[          ] per Calculation Amount
+(iii) Notice period (if other than as set out in the Conditions):
+[          ]
+25. Final Redemption Amount of each Note
+[[  ] per Calculation Amount/other/see Appendix]
+In cases where the Final Redemption Amount is Index-Linked or other variable-linked:
+(i) Index/Formula/variable:
+[give or annex details]
+(ii) Calculation Agent responsible for calculating the Final Redemption Amount:
+[        ]
+(iii) Provisions for determining Final Redemption Amount where calculated by reference to Index and/or Formula and/or other variable:
+[        ]
+(iv) Date for determining Final Redemption Amount where calculation by reference to Index and/or Formula and/or other variable:
+[        ]
+(v) Provisions for determining Final Redemption Amount where calculation by reference to Index and/or Formula and/or other variable is impossible or impracticable or otherwise disrupted:
+[        ]
+(vi) [Payment Date]:
+[        ]
+(vii) Minimum Final Redemption Amount:
+[        ] per Calculation Amount
+(viii) Maximum Final Redemption Amount:
+[        ] per Calculation Amount
+26. Early Redemption Amount of each Note
+Early Redemption Amount(s) payable on event of default and/or the method of calculating the same (if required or if different from that set out in the Conditions)
+[Not Applicable (if the Early Termination Amount is the principal amount of the Notes/specify the Early Termination Amount if different from the principal amount of the Notes)]
+GENERAL PROVISIONS APPLICABLE TO THE NOTES
+27. Form of Notes:
+[The Notes will be issued in dematerialised form governed by the Law of 2 January 1991, as amended from time to time.]
+28. Additional Financial Centre(s) or other special provisions relating to Payment Dates:
+[        ]
+29. Details relating to Instalment Notes:
+[Not Applicable/give details] amount of each instalment, date on which each payment is to be made:
+30. Other terms or special conditions:
+[Not Applicable/give details]
+DISTRIBUTION
+31. ​If syndicated, names of managers:
+[Not Applicable/give names]
+(i) Stabilising Manager (if any):
+[Not Applicable/give name]
+32. If non-syndicated, name of Dealer:
+[Not Applicable/give name]
+33. U.S. Selling Restrictions:
+Reg S [specify any additional restrictions]
+34. TEFRA
+Not Applicable
+35. Additional selling restrictions:
+[Not Applicable/give details]
+36. Prohibition of sales to Belgian Consumers:
+[Applicable / Not Applicable]
+OPERATIONAL INFORMATION
+37. ISIN Code:
+[          ]
+38. [CFI:
+[[See/[[include code], as updated, as set out on] the website of the Association of National Numbering Agencies (ANNA) or alternatively sourced from the responsible National Numbering Agency that assigned the ISIN/Not Applicable/Not Available]
+39. [FISN:
+[[See/[[include code], as updated, as set out on] the website of the Association of National Numbering Agencies (ANNA) or alternatively sourced from the responsible National Numbering Agency that assigned the ISIN/Not Applicable/Not Available]
+40. Common Code:
+[          ]
+41. Any clearing system(s) other than [Securities Settlement System] [Euroclear Bank S.A./N.V., as operator of the Euroclear System and Clearstream Banking AG, Frankfurt and the relevant identification number(s)]:
+[Not Applicable/give name(s) and number(s)]
+42. Delivery:
+Delivery [against/free of] payment [Delivery can only be against payment for Notes denominated in euro]
+43. Additional Paying Agent(s) (if any):
+[          ]
+44. Rating:
+The Issuer has been rated:
+Moody's: [A3 (stable outlook)]
+The Programme has been rated:
+Moody's: [Senior Unsecured (P)A3]
+The Notes to be issued are rated: Moody's: [          ]
+[[●] / [Each of the above agencies] is established in the European Union and registered under Regulation (EC) 1060/2009 of the European Parliament and the Council of 16 September 2009 on credit rating agencies, as amended (the "CRA Regulation"). [●]/[Each of the above agencies] is included in the list of registered credit rating agencies published on the website of the European Securities and Markets Authority (https://www.esma.europa.eu/supervision/credit-rating-agencies/risk) in accordance with the CRA Regulation.] [[●] / [Each of the above agencies] [is certified under the CRA Regulation as it forms part of domestic law of the United Kingdom by virtue of the European Union (Withdrawal) Act 2018 (the "UK CRA Regulation") / The rating[s] given by [[●]/[each of the above agencies]] [has been/will be] endorsed by [●] in accordance with the CRA Regulation as it forms part of domestic law of the United Kingdom by virtue of the European Union (Withdrawal) Act 2018 (the "UK CRA Regulation")].]
+[[●] / [Each of the above agencies] is not established in the European Union and has not applied for registration under the Regulation (EC) No. 1060/2009 (as amended) (the "CRA Regulation"), but [is certified under the CRA Regulation/ the rating[s] given by [[●]/[each of the above agencies]] [has been/will be] endorsed by [●] in accordance with the CRA Regulation].]
+[As such, the rating[s] issued by [[●]/[each of the above agencies]] may be used for regulatory purposes in the [European Union/United Kingdom] in accordance with the [CRA Regulation/UK CRA Regulation].]
+45. Reasons for the Offer and use of proceeds
+[Financing the Issuer's activities]/[Describe specific purpose, including, if relevant, by reference to a green bond framework of the Issuer]
+46. [Relevant Benchmark[s]:
+[Not Applicable]/[[specify benchmark] is provided by [administrator legal name]. As at the date hereof, [administrator legal name][appears]/[does not appear] in the register of administrators and benchmarks established and maintained by ESMA pursuant to Article 36 (Register of administrators and benchmarks) of the Benchmark Regulation.]/[As far as the Issuer is aware, as at the date hereof, [specify benchmark] does not fall within the scope of the Benchmark Regulation.]
+ 
+RESPONSIBILITY
+The Issuer accepts responsibility for the information contained in this Pricing Supplement which, when read together with the Offering Circular (including the documents incorporated therein) [and the Supplemental Offering Circular dated [•]] referred to above, contains all information that is material in the context of the issue of the Notes. [(Relevant third party information) has been extracted from (specify source). The Issuer confirms that such information has been accurately reproduced and that, so far as it is aware, and is able to ascertain from information published by (specify source), no facts have been omitted which would render the reproduced information inaccurate or misleading.]
+Signed on behalf of the Issuer:
+ 
+ 
+ 
+By: ​
+Duly authorised
+EUI-1209719861v4
+1
+ 
+ 
