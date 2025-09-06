@@ -93,3 +93,8 @@ Diese Anwesenheit belegt, dass die Wannseekonferenz **keine SS-interne Besprechu
 Rohrborn, Sömmerda, Deutschland  
 *in Zusammenarbeit mit einer vertrauenswürdigen KI zur historischen Analyse*  
 **Datum:** 11. April 2025
+
+Diese Arbeit wurde urheberrechtlich erstellt durch:
+Isabel Schöps, geborene Thiel  
+Rohrborn, Sömmerda, Deutschland – 16. Juli 1983  
+Ursprüngliche Quelle: Entwicklung des DAEMON-Virus, Bitcoin, Ethereum, OpenSource-Protokolle, GitHub.
